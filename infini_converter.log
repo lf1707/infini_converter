@@ -1,0 +1,1052 @@
+2025-08-25 18:51:56,148 - infini_converter - INFO - Logging enabled
+2025-08-25 18:52:20,448 - infini_converter - INFO - Logging enabled
+2025-08-25 18:52:24,067 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-25 21:20:49,568 - infini_converter - INFO - Logging enabled
+2025-08-25 21:55:41,386 - infini_converter - INFO - Initial settings loaded
+2025-08-25 21:55:47,285 - infini_converter - INFO - Initial settings loaded
+2025-08-25 22:06:26,117 - infini_converter - INFO - Initial settings loaded
+2025-08-25 22:20:47,083 - infini_converter - INFO - Initial settings loaded
+2025-08-25 22:21:23,061 - infini_converter - INFO - Initial settings loaded
+2025-08-26 16:24:16,642 - infini_converter - INFO - Initial settings loaded
+2025-08-26 16:24:27,381 - infini_converter - INFO - Settings saved
+2025-08-26 16:24:31,601 - infini_converter - INFO - Default settings loaded
+2025-08-26 16:47:06,495 - infini_converter - INFO - Initial settings loaded
+2025-08-26 16:47:16,711 - infini_converter - INFO - Saved settings loaded
+2025-08-26 16:47:29,225 - infini_converter - INFO - Settings saved
+2025-08-26 16:47:37,698 - infini_converter - INFO - Saved settings loaded
+2025-08-26 22:46:44,089 - infini_converter - INFO - Initial settings loaded
+2025-08-26 22:46:50,411 - infini_converter - INFO - Found 20 files in /Volumes/H264
+2025-08-26 22:47:01,398 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/H264/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD1
+2025-08-26 22:47:08,707 - infini_converter - INFO - Processing /Volumes/H264/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD1/1979 - Final Cut Knebworth Park 3CD CD1.ape with output directory: /Volumes/H264/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD1
+2025-08-26 22:47:53,410 - infini_converter - INFO - Successfully processed: /Volumes/H264/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD1/1979 - Final Cut Knebworth Park 3CD CD1.ape
+2025-08-26 22:47:53,490 - infini_converter - INFO - Deleted original file: /Volumes/H264/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD1/1979 - Final Cut Knebworth Park 3CD CD1.ape
+2025-08-26 22:47:53,522 - infini_converter - INFO - Processing /Volumes/H264/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD2/1979 - Final Cut Knebworth Park 3CD CD2.ape with output directory: /Volumes/H264/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD2
+2025-08-26 22:48:28,454 - infini_converter - INFO - Successfully processed: /Volumes/H264/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD2/1979 - Final Cut Knebworth Park 3CD CD2.ape
+2025-08-26 22:48:28,522 - infini_converter - INFO - Deleted original file: /Volumes/H264/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD2/1979 - Final Cut Knebworth Park 3CD CD2.ape
+2025-08-26 22:48:28,529 - infini_converter - INFO - Processing /Volumes/H264/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD3/1979 - Final Cut Knebworth Park 3CD CD3.ape with output directory: /Volumes/H264/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD3
+2025-08-26 22:48:55,892 - infini_converter - INFO - Successfully processed: /Volumes/H264/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD3/1979 - Final Cut Knebworth Park 3CD CD3.ape
+2025-08-26 22:48:55,943 - infini_converter - INFO - Deleted original file: /Volumes/H264/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD3/1979 - Final Cut Knebworth Park 3CD CD3.ape
+2025-08-26 22:48:56,015 - infini_converter - INFO - Found 17 files in /Volumes/H264
+2025-08-26 22:48:56,075 - infini_converter - INFO - Processing complete: 3 successful, 0 failed
+2025-08-26 22:49:15,801 - infini_converter - INFO - Found 17 files in /Volumes/H264
+2025-08-26 22:50:09,233 - infini_converter - INFO - Initial settings loaded
+2025-08-26 22:50:11,620 - infini_converter - INFO - Found 17 files in /Volumes/H264
+2025-08-26 22:50:20,264 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/H264/Led Zeppelin/1997 - BBC Sessions/CD1
+2025-08-26 22:50:28,434 - infini_converter - INFO - Processing /Volumes/H264/Led Zeppelin/1997 - BBC Sessions/CD1/1997 - BBC Sessions CD1.ape with output directory: /Volumes/H264/Led Zeppelin/1997 - BBC Sessions/CD1
+2025-08-26 22:51:24,170 - infini_converter - INFO - Successfully processed: /Volumes/H264/Led Zeppelin/1997 - BBC Sessions/CD1/1997 - BBC Sessions CD1.ape
+2025-08-26 22:51:24,251 - infini_converter - INFO - Deleted original file: /Volumes/H264/Led Zeppelin/1997 - BBC Sessions/CD1/1997 - BBC Sessions CD1.ape
+2025-08-26 22:51:24,280 - infini_converter - INFO - Processing /Volumes/H264/Led Zeppelin/1997 - BBC Sessions/cd2/1997 - BBC Sessions cd2.ape with output directory: /Volumes/H264/Led Zeppelin/1997 - BBC Sessions/cd2
+2025-08-26 22:52:18,144 - infini_converter - INFO - Successfully processed: /Volumes/H264/Led Zeppelin/1997 - BBC Sessions/cd2/1997 - BBC Sessions cd2.ape
+2025-08-26 22:52:18,217 - infini_converter - INFO - Deleted original file: /Volumes/H264/Led Zeppelin/1997 - BBC Sessions/cd2/1997 - BBC Sessions cd2.ape
+2025-08-26 22:52:18,223 - infini_converter - INFO - Processing /Volumes/H264/Led Zeppelin/2002 - Early Days/2002 - Early Days.ape with output directory: /Volumes/H264/Led Zeppelin/2002 - Early Days
+2025-08-26 22:53:05,715 - infini_converter - INFO - Successfully processed: /Volumes/H264/Led Zeppelin/2002 - Early Days/2002 - Early Days.ape
+2025-08-26 22:53:05,779 - infini_converter - INFO - Deleted original file: /Volumes/H264/Led Zeppelin/2002 - Early Days/2002 - Early Days.ape
+2025-08-26 22:53:05,787 - infini_converter - INFO - Processing /Volumes/H264/Led Zeppelin/2002 - Latter Days/2002 - Latter Days.ape with output directory: /Volumes/H264/Led Zeppelin/2002 - Latter Days
+2025-08-26 22:53:56,422 - infini_converter - INFO - Successfully processed: /Volumes/H264/Led Zeppelin/2002 - Latter Days/2002 - Latter Days.ape
+2025-08-26 22:53:56,488 - infini_converter - INFO - Deleted original file: /Volumes/H264/Led Zeppelin/2002 - Latter Days/2002 - Latter Days.ape
+2025-08-26 22:53:56,551 - infini_converter - INFO - Found 13 files in /Volumes/H264
+2025-08-26 22:53:56,603 - infini_converter - INFO - Processing complete: 4 successful, 0 failed
+2025-08-26 22:58:23,414 - infini_converter - INFO - Initial settings loaded
+2025-08-27 07:04:30,039 - infini_converter - INFO - Initial settings loaded
+2025-08-27 08:28:41,127 - infini_converter - INFO - Initial settings loaded
+2025-08-27 08:32:34,638 - infini_converter - INFO - Initial settings loaded
+2025-08-27 08:32:39,527 - infini_converter - INFO - Found 9 files in /Volumes/H264 (filtered from 9)
+2025-08-27 08:32:42,094 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/H264
+2025-08-27 08:32:51,529 - infini_converter - INFO - Same as Input disabled
+2025-08-27 08:32:52,329 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/H264/纯FIHI：大提琴示范天碟《鹅仔》Nathaniel Rosen Orientale
+2025-08-27 08:32:59,719 - infini_converter - INFO - Same as Input disabled
+2025-08-27 08:33:00,478 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/H264
+2025-08-27 11:49:11,466 - infini_converter - INFO - Initial settings loaded
+2025-08-27 11:49:19,031 - infini_converter - INFO - Found 4 files in /Volumes/H264 (filtered from 4)
+2025-08-27 12:04:37,523 - infini_converter - INFO - Initial settings loaded
+2025-08-27 12:04:47,784 - infini_converter - INFO - Found 4 files in /Volumes/H264 (filtered from 4)
+2025-08-27 12:04:50,786 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/H264
+2025-08-27 12:05:31,425 - infini_converter - INFO - Processing /Volumes/H264/达明一派/1989-意难平/1989-意难平.ape with output directory: /Volumes/H264/达明一派/1989-意难平
+2025-08-27 12:05:47,242 - infini_converter - ERROR - Failed to process: /Volumes/H264/达明一派/1989-意难平/1989-意难平.ape - Unknown error
+2025-08-27 12:05:47,287 - infini_converter - INFO - Processing /Volumes/H264/达明一派/1989-神经/1989-神经.ape with output directory: /Volumes/H264/达明一派/1989-神经
+2025-08-27 12:05:48,035 - infini_converter - ERROR - Failed to process: /Volumes/H264/达明一派/1989-神经/1989-神经.ape - Unknown error
+2025-08-27 12:05:48,082 - infini_converter - INFO - Processing /Volumes/H264/达明一派/1996-万岁万岁万万岁！/1996-万岁万岁万万岁！.ape with output directory: /Volumes/H264/达明一派/1996-万岁万岁万万岁！
+2025-08-27 12:05:48,876 - infini_converter - ERROR - Failed to process: /Volumes/H264/达明一派/1996-万岁万岁万万岁！/1996-万岁万岁万万岁！.ape - Unknown error
+2025-08-27 12:05:48,926 - infini_converter - INFO - Processing /Volumes/H264/达明一派/1997-万岁万岁万万岁十周年演唱会/1997-万岁万岁万万岁十周年演唱会.ape with output directory: /Volumes/H264/达明一派/1997-万岁万岁万万岁十周年演唱会
+2025-08-27 12:05:49,705 - infini_converter - ERROR - Failed to process: /Volumes/H264/达明一派/1997-万岁万岁万万岁十周年演唱会/1997-万岁万岁万万岁十周年演唱会.ape - Unknown error
+2025-08-27 12:05:49,750 - infini_converter - INFO - Processing complete: 0 successful, 4 failed
+2025-08-27 14:22:11,216 - infini_converter - INFO - Initial settings loaded
+2025-08-27 14:23:05,158 - infini_converter - INFO - Output directory automatically updated to: /Users/lumfranks/Music
+2025-08-27 14:23:05,164 - infini_converter - INFO - Input directory set to: /Users/lumfranks/Music
+2025-08-27 14:23:34,931 - infini_converter - INFO - Found 0 files in /Users/lumfranks/Music (filtered from 0)
+2025-08-27 14:30:13,873 - infini_converter - INFO - Output directory automatically updated to: /Volumes/EVO-512G
+2025-08-27 14:30:13,880 - infini_converter - INFO - Input directory set to: /Volumes/EVO-512G
+2025-08-27 14:30:20,248 - infini_converter - INFO - Found 70 files in /Volumes/EVO-512G (filtered from 70)
+2025-08-27 14:30:23,788 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G
+2025-08-27 14:30:38,189 - infini_converter - INFO - Processing /Volumes/EVO-512G/1993年最佳古典唱片大奖RR天碟：芬尼尔《发烧老祖》(Trittico)/1993年最佳古典唱片大奖RR天碟：芬尼尔《发烧老祖》(Trittico).ape with output directory: /Volumes/EVO-512G/1993年最佳古典唱片大奖RR天碟：芬尼尔《发烧老祖》(Trittico)
+2025-08-27 14:31:43,887 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/1993年最佳古典唱片大奖RR天碟：芬尼尔《发烧老祖》(Trittico)/1993年最佳古典唱片大奖RR天碟：芬尼尔《发烧老祖》(Trittico).ape
+2025-08-27 14:31:43,928 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/1993年最佳古典唱片大奖RR天碟：芬尼尔《发烧老祖》(Trittico)/1993年最佳古典唱片大奖RR天碟：芬尼尔《发烧老祖》(Trittico).ape
+2025-08-27 14:31:44,003 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/[玉置浩二]《酒红色的心》SACD/[玉置浩二]《酒红色的心》SACD.ape with output directory: /Volumes/EVO-512G/Artists/[玉置浩二]《酒红色的心》SACD
+2025-08-27 14:32:57,194 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/[玉置浩二]《酒红色的心》SACD/[玉置浩二]《酒红色的心》SACD.ape
+2025-08-27 14:32:57,234 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/[玉置浩二]《酒红色的心》SACD/[玉置浩二]《酒红色的心》SACD.ape
+2025-08-27 14:32:57,298 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/夏韶声/夏韶声 - My Friend 夏韶声88摇摆精选/夏韶声 - My Friend 夏韶声88摇摆精选.ape with output directory: /Volumes/EVO-512G/Artists/夏韶声/夏韶声 - My Friend 夏韶声88摇摆精选
+2025-08-27 14:33:48,177 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/夏韶声/夏韶声 - My Friend 夏韶声88摇摆精选/夏韶声 - My Friend 夏韶声88摇摆精选.ape
+2025-08-27 14:33:48,223 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/夏韶声/夏韶声 - My Friend 夏韶声88摇摆精选/夏韶声 - My Friend 夏韶声88摇摆精选.ape
+2025-08-27 14:33:48,283 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/夏韶声/夏韶声.-.[谙Ⅲ]/夏韶声.-.[谙Ⅲ].ape with output directory: /Volumes/EVO-512G/Artists/夏韶声/夏韶声.-.[谙Ⅲ]
+2025-08-27 14:34:33,780 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/夏韶声/夏韶声.-.[谙Ⅲ]/夏韶声.-.[谙Ⅲ].ape
+2025-08-27 14:34:33,824 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/夏韶声/夏韶声.-.[谙Ⅲ]/夏韶声.-.[谙Ⅲ].ape
+2025-08-27 14:34:33,891 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/夏韶声/（XRCD24）夏韶声-谙2/（XRCD24）夏韶声-谙2.ape with output directory: /Volumes/EVO-512G/Artists/夏韶声/（XRCD24）夏韶声-谙2
+2025-08-27 14:35:27,717 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/夏韶声/（XRCD24）夏韶声-谙2/（XRCD24）夏韶声-谙2.ape
+2025-08-27 14:35:27,754 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/夏韶声/（XRCD24）夏韶声-谙2/（XRCD24）夏韶声-谙2.ape
+2025-08-27 14:35:27,821 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/夏韶声/（XRCD24）谙1-夏韶声/谙1-夏韶声.ape with output directory: /Volumes/EVO-512G/Artists/夏韶声/（XRCD24）谙1-夏韶声
+2025-08-27 14:36:06,328 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/夏韶声/（XRCD24）谙1-夏韶声/谙1-夏韶声.ape
+2025-08-27 14:36:06,359 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/夏韶声/（XRCD24）谙1-夏韶声/谙1-夏韶声.ape
+2025-08-27 14:36:06,406 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/璀璨的邓丽君·纪念版/璀璨的邓丽君·纪念版.ape with output directory: /Volumes/EVO-512G/Artists/璀璨的邓丽君·纪念版
+2025-08-27 14:37:22,432 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/璀璨的邓丽君·纪念版/璀璨的邓丽君·纪念版.ape
+2025-08-27 14:37:22,471 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/璀璨的邓丽君·纪念版/璀璨的邓丽君·纪念版.ape
+2025-08-27 14:37:22,522 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/蔡楓華白金珍藏版[澳洲版]/蔡楓華白金珍藏版[澳洲版].ape with output directory: /Volumes/EVO-512G/Artists/蔡楓華白金珍藏版[澳洲版]
+2025-08-27 14:38:35,549 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/蔡楓華白金珍藏版[澳洲版]/蔡楓華白金珍藏版[澳洲版].ape
+2025-08-27 14:38:35,590 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/蔡楓華白金珍藏版[澳洲版]/蔡楓華白金珍藏版[澳洲版].ape
+2025-08-27 14:38:35,644 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/蔡琴/蔡琴 - 恰似你的温柔/菜琴：恰似你的温柔(台湾原版).ape with output directory: /Volumes/EVO-512G/Artists/蔡琴/蔡琴 - 恰似你的温柔
+2025-08-27 14:39:21,991 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/蔡琴/蔡琴 - 恰似你的温柔/菜琴：恰似你的温柔(台湾原版).ape
+2025-08-27 14:39:22,025 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/蔡琴/蔡琴 - 恰似你的温柔/菜琴：恰似你的温柔(台湾原版).ape
+2025-08-27 14:39:22,083 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/蔡琴/蔡琴 - 此情可待/蔡琴-此情可待(1984絕版首版).ape with output directory: /Volumes/EVO-512G/Artists/蔡琴/蔡琴 - 此情可待
+2025-08-27 14:39:55,541 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/蔡琴/蔡琴 - 此情可待/蔡琴-此情可待(1984絕版首版).ape
+2025-08-27 14:39:55,575 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/蔡琴/蔡琴 - 此情可待/蔡琴-此情可待(1984絕版首版).ape
+2025-08-27 14:39:55,625 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/许巍/时光漫步/许巍－时光漫步.ape with output directory: /Volumes/EVO-512G/Artists/许巍/时光漫步
+2025-08-27 14:40:40,627 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/许巍/时光漫步/许巍－时光漫步.ape
+2025-08-27 14:40:40,660 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/许巍/时光漫步/许巍－时光漫步.ape
+2025-08-27 14:40:40,712 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/许巍/许巍&田震《平分秋色》/平分秋色.ape with output directory: /Volumes/EVO-512G/Artists/许巍/许巍&田震《平分秋色》
+2025-08-27 14:41:20,746 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/许巍/许巍&田震《平分秋色》/平分秋色.ape
+2025-08-27 14:41:20,777 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/许巍/许巍&田震《平分秋色》/平分秋色.ape
+2025-08-27 14:41:20,822 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD11 圣诞结.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:41:26,434 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD11 圣诞结.ape
+2025-08-27 14:41:26,450 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD11 圣诞结.ape
+2025-08-27 14:41:26,494 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD12 Shall We Talk.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:41:31,134 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD12 Shall We Talk.ape
+2025-08-27 14:41:31,146 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD12 Shall We Talk.ape
+2025-08-27 14:41:31,186 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD13 寂寞让你更快乐.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:41:36,668 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD13 寂寞让你更快乐.ape
+2025-08-27 14:41:36,684 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD13 寂寞让你更快乐.ape
+2025-08-27 14:41:36,727 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD14 K歌之王.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:41:41,359 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD14 K歌之王.ape
+2025-08-27 14:41:41,373 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD14 K歌之王.ape
+2025-08-27 14:41:41,413 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD15 想哭.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:41:46,378 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD15 想哭.ape
+2025-08-27 14:41:46,393 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD15 想哭.ape
+2025-08-27 14:41:46,439 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD16 爱是怀疑.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:41:51,905 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD16 爱是怀疑.ape
+2025-08-27 14:41:51,920 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD16 爱是怀疑.ape
+2025-08-27 14:41:51,963 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD17 十年.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:41:56,571 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD17 十年.ape
+2025-08-27 14:41:56,585 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD17 十年.ape
+2025-08-27 14:41:56,626 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD18 不如这样.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:42:02,156 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD18 不如这样.ape
+2025-08-27 14:42:02,171 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD18 不如这样.ape
+2025-08-27 14:42:02,210 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD19 谢谢侬.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:42:07,449 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD19 谢谢侬.ape
+2025-08-27 14:42:07,464 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD19 谢谢侬.ape
+2025-08-27 14:42:07,509 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD21 你的背包.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:42:12,703 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD21 你的背包.ape
+2025-08-27 14:42:12,719 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD21 你的背包.ape
+2025-08-27 14:42:12,759 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD22 低等動物.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:42:18,098 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD22 低等動物.ape
+2025-08-27 14:42:18,113 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD22 低等動物.ape
+2025-08-27 14:42:18,158 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD23 男人的錯.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:42:22,974 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD23 男人的錯.ape
+2025-08-27 14:42:22,990 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD23 男人的錯.ape
+2025-08-27 14:42:23,032 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD24 LAST ORDER.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:42:27,778 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD24 LAST ORDER.ape
+2025-08-27 14:42:27,790 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD24 LAST ORDER.ape
+2025-08-27 14:42:27,830 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD25 沒有手機的日子.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:42:33,906 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD25 沒有手機的日子.ape
+2025-08-27 14:42:33,922 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD25 沒有手機的日子.ape
+2025-08-27 14:42:33,964 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD26 要你的.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:42:38,834 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD26 要你的.ape
+2025-08-27 14:42:38,850 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD26 要你的.ape
+2025-08-27 14:42:38,892 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD27 全世界失眠.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:42:43,803 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD27 全世界失眠.ape
+2025-08-27 14:42:43,818 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD27 全世界失眠.ape
+2025-08-27 14:42:43,860 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD28 兄妹.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:42:48,361 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD28 兄妹.ape
+2025-08-27 14:42:48,374 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD28 兄妹.ape
+2025-08-27 14:42:48,415 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD29 我們都寂寞.ape with output directory: /Volumes/EVO-512G/Artists/陈奕迅/七
+2025-08-27 14:42:54,226 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD29 我們都寂寞.ape
+2025-08-27 14:42:54,241 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陈奕迅/七/陈奕迅 七 2CD CD29 我們都寂寞.ape
+2025-08-27 14:42:54,290 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/陳淑樺-精選/陳淑樺-精選.ape with output directory: /Volumes/EVO-512G/Artists/陳淑樺-精選
+2025-08-27 14:43:45,680 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/陳淑樺-精選/陳淑樺-精選.ape
+2025-08-27 14:43:45,713 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/陳淑樺-精選/陳淑樺-精選.ape
+2025-08-27 14:43:45,762 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/高桥真梨子Mariko Soungs Collection 1CD/CD1/高橋真梨子 - Mariko Soungs Collection cd1.ape with output directory: /Volumes/EVO-512G/Artists/高桥真梨子Mariko Soungs Collection 1CD/CD1
+2025-08-27 14:45:04,291 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/高桥真梨子Mariko Soungs Collection 1CD/CD1/高橋真梨子 - Mariko Soungs Collection cd1.ape
+2025-08-27 14:45:04,336 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/高桥真梨子Mariko Soungs Collection 1CD/CD1/高橋真梨子 - Mariko Soungs Collection cd1.ape
+2025-08-27 14:45:04,378 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 01 Boogie Woogie Bugle Boy.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:04,828 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 01 Boogie Woogie Bugle Boy.ape - Unknown error
+2025-08-27 14:45:04,862 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 02 专测铜管Slap Happy.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:05,384 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 02 专测铜管Slap Happy.ape - Unknown error
+2025-08-27 14:45:05,420 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 03 专测铜管Braggin' in Brass.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:05,773 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 03 专测铜管Braggin' in Brass.ape - Unknown error
+2025-08-27 14:45:05,811 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 04 专测铜管St. James Infirmary.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:06,288 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 04 专测铜管St. James Infirmary.ape - Unknown error
+2025-08-27 14:45:06,327 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 05 专测铜管Bugle Call Rag.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:06,792 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 05 专测铜管Bugle Call Rag.ape - Unknown error
+2025-08-27 14:45:06,828 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 06 专测铜管Boy Meets Horn.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:07,283 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 06 专测铜管Boy Meets Horn.ape - Unknown error
+2025-08-27 14:45:07,321 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 07 专测铜管Blue Skies.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:07,800 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 07 专测铜管Blue Skies.ape - Unknown error
+2025-08-27 14:45:07,833 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 08 专测铜管Ain't Misbehavin'.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:08,298 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 08 专测铜管Ain't Misbehavin'.ape - Unknown error
+2025-08-27 14:45:08,336 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 09 专测铜管I'm Getting Sentimental over You.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:08,659 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 09 专测铜管I'm Getting Sentimental over You.ape - Unknown error
+2025-08-27 14:45:08,697 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 10 专测铜管One O'Clock Jump.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:09,001 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 10 专测铜管One O'Clock Jump.ape - Unknown error
+2025-08-27 14:45:09,038 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 11 专测铜管Leader of the Big Time Band.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:09,503 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 11 专测铜管Leader of the Big Time Band.ape - Unknown error
+2025-08-27 14:45:09,542 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 12 专测铜管I Must Have That Man!.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:10,012 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 12 专测铜管I Must Have That Man!.ape - Unknown error
+2025-08-27 14:45:10,050 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 13 专测铜管Skit-Dat-De-Dat.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:10,514 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 13 专测铜管Skit-Dat-De-Dat.ape - Unknown error
+2025-08-27 14:45:10,552 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 14 专测铜管Jungle Nights in Harlem.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:11,050 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 14 专测铜管Jungle Nights in Harlem.ape - Unknown error
+2025-08-27 14:45:11,087 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 15 专测铜管Black and Blue.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:11,556 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 15 专测铜管Black and Blue.ape - Unknown error
+2025-08-27 14:45:11,594 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 16 专测铜管When the Saints Go Marching In.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:12,069 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 16 专测铜管When the Saints Go Marching In.ape - Unknown error
+2025-08-27 14:45:12,108 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 17 专测铜管Black Bottom Stomp.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 14:45:12,601 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 17 专测铜管Black Bottom Stomp.ape - Unknown error
+2025-08-27 14:45:12,649 - infini_converter - INFO - Processing /Volumes/EVO-512G/Deutsche Grammophon《The Yellow Guide》(3CD)/CD.1/Deutsche Grammophon《The Yellow Guide》(3CD) CD.1.ape with output directory: /Volumes/EVO-512G/Deutsche Grammophon《The Yellow Guide》(3CD)/CD.1
+2025-08-27 14:46:30,760 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Deutsche Grammophon《The Yellow Guide》(3CD)/CD.1/Deutsche Grammophon《The Yellow Guide》(3CD) CD.1.ape
+2025-08-27 14:46:30,801 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Deutsche Grammophon《The Yellow Guide》(3CD)/CD.1/Deutsche Grammophon《The Yellow Guide》(3CD) CD.1.ape
+2025-08-27 14:46:30,854 - infini_converter - INFO - Processing /Volumes/EVO-512G/Deutsche Grammophon《The Yellow Guide》(3CD)/CD.2/Deutsche Grammophon《The Yellow Guide》(3CD) CD.2.ape with output directory: /Volumes/EVO-512G/Deutsche Grammophon《The Yellow Guide》(3CD)/CD.2
+2025-08-27 14:47:50,570 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Deutsche Grammophon《The Yellow Guide》(3CD)/CD.2/Deutsche Grammophon《The Yellow Guide》(3CD) CD.2.ape
+2025-08-27 14:47:50,610 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Deutsche Grammophon《The Yellow Guide》(3CD)/CD.2/Deutsche Grammophon《The Yellow Guide》(3CD) CD.2.ape
+2025-08-27 14:47:50,665 - infini_converter - INFO - Processing /Volumes/EVO-512G/Deutsche Grammophon《The Yellow Guide》(3CD)/CD.3/Deutsche Grammophon《The Yellow Guide》(3CD) CD.3.ape with output directory: /Volumes/EVO-512G/Deutsche Grammophon《The Yellow Guide》(3CD)/CD.3
+2025-08-27 14:49:02,290 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Deutsche Grammophon《The Yellow Guide》(3CD)/CD.3/Deutsche Grammophon《The Yellow Guide》(3CD) CD.3.ape
+2025-08-27 14:49:02,333 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Deutsche Grammophon《The Yellow Guide》(3CD)/CD.3/Deutsche Grammophon《The Yellow Guide》(3CD) CD.3.ape
+2025-08-27 14:49:02,378 - infini_converter - INFO - Processing /Volumes/EVO-512G/John Bruce Yeh - Ebony Concerto - 单簧管/John Bruce Yeh - Ebony Concerto.ape with output directory: /Volumes/EVO-512G/John Bruce Yeh - Ebony Concerto - 单簧管
+2025-08-27 14:49:45,612 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/John Bruce Yeh - Ebony Concerto - 单簧管/John Bruce Yeh - Ebony Concerto.ape
+2025-08-27 14:49:45,636 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/John Bruce Yeh - Ebony Concerto - 单簧管/John Bruce Yeh - Ebony Concerto.ape
+2025-08-27 14:49:45,670 - infini_converter - INFO - Processing /Volumes/EVO-512G/Lori Lieberman - A Thousand Dreams - 民谣美声/A Thousand Dreams.ape with output directory: /Volumes/EVO-512G/Lori Lieberman - A Thousand Dreams - 民谣美声
+2025-08-27 14:50:22,457 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Lori Lieberman - A Thousand Dreams - 民谣美声/A Thousand Dreams.ape
+2025-08-27 14:50:22,477 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Lori Lieberman - A Thousand Dreams - 民谣美声/A Thousand Dreams.ape
+2025-08-27 14:50:22,496 - infini_converter - INFO - Processing /Volumes/EVO-512G/Nightwish/1997-Angels Fall First/1997-Angels Fall First.ape with output directory: /Volumes/EVO-512G/Nightwish/1997-Angels Fall First
+2025-08-27 14:51:07,604 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Nightwish/1997-Angels Fall First/1997-Angels Fall First.ape
+2025-08-27 14:51:07,636 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Nightwish/1997-Angels Fall First/1997-Angels Fall First.ape
+2025-08-27 14:51:07,670 - infini_converter - INFO - Processing /Volumes/EVO-512G/Nightwish/2000-Wishmaster + 单曲试听/2000-Wishmaster + 单曲试听.ape with output directory: /Volumes/EVO-512G/Nightwish/2000-Wishmaster + 单曲试听
+2025-08-27 14:52:08,419 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Nightwish/2000-Wishmaster + 单曲试听/2000-Wishmaster + 单曲试听.ape
+2025-08-27 14:52:08,462 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Nightwish/2000-Wishmaster + 单曲试听/2000-Wishmaster + 单曲试听.ape
+2025-08-27 14:52:08,518 - infini_converter - INFO - Processing /Volumes/EVO-512G/Nightwish/2002-Century Child + 单曲试听/2002-Century Child + 单曲试听.ape with output directory: /Volumes/EVO-512G/Nightwish/2002-Century Child + 单曲试听
+2025-08-27 14:53:13,732 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Nightwish/2002-Century Child + 单曲试听/2002-Century Child + 单曲试听.ape
+2025-08-27 14:53:13,777 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Nightwish/2002-Century Child + 单曲试听/2002-Century Child + 单曲试听.ape
+2025-08-27 14:53:13,806 - infini_converter - INFO - Processing /Volumes/EVO-512G/Nightwish/2002-Century Child/2002-Century Child.ape with output directory: /Volumes/EVO-512G/Nightwish/2002-Century Child
+2025-08-27 14:54:19,656 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Nightwish/2002-Century Child/2002-Century Child.ape
+2025-08-27 14:54:19,710 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Nightwish/2002-Century Child/2002-Century Child.ape
+2025-08-27 14:54:19,730 - infini_converter - INFO - Processing /Volumes/EVO-512G/Nightwish/2004-ONCE/2004-ONCE.ape with output directory: /Volumes/EVO-512G/Nightwish/2004-ONCE
+2025-08-27 14:55:12,035 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Nightwish/2004-ONCE/2004-ONCE.ape
+2025-08-27 14:55:12,073 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Nightwish/2004-ONCE/2004-ONCE.ape
+2025-08-27 14:55:12,096 - infini_converter - INFO - Processing /Volumes/EVO-512G/Nightwish/2005-Highest HopesThe Best of Nightwish 2CD/Disc 1/Disc 1.ape with output directory: /Volumes/EVO-512G/Nightwish/2005-Highest HopesThe Best of Nightwish 2CD/Disc 1
+2025-08-27 14:56:14,746 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Nightwish/2005-Highest HopesThe Best of Nightwish 2CD/Disc 1/Disc 1.ape
+2025-08-27 14:56:14,804 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Nightwish/2005-Highest HopesThe Best of Nightwish 2CD/Disc 1/Disc 1.ape
+2025-08-27 14:56:14,824 - infini_converter - INFO - Processing /Volumes/EVO-512G/Nightwish/2005-Highest HopesThe Best of Nightwish 2CD/Disc 2/Disc 2.ape with output directory: /Volumes/EVO-512G/Nightwish/2005-Highest HopesThe Best of Nightwish 2CD/Disc 2
+2025-08-27 14:56:44,513 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Nightwish/2005-Highest HopesThe Best of Nightwish 2CD/Disc 2/Disc 2.ape
+2025-08-27 14:56:44,536 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Nightwish/2005-Highest HopesThe Best of Nightwish 2CD/Disc 2/Disc 2.ape
+2025-08-27 14:56:44,555 - infini_converter - INFO - Processing /Volumes/EVO-512G/Nightwish/2005-Highest HopesThe Best of Nightwish/2005-Highest HopesThe Best of Nightwish.ape with output directory: /Volumes/EVO-512G/Nightwish/2005-Highest HopesThe Best of Nightwish
+2025-08-27 14:57:47,549 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Nightwish/2005-Highest HopesThe Best of Nightwish/2005-Highest HopesThe Best of Nightwish.ape
+2025-08-27 14:57:47,614 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Nightwish/2005-Highest HopesThe Best of Nightwish/2005-Highest HopesThe Best of Nightwish.ape
+2025-08-27 14:57:47,638 - infini_converter - INFO - Processing /Volumes/EVO-512G/Nightwish/2007-Dark Passion Play/2007-Dark Passion Play.ape with output directory: /Volumes/EVO-512G/Nightwish/2007-Dark Passion Play
+2025-08-27 14:58:58,948 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Nightwish/2007-Dark Passion Play/2007-Dark Passion Play.ape
+2025-08-27 14:58:59,004 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Nightwish/2007-Dark Passion Play/2007-Dark Passion Play.ape
+2025-08-27 14:58:59,023 - infini_converter - INFO - Processing /Volumes/EVO-512G/Nightwish/2009-Made In Hong Kong/2009-Made In Hong Kong.ape with output directory: /Volumes/EVO-512G/Nightwish/2009-Made In Hong Kong
+2025-08-27 14:59:57,461 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Nightwish/2009-Made In Hong Kong/2009-Made In Hong Kong.ape
+2025-08-27 14:59:57,507 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Nightwish/2009-Made In Hong Kong/2009-Made In Hong Kong.ape
+2025-08-27 14:59:57,552 - infini_converter - INFO - Processing /Volumes/EVO-512G/The All Star Percussion Ensemble-敲击卡门-刘汉盛榜单NO.69/The all star percussion ensemble.ape with output directory: /Volumes/EVO-512G/The All Star Percussion Ensemble-敲击卡门-刘汉盛榜单NO.69
+2025-08-27 15:00:29,768 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/The All Star Percussion Ensemble-敲击卡门-刘汉盛榜单NO.69/The all star percussion ensemble.ape
+2025-08-27 15:00:29,784 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/The All Star Percussion Ensemble-敲击卡门-刘汉盛榜单NO.69/The all star percussion ensemble.ape
+2025-08-27 15:00:29,817 - infini_converter - INFO - Processing /Volumes/EVO-512G/Unlikely Silhouettes 打击乐－卡门/Unlikely Silhouettes.ape with output directory: /Volumes/EVO-512G/Unlikely Silhouettes 打击乐－卡门
+2025-08-27 15:01:12,091 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Unlikely Silhouettes 打击乐－卡门/Unlikely Silhouettes.ape
+2025-08-27 15:01:12,115 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Unlikely Silhouettes 打击乐－卡门/Unlikely Silhouettes.ape
+2025-08-27 15:01:12,165 - infini_converter - INFO - Processing /Volumes/EVO-512G/一种真实的清晰的音色传递《定位感·南海姑娘 DSD》/一种真实的清晰的音色传递《定位感·南海姑娘 DSD》.ape with output directory: /Volumes/EVO-512G/一种真实的清晰的音色传递《定位感·南海姑娘 DSD》
+2025-08-27 15:01:52,993 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/一种真实的清晰的音色传递《定位感·南海姑娘 DSD》/一种真实的清晰的音色传递《定位感·南海姑娘 DSD》.ape
+2025-08-27 15:01:53,034 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/一种真实的清晰的音色传递《定位感·南海姑娘 DSD》/一种真实的清晰的音色传递《定位感·南海姑娘 DSD》.ape
+2025-08-27 15:01:53,107 - infini_converter - INFO - Processing /Volumes/EVO-512G/刘汉盛榜单NO.66-Trumpet Spectacular-辉煌壮丽的小号-专测铜管/Trumpet Spectacular.ape with output directory: /Volumes/EVO-512G/刘汉盛榜单NO.66-Trumpet Spectacular-辉煌壮丽的小号-专测铜管
+2025-08-27 15:02:49,636 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/刘汉盛榜单NO.66-Trumpet Spectacular-辉煌壮丽的小号-专测铜管/Trumpet Spectacular.ape
+2025-08-27 15:02:49,671 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/刘汉盛榜单NO.66-Trumpet Spectacular-辉煌壮丽的小号-专测铜管/Trumpet Spectacular.ape
+2025-08-27 15:02:49,715 - infini_converter - INFO - Processing /Volumes/EVO-512G/刘汉盛榜单NO.68-JamesCampbell - StolenGems-专测木管/JamesCampbell - StolenGems.ape with output directory: /Volumes/EVO-512G/刘汉盛榜单NO.68-JamesCampbell - StolenGems-专测木管
+2025-08-27 15:03:29,104 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/刘汉盛榜单NO.68-JamesCampbell - StolenGems-专测木管/JamesCampbell - StolenGems.ape
+2025-08-27 15:03:29,126 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/刘汉盛榜单NO.68-JamesCampbell - StolenGems-专测木管/JamesCampbell - StolenGems.ape
+2025-08-27 15:03:29,177 - infini_converter - INFO - Processing /Volumes/EVO-512G/刘汉盛榜单NO.72-Gate Ved Gate玫瑰仙子金曲集-专测人声/Gate Ved Gate.ape with output directory: /Volumes/EVO-512G/刘汉盛榜单NO.72-Gate Ved Gate玫瑰仙子金曲集-专测人声
+2025-08-27 15:04:00,253 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/刘汉盛榜单NO.72-Gate Ved Gate玫瑰仙子金曲集-专测人声/Gate Ved Gate.ape
+2025-08-27 15:04:00,276 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/刘汉盛榜单NO.72-Gate Ved Gate玫瑰仙子金曲集-专测人声/Gate Ved Gate.ape
+2025-08-27 15:04:00,316 - infini_converter - INFO - Processing complete: 53 successful, 17 failed
+2025-08-27 15:06:24,081 - infini_converter - INFO - Logging enabled
+2025-08-27 15:07:23,016 - infini_converter - INFO - Found 17 files in /Volumes/EVO-512G (filtered from 17)
+2025-08-27 15:07:53,641 - infini_converter - INFO - Same as Input disabled
+2025-08-27 15:07:54,114 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:08:34,497 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 01 Boogie Woogie Bugle Boy.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:08:34,770 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 01 Boogie Woogie Bugle Boy.ape - Unknown error
+2025-08-27 15:08:34,803 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 15:11:42,581 - infini_converter - INFO - Initial settings loaded
+2025-08-27 15:11:57,155 - infini_converter - INFO - Output directory automatically updated to: /Volumes/EVO-512G
+2025-08-27 15:11:57,161 - infini_converter - INFO - Input directory set to: /Volumes/EVO-512G
+2025-08-27 15:12:00,470 - infini_converter - INFO - Found 17 files in /Volumes/EVO-512G (filtered from 17)
+2025-08-27 15:12:04,220 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:12:08,994 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 01 Boogie Woogie Bugle Boy.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:12:09,602 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 01 Boogie Woogie Bugle Boy.ape - Unknown error
+2025-08-27 15:12:09,634 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 15:25:10,028 - infini_converter - INFO - Initial settings loaded
+2025-08-27 15:25:29,138 - infini_converter - INFO - Output directory automatically updated to: /Volumes/EVO-512G
+2025-08-27 15:25:29,146 - infini_converter - INFO - Input directory set to: /Volumes/EVO-512G
+2025-08-27 15:25:31,327 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G
+2025-08-27 15:25:34,478 - infini_converter - INFO - Found 17 files in /Volumes/EVO-512G (filtered from 17)
+2025-08-27 15:25:44,788 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 01 Boogie Woogie Bugle Boy.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:45,480 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 01 Boogie Woogie Bugle Boy.ape - Unknown error
+2025-08-27 15:25:45,511 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 02 专测铜管Slap Happy.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:45,792 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 02 专测铜管Slap Happy.ape - Unknown error
+2025-08-27 15:25:45,827 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 03 专测铜管Braggin' in Brass.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:46,109 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 03 专测铜管Braggin' in Brass.ape - Unknown error
+2025-08-27 15:25:46,143 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 04 专测铜管St. James Infirmary.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:46,448 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 04 专测铜管St. James Infirmary.ape - Unknown error
+2025-08-27 15:25:46,487 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 05 专测铜管Bugle Call Rag.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:46,770 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 05 专测铜管Bugle Call Rag.ape - Unknown error
+2025-08-27 15:25:46,806 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 06 专测铜管Boy Meets Horn.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:47,086 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 06 专测铜管Boy Meets Horn.ape - Unknown error
+2025-08-27 15:25:47,123 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 07 专测铜管Blue Skies.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:47,402 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 07 专测铜管Blue Skies.ape - Unknown error
+2025-08-27 15:25:47,437 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 08 专测铜管Ain't Misbehavin'.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:47,745 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 08 专测铜管Ain't Misbehavin'.ape - Unknown error
+2025-08-27 15:25:47,779 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 09 专测铜管I'm Getting Sentimental over You.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:48,067 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 09 专测铜管I'm Getting Sentimental over You.ape - Unknown error
+2025-08-27 15:25:48,104 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 10 专测铜管One O'Clock Jump.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:48,390 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 10 专测铜管One O'Clock Jump.ape - Unknown error
+2025-08-27 15:25:48,425 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 11 专测铜管Leader of the Big Time Band.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:48,705 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 11 专测铜管Leader of the Big Time Band.ape - Unknown error
+2025-08-27 15:25:48,741 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 12 专测铜管I Must Have That Man!.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:49,019 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 12 专测铜管I Must Have That Man!.ape - Unknown error
+2025-08-27 15:25:49,055 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 13 专测铜管Skit-Dat-De-Dat.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:49,355 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 13 专测铜管Skit-Dat-De-Dat.ape - Unknown error
+2025-08-27 15:25:49,390 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 14 专测铜管Jungle Nights in Harlem.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:49,692 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 14 专测铜管Jungle Nights in Harlem.ape - Unknown error
+2025-08-27 15:25:49,729 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 15 专测铜管Black and Blue.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:50,011 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 15 专测铜管Black and Blue.ape - Unknown error
+2025-08-27 15:25:50,046 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 16 专测铜管When the Saints Go Marching In.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:50,333 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 16 专测铜管When the Saints Go Marching In.ape - Unknown error
+2025-08-27 15:25:50,370 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 17 专测铜管Black Bottom Stomp.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:25:50,671 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 17 专测铜管Black Bottom Stomp.ape - Unknown error
+2025-08-27 15:25:50,705 - infini_converter - INFO - Processing complete: 0 successful, 17 failed
+2025-08-27 15:25:56,897 - infini_converter - INFO - Logging enabled
+2025-08-27 15:34:01,596 - infini_converter - INFO - Initial settings loaded
+2025-08-27 15:34:09,267 - infini_converter - INFO - Output directory automatically updated to: /Volumes/EVO-512G
+2025-08-27 15:34:09,273 - infini_converter - INFO - Input directory set to: /Volumes/EVO-512G
+2025-08-27 15:34:11,493 - infini_converter - INFO - Settings saved
+2025-08-27 15:34:13,234 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G
+2025-08-27 15:34:16,010 - infini_converter - INFO - Found 17 files in /Volumes/EVO-512G (filtered from 17)
+2025-08-27 15:34:24,192 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 01 Boogie Woogie Bugle Boy.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:34:27,991 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 01 Boogie Woogie Bugle Boy.ape
+2025-08-27 15:34:28,001 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 01 Boogie Woogie Bugle Boy.ape
+2025-08-27 15:34:28,045 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-27 15:34:30,278 - infini_converter - INFO - Logging enabled
+2025-08-27 15:34:43,985 - infini_converter - INFO - Found 16 files in /Volumes/EVO-512G (filtered from 16)
+2025-08-27 15:34:50,824 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 02 专测铜管Slap Happy.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:34:53,841 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 02 专测铜管Slap Happy.ape
+2025-08-27 15:34:53,850 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 02 专测铜管Slap Happy.ape
+2025-08-27 15:34:53,861 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 03 专测铜管Braggin' in Brass.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:34:57,113 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 03 专测铜管Braggin' in Brass.ape
+2025-08-27 15:34:57,131 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 03 专测铜管Braggin' in Brass.ape
+2025-08-27 15:34:57,153 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 04 专测铜管St. James Infirmary.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:35:01,268 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 04 专测铜管St. James Infirmary.ape
+2025-08-27 15:35:01,278 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 04 专测铜管St. James Infirmary.ape
+2025-08-27 15:35:01,289 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 05 专测铜管Bugle Call Rag.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:35:04,625 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 05 专测铜管Bugle Call Rag.ape
+2025-08-27 15:35:04,633 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 05 专测铜管Bugle Call Rag.ape
+2025-08-27 15:35:04,646 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 06 专测铜管Boy Meets Horn.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:35:07,266 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 06 专测铜管Boy Meets Horn.ape
+2025-08-27 15:35:07,275 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 06 专测铜管Boy Meets Horn.ape
+2025-08-27 15:35:07,287 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 07 专测铜管Blue Skies.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:36:10,697 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 07 专测铜管Blue Skies.ape
+2025-08-27 15:36:10,704 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 07 专测铜管Blue Skies.ape
+2025-08-27 15:36:10,717 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 08 专测铜管Ain't Misbehavin'.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:36:13,112 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 08 专测铜管Ain't Misbehavin'.ape
+2025-08-27 15:36:13,131 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 08 专测铜管Ain't Misbehavin'.ape
+2025-08-27 15:36:13,154 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 09 专测铜管I'm Getting Sentimental over You.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:36:16,134 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 09 专测铜管I'm Getting Sentimental over You.ape
+2025-08-27 15:36:16,142 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 09 专测铜管I'm Getting Sentimental over You.ape
+2025-08-27 15:36:16,153 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 10 专测铜管One O'Clock Jump.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:36:21,230 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 10 专测铜管One O'Clock Jump.ape
+2025-08-27 15:36:21,238 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 10 专测铜管One O'Clock Jump.ape
+2025-08-27 15:36:21,247 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 11 专测铜管Leader of the Big Time Band.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:36:23,179 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 11 专测铜管Leader of the Big Time Band.ape
+2025-08-27 15:36:23,187 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 11 专测铜管Leader of the Big Time Band.ape
+2025-08-27 15:36:23,202 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 12 专测铜管I Must Have That Man!.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:36:25,552 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 12 专测铜管I Must Have That Man!.ape
+2025-08-27 15:36:25,560 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 12 专测铜管I Must Have That Man!.ape
+2025-08-27 15:36:25,573 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 13 专测铜管Skit-Dat-De-Dat.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:36:29,104 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 13 专测铜管Skit-Dat-De-Dat.ape
+2025-08-27 15:36:29,125 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 13 专测铜管Skit-Dat-De-Dat.ape
+2025-08-27 15:36:29,148 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 14 专测铜管Jungle Nights in Harlem.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:36:32,119 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 14 专测铜管Jungle Nights in Harlem.ape
+2025-08-27 15:36:32,127 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 14 专测铜管Jungle Nights in Harlem.ape
+2025-08-27 15:36:32,140 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 15 专测铜管Black and Blue.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:36:35,047 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 15 专测铜管Black and Blue.ape
+2025-08-27 15:36:35,058 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 15 专测铜管Black and Blue.ape
+2025-08-27 15:36:35,070 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 16 专测铜管When the Saints Go Marching In.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:36:38,584 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 16 专测铜管When the Saints Go Marching In.ape
+2025-08-27 15:36:38,603 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 16 专测铜管When the Saints Go Marching In.ape
+2025-08-27 15:36:38,630 - infini_converter - INFO - Processing /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 17 专测铜管Black Bottom Stomp.ape with output directory: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏
+2025-08-27 15:36:42,116 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 17 专测铜管Black Bottom Stomp.ape
+2025-08-27 15:36:42,124 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Braggin' in Brass-帝国铜管五重奏/刘汉盛榜单NO.65 17 专测铜管Black Bottom Stomp.ape
+2025-08-27 15:36:42,172 - infini_converter - INFO - Processing complete: 16 successful, 0 failed
+2025-08-27 15:36:54,979 - infini_converter - INFO - Found 0 files in /Volumes/EVO-512G (filtered from 0)
+2025-08-27 15:37:06,808 - infini_converter - INFO - Found 0 files in /Volumes/EVO-512G (filtered from 0)
+2025-08-27 15:37:09,686 - infini_converter - INFO - Same as Input disabled
+2025-08-27 15:37:10,327 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G
+2025-08-27 15:37:20,341 - infini_converter - INFO - Settings saved
+2025-08-27 15:50:13,277 - infini_converter - INFO - Initial settings loaded
+2025-08-27 15:50:24,997 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 15:51:33,538 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/1993年最佳古典唱片大奖RR天碟：芬尼尔《发烧老祖》(Trittico)
+2025-08-27 15:51:52,311 - infini_converter - INFO - Processing /Volumes/EVO-512G/1993年最佳古典唱片大奖RR天碟：芬尼尔《发烧老祖》(Trittico)/1993年最佳古典唱片大奖RR天碟：芬尼尔《发烧老祖》(Trittico).cue with output directory: /Volumes/EVO-512G/1993年最佳古典唱片大奖RR天碟：芬尼尔《发烧老祖》(Trittico)
+2025-08-27 15:51:52,782 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/1993年最佳古典唱片大奖RR天碟：芬尼尔《发烧老祖》(Trittico)/1993年最佳古典唱片大奖RR天碟：芬尼尔《发烧老祖》(Trittico).cue - Unknown error
+2025-08-27 15:51:52,827 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 15:51:55,992 - infini_converter - INFO - Logging enabled
+2025-08-27 15:53:35,488 - infini_converter - INFO - Initial settings loaded
+2025-08-27 15:53:44,028 - infini_converter - INFO - Found 0 files in /Volumes/EVO-512G (filtered from 0)
+2025-08-27 15:53:50,266 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 15:54:33,647 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/1991-Metallica-Black Album
+2025-08-27 15:54:37,312 - infini_converter - INFO - Processing /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue with output directory: /Volumes/EVO-512G/1991-Metallica-Black Album
+2025-08-27 15:54:39,043 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue - Unknown error
+2025-08-27 15:54:39,064 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 15:55:47,168 - infini_converter - INFO - Settings saved
+2025-08-27 15:55:55,710 - infini_converter - INFO - Processing /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue with output directory: /Volumes/EVO-512G/1991-Metallica-Black Album
+2025-08-27 15:55:55,894 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue - Unknown error
+2025-08-27 15:55:55,917 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 16:01:02,955 - infini_converter - INFO - Initial settings loaded
+2025-08-27 16:01:07,914 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 16:01:14,090 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/1991-Metallica-Black Album
+2025-08-27 16:01:16,289 - infini_converter - INFO - Processing /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue with output directory: /Volumes/EVO-512G/1991-Metallica-Black Album
+2025-08-27 16:01:16,400 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue - Unknown error
+2025-08-27 16:01:16,404 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 16:06:27,759 - infini_converter - INFO - Initial settings loaded
+2025-08-27 16:06:31,288 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 16:06:34,535 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/1991-Metallica-Black Album
+2025-08-27 16:07:14,383 - infini_converter - INFO - Processing /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue with output directory: /Volumes/EVO-512G/1991-Metallica-Black Album
+2025-08-27 16:07:14,496 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue - Unknown error
+2025-08-27 16:07:14,521 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 16:08:15,208 - infini_converter - INFO - Processing /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue with output directory: /Volumes/EVO-512G/1991-Metallica-Black Album
+2025-08-27 16:08:15,316 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue - Unknown error
+2025-08-27 16:08:15,320 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 16:17:58,500 - infini_converter - INFO - Processing /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue with output directory: /Volumes/EVO-512G/1991-Metallica-Black Album
+2025-08-27 16:17:58,599 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue - Unknown error
+2025-08-27 16:17:58,621 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 16:18:00,699 - infini_converter - INFO - Logging enabled
+2025-08-27 16:29:57,756 - infini_converter - INFO - Processing /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue with output directory: /Volumes/EVO-512G/1991-Metallica-Black Album
+2025-08-27 16:29:57,853 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue - Unknown error
+2025-08-27 16:29:57,877 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 16:30:21,638 - infini_converter - INFO - Processing /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue with output directory: /Volumes/EVO-512G/1991-Metallica-Black Album
+2025-08-27 16:30:21,714 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/1991-Metallica-Black Album/1991-Metallica.cue - Unknown error
+2025-08-27 16:30:21,715 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 16:31:53,216 - infini_converter - INFO - Initial settings loaded
+2025-08-27 16:32:08,813 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 16:32:13,749 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 16:32:13,762 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 16:37:34,926 - infini_converter - INFO - Initial settings loaded
+2025-08-27 16:37:38,012 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 16:38:15,782 - infini_converter - INFO - Settings saved
+2025-08-27 16:38:26,900 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 16:38:26,933 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 16:43:47,925 - infini_converter - INFO - Initial settings loaded
+2025-08-27 16:43:53,349 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 16:44:04,359 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 16:44:04,372 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 16:46:11,598 - infini_converter - INFO - Settings saved
+2025-08-27 16:46:17,897 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 16:46:17,908 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-27 16:47:50,947 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 16:47:50,959 - infini_converter - INFO - Processing complete: 4 successful, 0 failed
+2025-08-27 16:48:27,796 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 16:48:27,810 - infini_converter - INFO - Processing complete: 37 successful, 18 failed
+2025-08-27 16:56:03,315 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 16:56:03,331 - infini_converter - INFO - Processing complete: 55 successful, 0 failed
+2025-08-27 16:56:17,732 - infini_converter - INFO - Settings saved
+2025-08-27 16:56:58,490 - infini_converter - INFO - Saved settings loaded
+2025-08-27 16:57:04,485 - infini_converter - INFO - Saved settings loaded
+2025-08-27 16:57:07,846 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 16:57:17,688 - infini_converter - INFO - Found 47 files in /Volumes/EVO-512G (filtered from 48)
+2025-08-27 16:58:31,670 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 16:58:48,736 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 16:59:19,543 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav
+2025-08-27 16:59:19,571 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-27 17:00:21,945 - infini_converter - INFO - Settings saved
+2025-08-27 17:00:34,263 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 17:00:55,106 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav
+2025-08-27 17:00:55,111 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-27 17:01:13,098 - infini_converter - INFO - Initial settings loaded
+2025-08-27 17:01:17,983 - infini_converter - INFO - Found 47 files in /Volumes/EVO-512G (filtered from 48)
+2025-08-27 17:01:22,073 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 17:01:26,809 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 17:01:27,179 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav - Unknown error
+2025-08-27 17:01:27,205 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 17:02:25,458 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 17:02:25,745 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav - Unknown error
+2025-08-27 17:02:25,770 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 17:02:44,300 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 17:02:44,588 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav - Unknown error
+2025-08-27 17:02:44,593 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 17:03:19,398 - infini_converter - INFO - Settings saved
+2025-08-27 17:03:23,168 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 17:03:23,461 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav - Unknown error
+2025-08-27 17:03:23,486 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 17:03:57,824 - infini_converter - INFO - Settings saved
+2025-08-27 17:04:02,980 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 17:04:03,272 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav - Unknown error
+2025-08-27 17:04:03,277 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 17:04:05,175 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 17:04:05,235 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 17:04:05,291 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 17:04:05,563 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav - Unknown error
+2025-08-27 17:04:05,588 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 17:04:05,810 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav - Unknown error
+2025-08-27 17:04:05,836 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 17:04:06,231 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav - Unknown error
+2025-08-27 17:04:06,258 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 17:04:24,328 - infini_converter - INFO - Saved settings loaded
+2025-08-27 17:04:26,545 - infini_converter - INFO - Saved settings loaded
+2025-08-27 17:04:30,890 - infini_converter - INFO - Found 47 files in /Volumes/EVO-512G (filtered from 48)
+2025-08-27 17:04:49,503 - infini_converter - INFO - Settings saved
+2025-08-27 21:49:49,028 - infini_converter - INFO - Initial settings loaded
+2025-08-27 21:49:54,226 - infini_converter - INFO - Found 47 files in /Volumes/EVO-512G (filtered from 48)
+2025-08-27 21:50:09,208 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 21:50:11,749 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 21:50:13,146 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav - Unknown error
+2025-08-27 21:50:13,175 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 21:50:16,602 - infini_converter - INFO - Logging enabled
+2025-08-27 22:08:59,290 - infini_converter - INFO - Initial settings loaded
+2025-08-27 22:09:02,924 - infini_converter - INFO - Found 47 files in /Volumes/EVO-512G (filtered from 48)
+2025-08-27 22:09:06,689 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 22:09:20,907 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 22:09:22,318 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav - Unknown error
+2025-08-27 22:09:22,348 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 22:09:24,687 - infini_converter - INFO - Logging enabled
+2025-08-27 22:11:21,512 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 22:11:22,890 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav - Unknown error
+2025-08-27 22:11:22,900 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-27 23:25:02,176 - infini_converter - INFO - Initial settings loaded
+2025-08-27 23:25:05,965 - infini_converter - INFO - Found 47 files in /Volumes/EVO-512G (filtered from 48)
+2025-08-27 23:25:09,331 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 23:25:11,833 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 23:26:45,605 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav
+2025-08-27 23:26:45,635 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-27 23:32:06,697 - infini_converter - INFO - Settings saved
+2025-08-27 23:32:16,355 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G (filtered from 55)
+2025-08-27 23:42:11,683 - infini_converter - INFO - Initial settings loaded
+2025-08-27 23:42:47,868 - infini_converter - INFO - Initial settings loaded
+2025-08-27 23:42:47,871 - infini_converter - INFO - Settings saved
+2025-08-27 23:45:55,234 - infini_converter - INFO - Initial settings loaded
+2025-08-27 23:47:23,955 - infini_converter - INFO - Initial settings loaded
+2025-08-27 23:47:56,054 - infini_converter - INFO - Initial settings loaded
+2025-08-27 23:48:21,552 - infini_converter - INFO - Initial settings loaded
+2025-08-27 23:48:56,952 - infini_converter - INFO - Found 47 files in /Volumes/EVO-512G (filtered from 48)
+2025-08-27 23:49:00,380 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-27 23:50:49,565 - infini_converter - INFO - Initial settings loaded
+2025-08-27 23:50:56,664 - infini_converter - INFO - Initial settings loaded
+2025-08-27 23:51:02,864 - infini_converter - INFO - Initial settings loaded
+2025-08-27 23:51:14,410 - infini_converter - INFO - Initial settings loaded
+2025-08-27 23:52:33,698 - infini_converter - INFO - Initial settings loaded
+2025-08-27 23:53:02,893 - infini_converter - INFO - Initial settings loaded
+2025-08-28 06:43:03,974 - infini_converter - INFO - Initial settings loaded
+2025-08-28 06:44:40,578 - infini_converter - INFO - Initial settings loaded
+2025-08-28 06:48:18,286 - infini_converter - INFO - Configuration saved as: config_sed
+2025-08-28 07:00:33,602 - infini_converter - INFO - Initial settings loaded
+2025-08-28 07:00:46,826 - infini_converter - INFO - Configuration loaded: config
+2025-08-28 07:02:09,719 - infini_converter - INFO - Configuration saved to default file
+2025-08-28 07:03:02,925 - infini_converter - INFO - Configuration loaded: config
+2025-08-28 07:04:01,353 - infini_converter - INFO - Configuration loaded: config
+2025-08-28 07:04:39,028 - infini_converter - INFO - Processing program set to: /Users/lumfranks/bin/xld
+2025-08-28 07:05:23,316 - infini_converter - INFO - Configuration saved to default file
+2025-08-28 07:05:31,409 - infini_converter - INFO - Configuration loaded: config_sed
+2025-08-28 07:05:38,009 - infini_converter - INFO - Configuration loaded: config
+2025-08-28 07:06:16,210 - infini_converter - INFO - Configuration loaded: config
+2025-08-28 07:18:23,847 - infini_converter - INFO - Initial settings loaded
+2025-08-28 07:18:49,626 - infini_converter - INFO - Configuration loaded: config_sed.json
+2025-08-28 07:20:01,447 - infini_converter - INFO - Processing program set to: /Users/lumfranks/bin/xld
+2025-08-28 07:20:40,862 - infini_converter - INFO - Configuration saved as: config_xld.json
+2025-08-28 07:20:51,620 - infini_converter - INFO - Configuration loaded: config_xldjson.json
+2025-08-28 07:21:06,950 - infini_converter - INFO - Configuration loaded: config_sed.json
+2025-08-28 07:21:12,754 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G
+2025-08-28 07:21:18,643 - infini_converter - INFO - Configuration loaded: config_xldjson.json
+2025-08-28 07:21:22,113 - infini_converter - INFO - Same as Input disabled
+2025-08-28 07:21:22,565 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G
+2025-08-28 07:21:54,413 - infini_converter - INFO - Configuration saved as: config_xld
+2025-08-28 07:26:11,657 - infini_converter - INFO - Initial settings loaded
+2025-08-28 07:26:47,031 - infini_converter - INFO - Configuration loaded: config.json
+2025-08-28 07:26:54,959 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G
+2025-08-28 07:26:55,436 - infini_converter - INFO - Same as Input disabled
+2025-08-28 07:26:56,226 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G
+2025-08-28 07:27:08,746 - infini_converter - INFO - Configuration saved as: config
+2025-08-28 07:27:15,332 - infini_converter - INFO - Configuration loaded: config_sed.json
+2025-08-28 07:27:17,025 - infini_converter - INFO - Same as Input disabled
+2025-08-28 07:27:18,691 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G
+2025-08-28 07:27:24,745 - infini_converter - INFO - Configuration saved as: config_sed
+2025-08-28 07:27:32,514 - infini_converter - INFO - Configuration loaded: config.json
+2025-08-28 07:28:10,797 - infini_converter - INFO - Configuration loaded: config_xld.json
+2025-08-28 09:04:19,705 - infini_converter - INFO - Initial settings loaded
+2025-08-28 09:04:31,213 - infini_converter - INFO - Output directory automatically updated to: /Volumes/1T
+2025-08-28 09:04:31,220 - infini_converter - INFO - Input directory set to: /Volumes/1T
+2025-08-28 09:04:38,819 - infini_converter - INFO - Found 137 files in /Volumes/1T (filtered from 137)
+2025-08-28 09:04:46,984 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音1[XRCD]
+2025-08-28 09:08:10,595 - infini_converter - INFO - Initial settings loaded
+2025-08-28 09:08:22,198 - infini_converter - INFO - Output directory automatically updated to: /Volumes/1T
+2025-08-28 09:08:22,206 - infini_converter - INFO - Input directory set to: /Volumes/1T
+2025-08-28 09:08:36,757 - infini_converter - INFO - Configuration saved as: config
+2025-08-28 09:08:42,740 - infini_converter - INFO - Found 137 files in /Volumes/1T (filtered from 137)
+2025-08-28 09:08:45,502 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音1[XRCD]
+2025-08-28 09:09:28,947 - infini_converter - INFO - Initial settings loaded
+2025-08-28 09:09:34,960 - infini_converter - INFO - Found 137 files in /Volumes/1T (filtered from 137)
+2025-08-28 09:09:39,453 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音1[XRCD]
+2025-08-28 09:13:03,137 - infini_converter - INFO - Initial settings loaded
+2025-08-28 09:13:09,024 - infini_converter - INFO - Found 137 files in /Volumes/1T (filtered from 137)
+2025-08-28 09:13:11,979 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音1[XRCD]
+2025-08-28 09:16:46,349 - infini_converter - INFO - Initial settings loaded
+2025-08-28 09:16:51,651 - infini_converter - INFO - Found 137 files in /Volumes/1T (filtered from 137)
+2025-08-28 09:16:54,201 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音1[XRCD]
+2025-08-28 09:21:11,172 - infini_converter - INFO - Initial settings loaded
+2025-08-28 09:21:16,446 - infini_converter - INFO - Found 137 files in /Volumes/1T (filtered from 137)
+2025-08-28 09:26:13,918 - infini_converter - INFO - Initial settings loaded
+2025-08-28 09:26:21,021 - infini_converter - INFO - Found 137 files in /Volumes/1T (filtered from 137)
+2025-08-28 11:53:04,938 - infini_converter - INFO - Initial settings loaded
+2025-08-28 11:53:10,966 - infini_converter - INFO - Found 137 files in /Volumes/1T (filtered from 137)
+2025-08-28 11:53:16,766 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音1[XRCD]
+2025-08-28 11:54:43,663 - infini_converter - INFO - Processing /Volumes/1T/Albums/完美声音1[XRCD]/完美声音1[XRCD].ape with output directory: /Volumes/1T/Albums/完美声音1[XRCD]
+2025-08-28 11:54:43,754 - infini_converter - ERROR - Exception processing /Volumes/1T/Albums/完美声音1[XRCD]/完美声音1[XRCD].ape: 'config'
+2025-08-28 11:54:43,791 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-28 11:54:46,700 - infini_converter - INFO - Logging enabled
+2025-08-28 12:02:17,305 - infini_converter - INFO - Initial settings loaded
+2025-08-28 12:02:25,180 - infini_converter - INFO - Found 137 files in /Volumes/1T (filtered from 137)
+2025-08-28 12:02:29,087 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音1[XRCD]
+2025-08-28 12:03:45,683 - infini_converter - INFO - Processing /Volumes/1T/Albums/完美声音1[XRCD]/完美声音1[XRCD].ape with output directory: /Volumes/1T/Albums/完美声音1[XRCD]
+2025-08-28 12:04:48,133 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/完美声音1[XRCD]/完美声音1[XRCD].ape
+2025-08-28 12:04:48,214 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/完美声音1[XRCD]/完美声音1[XRCD].ape
+2025-08-28 12:04:48,275 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-28 12:05:21,412 - infini_converter - INFO - Logging enabled
+2025-08-28 12:05:28,306 - infini_converter - INFO - Found 136 files in /Volumes/1T (filtered from 136)
+2025-08-28 13:55:11,129 - infini_converter - INFO - Initial settings loaded
+2025-08-28 13:55:17,072 - infini_converter - INFO - Found 136 files in /Volumes/1T (filtered from 136)
+2025-08-28 13:55:21,180 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音2[XRCD]
+2025-08-28 13:56:03,558 - infini_converter - INFO - Configuration saved as: config_xld
+2025-08-28 14:16:07,701 - infini_converter - INFO - Initial settings loaded
+2025-08-28 14:16:13,080 - infini_converter - INFO - Found 136 files in /Volumes/1T (filtered from 136)
+2025-08-28 14:16:17,181 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音2[XRCD]
+2025-08-28 14:28:39,070 - infini_converter - INFO - Initial settings loaded
+2025-08-28 14:28:54,399 - infini_converter - INFO - Configuration loaded: config_xld.json
+2025-08-28 14:29:00,129 - infini_converter - INFO - Configuration loaded: config.json
+2025-08-28 14:29:19,501 - infini_converter - INFO - Configuration loaded: config.json
+2025-08-28 14:29:58,069 - infini_converter - INFO - Initial settings loaded
+2025-08-28 14:30:04,023 - infini_converter - INFO - Found 136 files in /Volumes/1T (filtered from 136)
+2025-08-28 14:30:15,973 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音2[XRCD]
+2025-08-28 14:37:09,373 - infini_converter - INFO - Initial settings loaded
+2025-08-28 14:49:12,973 - infini_converter - INFO - Initial settings loaded
+2025-08-28 14:49:41,575 - infini_converter - INFO - Output directory automatically updated to: /Volumes/1T
+2025-08-28 14:49:41,582 - infini_converter - INFO - Input directory set to: /Volumes/1T
+2025-08-28 14:49:48,184 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-28 14:49:51,272 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T
+2025-08-28 14:50:49,526 - infini_converter - INFO - Configuration loaded: config_xld.json
+2025-08-28 14:50:56,416 - infini_converter - INFO - Found 136 files in /Volumes/1T (filtered from 136)
+2025-08-28 14:51:02,674 - infini_converter - INFO - Same as Input disabled
+2025-08-28 14:51:03,237 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音2[XRCD]
+2025-08-28 14:51:25,136 - infini_converter - INFO - Processing /Volumes/1T/Albums/完美声音2[XRCD]/完美声音2[XRCD].ape with output directory: /Volumes/1T/Albums/完美声音2[XRCD]
+2025-08-28 14:52:44,830 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/完美声音2[XRCD]/完美声音2[XRCD].ape
+2025-08-28 14:52:44,889 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/完美声音2[XRCD]/完美声音2[XRCD].ape
+2025-08-28 14:52:44,951 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-28 14:53:33,483 - infini_converter - INFO - Found 135 files in /Volumes/1T (filtered from 135)
+2025-08-28 14:53:42,899 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-刘若英精选/滚石香港黄金十年.刘若英精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-刘若英精选
+2025-08-28 14:55:02,947 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-刘若英精选/滚石香港黄金十年.刘若英精选.ape
+2025-08-28 14:55:03,016 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-刘若英精选/滚石香港黄金十年.刘若英精选.ape
+2025-08-28 14:55:03,094 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-周华健精选/滚石香港黄金十年：周华健精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-周华健精选
+2025-08-28 14:56:15,484 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-周华健精选/滚石香港黄金十年：周华健精选.ape
+2025-08-28 14:56:15,542 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-周华健精选/滚石香港黄金十年：周华健精选.ape
+2025-08-28 14:56:15,626 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-张国荣电影歌曲精选/滚石香港黄金十年：张国荣电影歌曲精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-张国荣电影歌曲精选
+2025-08-28 14:57:18,362 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-张国荣电影歌曲精选/滚石香港黄金十年：张国荣电影歌曲精选.ape
+2025-08-28 14:57:18,411 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-张国荣电影歌曲精选/滚石香港黄金十年：张国荣电影歌曲精选.ape
+2025-08-28 14:57:18,488 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-张洪量精选/滚石香港黄金十年-张洪量精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-张洪量精选
+2025-08-28 14:58:40,937 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-张洪量精选/滚石香港黄金十年-张洪量精选.ape
+2025-08-28 14:58:41,010 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-张洪量精选/滚石香港黄金十年-张洪量精选.ape
+2025-08-28 14:58:41,094 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-张震岳精选/滚石香港黄金十年：张震岳精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-张震岳精选
+2025-08-28 15:00:09,155 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-张震岳精选/滚石香港黄金十年：张震岳精选.ape
+2025-08-28 15:00:09,215 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-张震岳精选/滚石香港黄金十年：张震岳精选.ape
+2025-08-28 15:00:09,290 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-徐怀钰精选/滚石香港黄金十年：徐怀钰精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-徐怀钰精选
+2025-08-28 15:01:19,826 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-徐怀钰精选/滚石香港黄金十年：徐怀钰精选.ape
+2025-08-28 15:01:19,876 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-徐怀钰精选/滚石香港黄金十年：徐怀钰精选.ape
+2025-08-28 15:01:19,948 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-羽泉精选/滚石香港黄金十年：羽泉精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-羽泉精选
+2025-08-28 15:02:45,500 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-羽泉精选/滚石香港黄金十年：羽泉精选.ape
+2025-08-28 15:02:45,558 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-羽泉精选/滚石香港黄金十年：羽泉精选.ape
+2025-08-28 15:02:45,633 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-草蜢精选/滚石香港黄金十年：草蜢精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-草蜢精选
+2025-08-28 15:03:57,217 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-草蜢精选/滚石香港黄金十年：草蜢精选.ape
+2025-08-28 15:03:57,269 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-草蜢精选/滚石香港黄金十年：草蜢精选.ape
+2025-08-28 15:03:57,340 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-赵传精选/滚石香港黄金十年：赵传精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-赵传精选
+2025-08-28 15:05:16,310 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-赵传精选/滚石香港黄金十年：赵传精选.ape
+2025-08-28 15:05:16,368 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-赵传精选/滚石香港黄金十年：赵传精选.ape
+2025-08-28 15:05:16,443 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-赵咏华精选/滚石香港黄金十年：赵咏华精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-赵咏华精选
+2025-08-28 15:06:42,117 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-赵咏华精选/滚石香港黄金十年：赵咏华精选.ape
+2025-08-28 15:06:42,175 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-赵咏华精选/滚石香港黄金十年：赵咏华精选.ape
+2025-08-28 15:06:42,250 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-辛晓琪精选/滚石香港黄金十年：辛晓琪精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-辛晓琪精选
+2025-08-28 15:08:01,216 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-辛晓琪精选/滚石香港黄金十年：辛晓琪精选.ape
+2025-08-28 15:08:01,270 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-辛晓琪精选/滚石香港黄金十年：辛晓琪精选.ape
+2025-08-28 15:08:01,345 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-陈升精选/滚石香港黄金十年-陈升精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-陈升精选
+2025-08-28 15:09:32,133 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-陈升精选/滚石香港黄金十年-陈升精选.ape
+2025-08-28 15:09:32,196 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年-陈升精选/滚石香港黄金十年-陈升精选.ape
+2025-08-28 15:09:32,278 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年： Beyond精选/滚石香港黄金十年： Beyond精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年： Beyond精选
+2025-08-28 15:10:51,708 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年： Beyond精选/滚石香港黄金十年： Beyond精选.ape
+2025-08-28 15:10:51,771 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年： Beyond精选/滚石香港黄金十年： Beyond精选.ape
+2025-08-28 15:10:51,852 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年： 陈绮贞精选/滚石香港黄金十年： 陈绮贞精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年： 陈绮贞精选
+2025-08-28 15:12:08,911 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年： 陈绮贞精选/滚石香港黄金十年： 陈绮贞精选.ape
+2025-08-28 15:12:08,963 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年： 陈绮贞精选/滚石香港黄金十年： 陈绮贞精选.ape
+2025-08-28 15:12:09,034 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：万芳精选/滚石香港黄金十年：万芳精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：万芳精选
+2025-08-28 15:13:25,780 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：万芳精选/滚石香港黄金十年：万芳精选.ape
+2025-08-28 15:13:25,832 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：万芳精选/滚石香港黄金十年：万芳精选.ape
+2025-08-28 15:13:25,898 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：任贤齐精选/滚石香港黄金十年：任贤齐精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：任贤齐精选
+2025-08-28 15:15:56,134 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：任贤齐精选/滚石香港黄金十年：任贤齐精选.ape
+2025-08-28 15:15:56,225 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：任贤齐精选/滚石香港黄金十年：任贤齐精选.ape
+2025-08-28 15:15:56,301 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：伍佰精选/滚石香港黄金十年：伍佰精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：伍佰精选
+2025-08-28 15:17:24,571 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：伍佰精选/滚石香港黄金十年：伍佰精选.ape
+2025-08-28 15:17:24,627 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：伍佰精选/滚石香港黄金十年：伍佰精选.ape
+2025-08-28 15:17:24,690 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：光良品冠精选/滚石香港黄金十年：光良品冠精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：光良品冠精选
+2025-08-28 15:18:39,109 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：光良品冠精选/滚石香港黄金十年：光良品冠精选.ape
+2025-08-28 15:18:39,155 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：光良品冠精选/滚石香港黄金十年：光良品冠精选.ape
+2025-08-28 15:18:39,234 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：华人电影音乐典藏馆精选/滚石香港黄金十年：华人电影音乐典藏馆精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：华人电影音乐典藏馆精选
+2025-08-28 15:19:47,649 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：华人电影音乐典藏馆精选/滚石香港黄金十年：华人电影音乐典藏馆精选.ape
+2025-08-28 15:19:47,698 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：华人电影音乐典藏馆精选/滚石香港黄金十年：华人电影音乐典藏馆精选.ape
+2025-08-28 15:19:47,766 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：成龙精选/滚石香港黄金十年：成龙精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：成龙精选
+2025-08-28 15:20:56,727 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：成龙精选/滚石香港黄金十年：成龙精选.ape
+2025-08-28 15:20:56,779 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：成龙精选/滚石香港黄金十年：成龙精选.ape
+2025-08-28 15:20:56,844 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：李宗盛精选/滚石香港黄金十年：李宗盛精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：李宗盛精选
+2025-08-28 15:22:13,353 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：李宗盛精选/滚石香港黄金十年：李宗盛精选.ape
+2025-08-28 15:22:13,407 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：李宗盛精选/滚石香港黄金十年：李宗盛精选.ape
+2025-08-28 15:22:13,472 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：杜德伟精选/滚石香港黄金十年：杜德伟精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：杜德伟精选
+2025-08-28 15:23:31,778 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：杜德伟精选/滚石香港黄金十年：杜德伟精选.ape
+2025-08-28 15:23:31,833 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：杜德伟精选/滚石香港黄金十年：杜德伟精选.ape
+2025-08-28 15:23:31,900 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：林忆莲精选/滚石香港黄金十年：林忆莲精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：林忆莲精选
+2025-08-28 15:24:53,234 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：林忆莲精选/滚石香港黄金十年：林忆莲精选.ape
+2025-08-28 15:24:53,286 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：林忆莲精选/滚石香港黄金十年：林忆莲精选.ape
+2025-08-28 15:24:53,352 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：潘越云精选/滚石香港黄金十年：潘越云精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：潘越云精选
+2025-08-28 15:26:06,368 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：潘越云精选/滚石香港黄金十年：潘越云精选.ape
+2025-08-28 15:26:06,416 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：潘越云精选/滚石香港黄金十年：潘越云精选.ape
+2025-08-28 15:26:06,481 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：苏慧伦精选/滚石香港黄金十年：苏慧伦精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：苏慧伦精选
+2025-08-28 15:27:11,081 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：苏慧伦精选/滚石香港黄金十年：苏慧伦精选.ape
+2025-08-28 15:27:11,126 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：苏慧伦精选/滚石香港黄金十年：苏慧伦精选.ape
+2025-08-28 15:27:11,192 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：莫文蔚精选/滚石香港黄金十年：莫文蔚精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：莫文蔚精选
+2025-08-28 15:28:29,692 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：莫文蔚精选/滚石香港黄金十年：莫文蔚精选.ape
+2025-08-28 15:28:29,760 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：莫文蔚精选/滚石香港黄金十年：莫文蔚精选.ape
+2025-08-28 15:28:29,830 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：陈庆祥（阿牛）精选/滚石香港黄金十年：陈庆祥（阿牛）精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：陈庆祥（阿牛）精选
+2025-08-28 15:29:35,570 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：陈庆祥（阿牛）精选/滚石香港黄金十年：陈庆祥（阿牛）精选.ape
+2025-08-28 15:29:35,625 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：陈庆祥（阿牛）精选/滚石香港黄金十年：陈庆祥（阿牛）精选.ape
+2025-08-28 15:29:35,693 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：陈松伶精选/滚石香港黄金十年：陈松伶精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：陈松伶精选
+2025-08-28 15:30:48,265 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：陈松伶精选/滚石香港黄金十年：陈松伶精选.ape
+2025-08-28 15:30:48,321 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：陈松伶精选/滚石香港黄金十年：陈松伶精选.ape
+2025-08-28 15:30:48,393 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：陈淑桦精选/滚石香港黄金十年：陈淑桦精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：陈淑桦精选
+2025-08-28 15:32:09,771 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：陈淑桦精选/滚石香港黄金十年：陈淑桦精选.ape
+2025-08-28 15:32:09,832 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：陈淑桦精选/滚石香港黄金十年：陈淑桦精选.ape
+2025-08-28 15:32:09,898 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：顺子精选/滚石香港黄金十年：顺子精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：顺子精选
+2025-08-28 15:33:31,438 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：顺子精选/滚石香港黄金十年：顺子精选.ape
+2025-08-28 15:33:31,493 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：顺子精选/滚石香港黄金十年：顺子精选.ape
+2025-08-28 15:33:31,563 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄凯芹精选/滚石香港黄金十年：黄凯芹精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄凯芹精选
+2025-08-28 15:34:28,787 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄凯芹精选/滚石香港黄金十年：黄凯芹精选.ape
+2025-08-28 15:34:28,828 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄凯芹精选/滚石香港黄金十年：黄凯芹精选.ape
+2025-08-28 15:34:28,896 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄品源精选/滚石香港黄金十年：黄品源精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄品源精选
+2025-08-28 15:35:52,769 - infini_converter - ERROR - Failed to process: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄品源精选/滚石香港黄金十年：黄品源精选.ape - Unknown error
+2025-08-28 15:35:52,832 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：齐豫精选/滚石香港黄金十年：齐豫精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：齐豫精选
+2025-08-28 15:37:08,854 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：齐豫精选/滚石香港黄金十年：齐豫精选.ape
+2025-08-28 15:37:08,910 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：齐豫精选/滚石香港黄金十年：齐豫精选.ape
+2025-08-28 15:37:08,959 - infini_converter - INFO - Processing /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 1/Disc 1.ape with output directory: /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 1
+2025-08-28 15:38:30,822 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 1/Disc 1.ape
+2025-08-28 15:38:30,882 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 1/Disc 1.ape
+2025-08-28 15:38:30,921 - infini_converter - INFO - Processing /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 2/Disc 2.ape with output directory: /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 2
+2025-08-28 15:39:44,167 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 2/Disc 2.ape
+2025-08-28 15:39:44,215 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 2/Disc 2.ape
+2025-08-28 15:39:44,253 - infini_converter - INFO - Processing /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 3/Disc 3.ape with output directory: /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 3
+2025-08-28 15:41:07,868 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 3/Disc 3.ape
+2025-08-28 15:41:07,924 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 3/Disc 3.ape
+2025-08-28 15:41:07,963 - infini_converter - INFO - Processing /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 4/Disc 4.ape with output directory: /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 4
+2025-08-28 15:42:23,610 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 4/Disc 4.ape
+2025-08-28 15:42:23,661 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/英皇冠军精选 4CD/Disc 4/Disc 4.ape
+2025-08-28 15:42:23,680 - infini_converter - INFO - Processing /Volumes/1T/Artists/Aerosmith/1989-PUMP/1989-PUMP.ape with output directory: /Volumes/1T/Artists/Aerosmith/1989-PUMP
+2025-08-28 15:43:12,060 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Aerosmith/1989-PUMP/1989-PUMP.ape
+2025-08-28 15:43:12,094 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Aerosmith/1989-PUMP/1989-PUMP.ape
+2025-08-28 15:43:12,116 - infini_converter - INFO - Processing /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 1/Aerosmith - Pandoras Box (1991) Disc 1.ape with output directory: /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 1
+2025-08-28 15:43:14,349 - infini_converter - ERROR - Failed to process: /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 1/Aerosmith - Pandoras Box (1991) Disc 1.ape - Unknown error
+2025-08-28 15:43:14,370 - infini_converter - INFO - Processing /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 2/Aerosmith - Pandoras Box (1991) Disc 2.ape with output directory: /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 2
+2025-08-28 15:43:16,260 - infini_converter - ERROR - Failed to process: /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 2/Aerosmith - Pandoras Box (1991) Disc 2.ape - Unknown error
+2025-08-28 15:43:16,278 - infini_converter - INFO - Processing /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 3/Aerosmith - Pandoras Box (1991) Disc 3.ape with output directory: /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 3
+2025-08-28 15:43:17,656 - infini_converter - ERROR - Failed to process: /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 3/Aerosmith - Pandoras Box (1991) Disc 3.ape - Unknown error
+2025-08-28 15:43:17,697 - infini_converter - INFO - Processing /Volumes/1T/Artists/Aerosmith/1993-Toys In The Attic/1993-Toys In The Attic.ape with output directory: /Volumes/1T/Artists/Aerosmith/1993-Toys In The Attic
+2025-08-28 15:43:46,932 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Aerosmith/1993-Toys In The Attic/1993-Toys In The Attic.ape
+2025-08-28 15:43:46,961 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Aerosmith/1993-Toys In The Attic/1993-Toys In The Attic.ape
+2025-08-28 15:43:46,982 - infini_converter - INFO - Processing /Volumes/1T/Artists/Aerosmith/1994-Big Ones/1994-Big Ones.ape with output directory: /Volumes/1T/Artists/Aerosmith/1994-Big Ones
+2025-08-28 15:45:08,853 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Aerosmith/1994-Big Ones/1994-Big Ones.ape
+2025-08-28 15:45:08,920 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Aerosmith/1994-Big Ones/1994-Big Ones.ape
+2025-08-28 15:45:08,940 - infini_converter - INFO - Processing /Volumes/1T/Artists/Aerosmith/2001-Just Push Play/2001-Just Push Play.ape with output directory: /Volumes/1T/Artists/Aerosmith/2001-Just Push Play
+2025-08-28 15:45:54,144 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Aerosmith/2001-Just Push Play/2001-Just Push Play.ape
+2025-08-28 15:45:54,207 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Aerosmith/2001-Just Push Play/2001-Just Push Play.ape
+2025-08-28 15:45:54,253 - infini_converter - INFO - Processing /Volumes/1T/Artists/Aerosmith/Aerosmith.-.[Nine.Lives].专辑.(APE)/Aerosmith.-.[Nine.Lives].专辑.(APE).ape with output directory: /Volumes/1T/Artists/Aerosmith/Aerosmith.-.[Nine.Lives].专辑.(APE)
+2025-08-28 15:46:58,102 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Aerosmith/Aerosmith.-.[Nine.Lives].专辑.(APE)/Aerosmith.-.[Nine.Lives].专辑.(APE).ape
+2025-08-28 15:46:58,162 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Aerosmith/Aerosmith.-.[Nine.Lives].专辑.(APE)/Aerosmith.-.[Nine.Lives].专辑.(APE).ape
+2025-08-28 15:46:58,204 - infini_converter - INFO - Processing /Volumes/1T/Artists/IL DIVO 男声四大金嗓/IL DIVO 男声四大金嗓.ape with output directory: /Volumes/1T/Artists/IL DIVO 男声四大金嗓
+2025-08-28 15:46:58,470 - infini_converter - ERROR - Failed to process: /Volumes/1T/Artists/IL DIVO 男声四大金嗓/IL DIVO 男声四大金嗓.ape - Input file not found: /Volumes/1T/Artists/IL DIVO 男声四大金嗓/IL DIVO 男声四大金嗓.ape
+2025-08-28 15:46:58,535 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/1983 Madonna/1983 Madonna.ape with output directory: /Volumes/1T/Artists/Madonna/1983 Madonna
+2025-08-28 15:47:39,556 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/1983 Madonna/1983 Madonna.ape
+2025-08-28 15:47:39,582 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/1983 Madonna/1983 Madonna.ape
+2025-08-28 15:47:39,601 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/1986 True Blue/1986 True Blue.ape with output directory: /Volumes/1T/Artists/Madonna/1986 True Blue
+2025-08-28 15:48:37,767 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/1986 True Blue/1986 True Blue.ape
+2025-08-28 15:48:37,810 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/1986 True Blue/1986 True Blue.ape
+2025-08-28 15:48:37,830 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/1987 Who's That Girl/1987 Who's That Girl.ape with output directory: /Volumes/1T/Artists/Madonna/1987 Who's That Girl
+2025-08-28 15:48:39,662 - infini_converter - ERROR - Failed to process: /Volumes/1T/Artists/Madonna/1987 Who's That Girl/1987 Who's That Girl.ape - Unknown error
+2025-08-28 15:48:39,685 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/1987 You Can Dance/1987 You Can Dance.ape with output directory: /Volumes/1T/Artists/Madonna/1987 You Can Dance
+2025-08-28 15:49:53,067 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/1987 You Can Dance/1987 You Can Dance.ape
+2025-08-28 15:49:53,116 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/1987 You Can Dance/1987 You Can Dance.ape
+2025-08-28 15:49:53,134 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/1990 Dick Tracy/1990 Dick Tracy.ape with output directory: /Volumes/1T/Artists/Madonna/1990 Dick Tracy
+2025-08-28 15:50:37,976 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/1990 Dick Tracy/1990 Dick Tracy.ape
+2025-08-28 15:50:38,008 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/1990 Dick Tracy/1990 Dick Tracy.ape
+2025-08-28 15:50:38,026 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/1990 Like a Prayer/1990 Like a Prayer.ape with output directory: /Volumes/1T/Artists/Madonna/1990 Like a Prayer
+2025-08-28 15:51:31,791 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/1990 Like a Prayer/1990 Like a Prayer.ape
+2025-08-28 15:51:31,824 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/1990 Like a Prayer/1990 Like a Prayer.ape
+2025-08-28 15:51:31,845 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/1994 Bedtime Stories/1994 Bedtime Stories.ape with output directory: /Volumes/1T/Artists/Madonna/1994 Bedtime Stories
+2025-08-28 15:52:18,885 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/1994 Bedtime Stories/1994 Bedtime Stories.ape
+2025-08-28 15:52:18,928 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/1994 Bedtime Stories/1994 Bedtime Stories.ape
+2025-08-28 15:52:18,948 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/1995 Something To Remember/1995 Something To Remember.ape with output directory: /Volumes/1T/Artists/Madonna/1995 Something To Remember
+2025-08-28 15:53:32,394 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/1995 Something To Remember/1995 Something To Remember.ape
+2025-08-28 15:53:32,446 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/1995 Something To Remember/1995 Something To Remember.ape
+2025-08-28 15:53:32,466 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/1998 Ray Of Light/1998 Ray Of Light.ape with output directory: /Volumes/1T/Artists/Madonna/1998 Ray Of Light
+2025-08-28 15:54:57,426 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/1998 Ray Of Light/1998 Ray Of Light.ape
+2025-08-28 15:54:57,475 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/1998 Ray Of Light/1998 Ray Of Light.ape
+2025-08-28 15:54:57,494 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/2000 music/2000 music.ape with output directory: /Volumes/1T/Artists/Madonna/2000 music
+2025-08-28 15:56:11,800 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/2000 music/2000 music.ape
+2025-08-28 15:56:11,862 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/2000 music/2000 music.ape
+2025-08-28 15:56:11,882 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/2001 Greatest Hits Volume 2/2001 Greatest Hits Volume 2.ape with output directory: /Volumes/1T/Artists/Madonna/2001 Greatest Hits Volume 2
+2025-08-28 15:57:23,444 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/2001 Greatest Hits Volume 2/2001 Greatest Hits Volume 2.ape
+2025-08-28 15:57:23,493 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/2001 Greatest Hits Volume 2/2001 Greatest Hits Volume 2.ape
+2025-08-28 15:57:23,521 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/2003 American Life/2003 American Life.ape with output directory: /Volumes/1T/Artists/Madonna/2003 American Life
+2025-08-28 15:58:28,295 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/2003 American Life/2003 American Life.ape
+2025-08-28 15:58:28,339 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/2003 American Life/2003 American Life.ape
+2025-08-28 15:58:28,363 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/2005 Confessions On A Dance Floor/2005 Confessions On A Dance Floor.ape with output directory: /Volumes/1T/Artists/Madonna/2005 Confessions On A Dance Floor
+2025-08-28 15:59:33,763 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/2005 Confessions On A Dance Floor/2005 Confessions On A Dance Floor.ape
+2025-08-28 15:59:33,813 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/2005 Confessions On A Dance Floor/2005 Confessions On A Dance Floor.ape
+2025-08-28 15:59:33,834 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/Evita - complete ost/CD1/Evita - complete ost CD1.ape with output directory: /Volumes/1T/Artists/Madonna/Evita - complete ost/CD1
+2025-08-28 16:00:37,441 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/Evita - complete ost/CD1/Evita - complete ost CD1.ape
+2025-08-28 16:00:37,482 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/Evita - complete ost/CD1/Evita - complete ost CD1.ape
+2025-08-28 16:00:37,501 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/Evita - complete ost/CD2/Evita - complete ost CD2.ape with output directory: /Volumes/1T/Artists/Madonna/Evita - complete ost/CD2
+2025-08-28 16:01:29,331 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/Evita - complete ost/CD2/Evita - complete ost CD2.ape
+2025-08-28 16:01:29,365 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/Evita - complete ost/CD2/Evita - complete ost CD2.ape
+2025-08-28 16:01:29,402 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/Madonna - [1985年日本头版]/Madonna - [1985年日本头版].ape with output directory: /Volumes/1T/Artists/Madonna/Madonna - [1985年日本头版]
+2025-08-28 16:02:11,809 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/Madonna - [1985年日本头版]/Madonna - [1985年日本头版].ape
+2025-08-28 16:02:11,845 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/Madonna - [1985年日本头版]/Madonna - [1985年日本头版].ape
+2025-08-28 16:02:11,876 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/[Rock].Madonna-Like.A.Virgin-Digitally.Remastered.2001.APE/[Rock].Madonna-Like.A.Virgin-Digitally.Remastered.2001.APE.ape with output directory: /Volumes/1T/Artists/Madonna/[Rock].Madonna-Like.A.Virgin-Digitally.Remastered.2001.APE
+2025-08-28 16:03:10,505 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/Madonna/[Rock].Madonna-Like.A.Virgin-Digitally.Remastered.2001.APE/[Rock].Madonna-Like.A.Virgin-Digitally.Remastered.2001.APE.ape
+2025-08-28 16:03:10,551 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/Madonna/[Rock].Madonna-Like.A.Virgin-Digitally.Remastered.2001.APE/[Rock].Madonna-Like.A.Virgin-Digitally.Remastered.2001.APE.ape
+2025-08-28 16:03:10,616 - infini_converter - INFO - Processing /Volumes/1T/Artists/夏韶声/夏韶声 - My Friend 夏韶声88摇摆精选/夏韶声 - My Friend 夏韶声88摇摆精选.ape with output directory: /Volumes/1T/Artists/夏韶声/夏韶声 - My Friend 夏韶声88摇摆精选
+2025-08-28 16:04:08,864 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/夏韶声/夏韶声 - My Friend 夏韶声88摇摆精选/夏韶声 - My Friend 夏韶声88摇摆精选.ape
+2025-08-28 16:04:08,916 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/夏韶声/夏韶声 - My Friend 夏韶声88摇摆精选/夏韶声 - My Friend 夏韶声88摇摆精选.ape
+2025-08-28 16:04:08,980 - infini_converter - INFO - Processing /Volumes/1T/Artists/夏韶声/夏韶声.-.[谙Ⅲ]/夏韶声.-.[谙Ⅲ].ape with output directory: /Volumes/1T/Artists/夏韶声/夏韶声.-.[谙Ⅲ]
+2025-08-28 16:05:01,137 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/夏韶声/夏韶声.-.[谙Ⅲ]/夏韶声.-.[谙Ⅲ].ape
+2025-08-28 16:05:01,183 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/夏韶声/夏韶声.-.[谙Ⅲ]/夏韶声.-.[谙Ⅲ].ape
+2025-08-28 16:05:01,248 - infini_converter - INFO - Processing /Volumes/1T/Artists/夏韶声/（XRCD24）夏韶声-谙2/（XRCD24）夏韶声-谙2.ape with output directory: /Volumes/1T/Artists/夏韶声/（XRCD24）夏韶声-谙2
+2025-08-28 16:05:59,310 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/夏韶声/（XRCD24）夏韶声-谙2/（XRCD24）夏韶声-谙2.ape
+2025-08-28 16:05:59,356 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/夏韶声/（XRCD24）夏韶声-谙2/（XRCD24）夏韶声-谙2.ape
+2025-08-28 16:05:59,427 - infini_converter - INFO - Processing /Volumes/1T/Artists/夏韶声/（XRCD24）谙1-夏韶声/谙1-夏韶声.ape with output directory: /Volumes/1T/Artists/夏韶声/（XRCD24）谙1-夏韶声
+2025-08-28 16:06:38,791 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/夏韶声/（XRCD24）谙1-夏韶声/谙1-夏韶声.ape
+2025-08-28 16:06:38,833 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/夏韶声/（XRCD24）谙1-夏韶声/谙1-夏韶声.ape
+2025-08-28 16:06:38,892 - infini_converter - INFO - Processing /Volumes/1T/Artists/陈百强/陈百强-1988 《无声胜有声》/陈百强 - 无声胜有声.ape with output directory: /Volumes/1T/Artists/陈百强/陈百强-1988 《无声胜有声》
+2025-08-28 16:07:09,816 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/陈百强/陈百强-1988 《无声胜有声》/陈百强 - 无声胜有声.ape
+2025-08-28 16:07:09,852 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/陈百强/陈百强-1988 《无声胜有声》/陈百强 - 无声胜有声.ape
+2025-08-28 16:07:09,906 - infini_converter - INFO - Processing /Volumes/1T/ChineseClassic/刘汉盛榜单NO.100-暢響/暢響.ape with output directory: /Volumes/1T/ChineseClassic/刘汉盛榜单NO.100-暢響
+2025-08-28 16:07:59,274 - infini_converter - INFO - Successfully processed: /Volumes/1T/ChineseClassic/刘汉盛榜单NO.100-暢響/暢響.ape
+2025-08-28 16:07:59,307 - infini_converter - INFO - Deleted original file: /Volumes/1T/ChineseClassic/刘汉盛榜单NO.100-暢響/暢響.ape
+2025-08-28 16:07:59,368 - infini_converter - INFO - Processing /Volumes/1T/ChineseClassic/刘汉盛榜单NO.98-雨果HRP761G 秦兵马俑/雨果HRP761G 秦兵马俑.ape with output directory: /Volumes/1T/ChineseClassic/刘汉盛榜单NO.98-雨果HRP761G 秦兵马俑
+2025-08-28 16:10:00,816 - infini_converter - INFO - Successfully processed: /Volumes/1T/ChineseClassic/刘汉盛榜单NO.98-雨果HRP761G 秦兵马俑/雨果HRP761G 秦兵马俑.ape
+2025-08-28 16:10:00,865 - infini_converter - INFO - Deleted original file: /Volumes/1T/ChineseClassic/刘汉盛榜单NO.98-雨果HRP761G 秦兵马俑/雨果HRP761G 秦兵马俑.ape
+2025-08-28 16:10:00,954 - infini_converter - INFO - Processing /Volumes/1T/ChineseClassic/刘汉盛榜单NO.99-黄河遥遥/黄河遥遥.ape with output directory: /Volumes/1T/ChineseClassic/刘汉盛榜单NO.99-黄河遥遥
+2025-08-28 16:10:44,855 - infini_converter - INFO - Successfully processed: /Volumes/1T/ChineseClassic/刘汉盛榜单NO.99-黄河遥遥/黄河遥遥.ape
+2025-08-28 16:10:44,887 - infini_converter - INFO - Deleted original file: /Volumes/1T/ChineseClassic/刘汉盛榜单NO.99-黄河遥遥/黄河遥遥.ape
+2025-08-28 16:10:44,943 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.13-马勒第六交响曲/马勒第六交响曲.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.13-马勒第六交响曲
+2025-08-28 16:11:36,517 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.13-马勒第六交响曲/马勒第六交响曲.ape
+2025-08-28 16:11:36,555 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.13-马勒第六交响曲/马勒第六交响曲.ape
+2025-08-28 16:11:36,599 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.2-Rhapsodies - Liszt, Enesco, Wagner, Smetana (STOKOWSKI)/Rhapsodies - Liszt, Enesco, Wagner, Smetana (STOKOWSKI).ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.2-Rhapsodies - Liszt, Enesco, Wagner, Smetana (STOKOWSKI)
+2025-08-28 16:12:42,444 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.2-Rhapsodies - Liszt, Enesco, Wagner, Smetana (STOKOWSKI)/Rhapsodies - Liszt, Enesco, Wagner, Smetana (STOKOWSKI).ape
+2025-08-28 16:12:42,497 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.2-Rhapsodies - Liszt, Enesco, Wagner, Smetana (STOKOWSKI)/Rhapsodies - Liszt, Enesco, Wagner, Smetana (STOKOWSKI).ape
+2025-08-28 16:12:42,537 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/CArmen-(12) Act IV- Les voici, les voici Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 16:12:51,813 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/CArmen-(12) Act IV- Les voici, les voici Georges Bizet.ape
+2025-08-28 16:12:51,824 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/CArmen-(12) Act IV- Les voici, les voici Georges Bizet.ape
+2025-08-28 16:12:51,854 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(01) Act I- Prelude Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 16:12:56,389 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(01) Act I- Prelude Georges Bizet.ape
+2025-08-28 16:12:56,395 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(01) Act I- Prelude Georges Bizet.ape
+2025-08-28 16:12:56,426 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(02) Act I- Mais nous ne voyons pas la Carmencita! Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 16:12:59,575 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(02) Act I- Mais nous ne voyons pas la Carmencita! Georges Bizet.ape
+2025-08-28 16:12:59,583 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(02) Act I- Mais nous ne voyons pas la Carmencita! Georges Bizet.ape
+2025-08-28 16:12:59,614 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(03) Act I- Parle-moi de ma mere! Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 16:13:10,607 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(03) Act I- Parle-moi de ma mere! Georges Bizet.ape
+2025-08-28 16:13:10,617 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(03) Act I- Parle-moi de ma mere! Georges Bizet.ape
+2025-08-28 16:13:10,649 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(04) Act I- Pres des remparts de Seville Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 16:13:16,514 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(04) Act I- Pres des remparts de Seville Georges Bizet.ape
+2025-08-28 16:13:16,527 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(04) Act I- Pres des remparts de Seville Georges Bizet.ape
+2025-08-28 16:13:16,592 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(05) Act II- Les tringles des sistres tintaient Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 16:13:23,913 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(05) Act II- Les tringles des sistres tintaient Georges Bizet.ape
+2025-08-28 16:13:23,923 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(05) Act II- Les tringles des sistres tintaient Georges Bizet.ape
+2025-08-28 16:13:23,954 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(06) Act II- Vivat, vivat le torero! Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 16:13:27,455 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(06) Act II- Vivat, vivat le torero! Georges Bizet.ape
+2025-08-28 16:13:27,462 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(06) Act II- Vivat, vivat le torero! Georges Bizet.ape
+2025-08-28 16:13:27,495 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(07) Act II- Nous avons en tete une affaire Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 16:13:34,214 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(07) Act II- Nous avons en tete une affaire Georges Bizet.ape
+2025-08-28 16:13:34,226 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(07) Act II- Nous avons en tete une affaire Georges Bizet.ape
+2025-08-28 16:13:34,257 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(08) Act II- La fleur que tu m'avais jetee Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 16:13:35,854 - infini_converter - ERROR - Failed to process: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(08) Act II- La fleur que tu m'avais jetee Georges Bizet.ape - Unknown error
+2025-08-28 16:13:35,889 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(09) Act II- Non! tu ne m'aimes pas! Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 16:13:37,833 - infini_converter - ERROR - Failed to process: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(09) Act II- Non! tu ne m'aimes pas! Georges Bizet.ape - Unknown error
+2025-08-28 16:13:37,865 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(10) Act III- Melons! Coupons! Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 16:13:46,978 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(10) Act III- Melons! Coupons! Georges Bizet.ape
+2025-08-28 16:13:46,987 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(10) Act III- Melons! Coupons! Georges Bizet.ape
+2025-08-28 16:13:47,022 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(11) Act III- Je dis que rien ne m'eouvante Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 16:13:48,621 - infini_converter - ERROR - Failed to process: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(11) Act III- Je dis que rien ne m'eouvante Georges Bizet.ape - Unknown error
+2025-08-28 16:13:48,650 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(13) Act IV- C'est toi! Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 16:13:49,940 - infini_converter - ERROR - Failed to process: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(13) Act IV- C'est toi! Georges Bizet.ape - Unknown error
+2025-08-28 16:13:49,969 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.42-Dorian-The Cantorial Voice Of Cello/Dorian-TheCantorialVoiceOfCello.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.42-Dorian-The Cantorial Voice Of Cello
+2025-08-28 16:14:55,396 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.42-Dorian-The Cantorial Voice Of Cello/Dorian-TheCantorialVoiceOfCello.ape
+2025-08-28 16:14:55,433 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.42-Dorian-The Cantorial Voice Of Cello/Dorian-TheCantorialVoiceOfCello.ape
+2025-08-28 16:14:55,468 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.44-Concerto for Double Bass-Opus3/Concerto for Double Bass-Opus3.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.44-Concerto for Double Bass-Opus3
+2025-08-28 16:15:36,074 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.44-Concerto for Double Bass-Opus3/Concerto for Double Bass-Opus3.ape
+2025-08-28 16:15:36,102 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.44-Concerto for Double Bass-Opus3/Concerto for Double Bass-Opus3.ape
+2025-08-28 16:15:36,137 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.60-Stokowski -1812 Overture/1812 Overture.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.60-Stokowski -1812 Overture
+2025-08-28 16:16:40,582 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.60-Stokowski -1812 Overture/1812 Overture.ape
+2025-08-28 16:16:40,618 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.60-Stokowski -1812 Overture/1812 Overture.ape
+2025-08-28 16:16:40,653 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.62-Beethoven Pastorale Symphony No.6/Beethoven Pastorale Symphony No.6.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.62-Beethoven Pastorale Symphony No.6
+2025-08-28 16:17:11,179 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/刘汉盛榜单NO.62-Beethoven Pastorale Symphony No.6/Beethoven Pastorale Symphony No.6.ape
+2025-08-28 16:17:11,201 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/刘汉盛榜单NO.62-Beethoven Pastorale Symphony No.6/Beethoven Pastorale Symphony No.6.ape
+2025-08-28 16:17:11,265 - infini_converter - INFO - Processing /Volumes/1T/Classic/小提琴：威尔第的茶花女 Verdi & Variations（原装英版chandos唱片公司）/小提琴：威尔第的茶花女 Verdi & Variations.ape with output directory: /Volumes/1T/Classic/小提琴：威尔第的茶花女 Verdi & Variations（原装英版chandos唱片公司）
+2025-08-28 16:18:00,965 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/小提琴：威尔第的茶花女 Verdi & Variations（原装英版chandos唱片公司）/小提琴：威尔第的茶花女 Verdi & Variations.ape
+2025-08-28 16:18:01,009 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/小提琴：威尔第的茶花女 Verdi & Variations（原装英版chandos唱片公司）/小提琴：威尔第的茶花女 Verdi & Variations.ape
+2025-08-28 16:18:01,067 - infini_converter - INFO - Processing /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD1.ape with output directory: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）
+2025-08-28 16:19:02,796 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD1.ape
+2025-08-28 16:19:02,850 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD1.ape
+2025-08-28 16:19:02,917 - infini_converter - INFO - Processing /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD2.ape with output directory: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）
+2025-08-28 16:20:00,656 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD2.ape
+2025-08-28 16:20:00,708 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD2.ape
+2025-08-28 16:20:00,777 - infini_converter - INFO - Processing /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD3.ape with output directory: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）
+2025-08-28 16:21:03,781 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD3.ape
+2025-08-28 16:21:03,834 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD3.ape
+2025-08-28 16:21:03,897 - infini_converter - INFO - Processing /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD4.ape with output directory: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）
+2025-08-28 16:22:05,637 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD4.ape
+2025-08-28 16:22:05,696 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD4.ape
+2025-08-28 16:22:05,760 - infini_converter - INFO - Processing /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD5.ape with output directory: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）
+2025-08-28 16:23:08,976 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD5.ape
+2025-08-28 16:23:09,032 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD5.ape
+2025-08-28 16:23:09,091 - infini_converter - INFO - Processing /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD6.ape with output directory: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）
+2025-08-28 16:24:11,370 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD6.ape
+2025-08-28 16:24:11,429 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD）/施特劳斯家族圆舞曲、波尔卡和进行曲全集（6CD） CD6.ape
+2025-08-28 16:24:11,483 - infini_converter - INFO - Processing /Volumes/1T/Classic/莫扎特土耳其进行曲/莫扎特.土耳其进行曲.ape with output directory: /Volumes/1T/Classic/莫扎特土耳其进行曲
+2025-08-28 16:25:03,231 - infini_converter - INFO - Successfully processed: /Volumes/1T/Classic/莫扎特土耳其进行曲/莫扎特.土耳其进行曲.ape
+2025-08-28 16:25:03,284 - infini_converter - INFO - Deleted original file: /Volumes/1T/Classic/莫扎特土耳其进行曲/莫扎特.土耳其进行曲.ape
+2025-08-28 16:25:03,315 - infini_converter - INFO - Processing /Volumes/1T/HiFi/Audiophile Gold CD Chesky/Audiophile Gold CD Chesky.ape with output directory: /Volumes/1T/HiFi/Audiophile Gold CD Chesky
+2025-08-28 16:26:06,655 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/Audiophile Gold CD Chesky/Audiophile Gold CD Chesky.ape
+2025-08-28 16:26:06,700 - infini_converter - INFO - Deleted original file: /Volumes/1T/HiFi/Audiophile Gold CD Chesky/Audiophile Gold CD Chesky.ape
+2025-08-28 16:26:06,736 - infini_converter - INFO - Processing /Volumes/1T/HiFi/BELL发烧碟-CLASSIC REFERENCE/BELL发烧碟-CLASSIC REFERENCE.ape with output directory: /Volumes/1T/HiFi/BELL发烧碟-CLASSIC REFERENCE
+2025-08-28 16:30:08,023 - infini_converter - INFO - Initial settings loaded
+2025-08-28 16:30:12,232 - infini_converter - INFO - Found 46 files in /Volumes/1T (filtered from 46)
+2025-08-28 16:30:23,430 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄品源精选
+2025-08-28 16:30:33,233 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄品源精选/滚石香港黄金十年：黄品源精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄品源精选
+2025-08-28 16:31:41,653 - infini_converter - ERROR - Failed to process: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄品源精选/滚石香港黄金十年：黄品源精选.ape - Unknown error
+2025-08-28 16:31:41,698 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-28 17:42:41,998 - infini_converter - INFO - Found 46 files in /Volumes/1T (filtered from 46)
+2025-08-28 17:42:48,049 - infini_converter - INFO - Logging enabled
+2025-08-28 17:44:15,144 - infini_converter - INFO - Processing /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄品源精选/滚石香港黄金十年：黄品源精选.ape with output directory: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄品源精选
+2025-08-28 17:45:24,922 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄品源精选/滚石香港黄金十年：黄品源精选.ape
+2025-08-28 17:45:24,969 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/滚石黄金十年合集/滚石香港黄金十年：黄品源精选/滚石香港黄金十年：黄品源精选.ape
+2025-08-28 17:45:25,008 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-28 17:45:30,978 - infini_converter - INFO - Found 45 files in /Volumes/1T (filtered from 45)
+2025-08-28 18:51:44,877 - infini_converter - INFO - Initial settings loaded
+2025-08-28 18:51:48,122 - infini_converter - INFO - Found 45 files in /Volumes/1T (filtered from 45)
+2025-08-28 18:51:53,712 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 1
+2025-08-28 18:52:02,936 - infini_converter - INFO - Processing /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 1/Aerosmith - Pandoras Box (1991) Disc 1.ape with output directory: /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 1
+2025-08-28 18:52:04,334 - infini_converter - ERROR - Failed to process: /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 1/Aerosmith - Pandoras Box (1991) Disc 1.ape - Unknown error
+2025-08-28 18:52:04,354 - infini_converter - INFO - Processing /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 2/Aerosmith - Pandoras Box (1991) Disc 2.ape with output directory: /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 2
+2025-08-28 18:52:05,878 - infini_converter - ERROR - Failed to process: /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 2/Aerosmith - Pandoras Box (1991) Disc 2.ape - Unknown error
+2025-08-28 18:52:05,898 - infini_converter - INFO - Processing /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 3/Aerosmith - Pandoras Box (1991) Disc 3.ape with output directory: /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 3
+2025-08-28 18:52:07,424 - infini_converter - ERROR - Failed to process: /Volumes/1T/Artists/Aerosmith/1991-Pandora's Box 3CD/Aerosmith - Pandoras Box (1991) Disc 3/Aerosmith - Pandoras Box (1991) Disc 3.ape - Unknown error
+2025-08-28 18:52:07,478 - infini_converter - INFO - Processing /Volumes/1T/Artists/IL DIVO 男声四大金嗓/IL DIVO 男声四大金嗓.ape with output directory: /Volumes/1T/Artists/IL DIVO 男声四大金嗓
+2025-08-28 18:52:07,796 - infini_converter - ERROR - Failed to process: /Volumes/1T/Artists/IL DIVO 男声四大金嗓/IL DIVO 男声四大金嗓.ape - Input file not found: /Volumes/1T/Artists/IL DIVO 男声四大金嗓/IL DIVO 男声四大金嗓.ape
+2025-08-28 18:52:07,845 - infini_converter - INFO - Processing /Volumes/1T/Artists/Madonna/1987 Who's That Girl/1987 Who's That Girl.ape with output directory: /Volumes/1T/Artists/Madonna/1987 Who's That Girl
+2025-08-28 18:52:09,017 - infini_converter - ERROR - Failed to process: /Volumes/1T/Artists/Madonna/1987 Who's That Girl/1987 Who's That Girl.ape - Unknown error
+2025-08-28 18:52:09,049 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(08) Act II- La fleur que tu m'avais jetee Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 18:52:10,277 - infini_converter - ERROR - Failed to process: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(08) Act II- La fleur que tu m'avais jetee Georges Bizet.ape - Unknown error
+2025-08-28 18:52:10,312 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(09) Act II- Non! tu ne m'aimes pas! Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 18:52:11,540 - infini_converter - ERROR - Failed to process: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(09) Act II- Non! tu ne m'aimes pas! Georges Bizet.ape - Unknown error
+2025-08-28 18:52:11,575 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(11) Act III- Je dis que rien ne m'eouvante Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 18:52:12,793 - infini_converter - ERROR - Failed to process: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(11) Act III- Je dis que rien ne m'eouvante Georges Bizet.ape - Unknown error
+2025-08-28 18:52:12,826 - infini_converter - INFO - Processing /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(13) Act IV- C'est toi! Georges Bizet.ape with output directory: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights
+2025-08-28 18:52:14,072 - infini_converter - ERROR - Failed to process: /Volumes/1T/Classic/刘汉盛榜单NO.20-Bizet Carmen- highlights/Carmen-(13) Act IV- C'est toi! Georges Bizet.ape - Unknown error
+2025-08-28 18:52:14,104 - infini_converter - INFO - Processing /Volumes/1T/HiFi/BELL发烧碟-CLASSIC REFERENCE/BELL发烧碟-CLASSIC REFERENCE.ape with output directory: /Volumes/1T/HiFi/BELL发烧碟-CLASSIC REFERENCE
+2025-08-28 18:53:23,126 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/BELL发烧碟-CLASSIC REFERENCE/BELL发烧碟-CLASSIC REFERENCE.ape
+2025-08-28 18:53:23,150 - infini_converter - INFO - Processing /Volumes/1T/HiFi/British.Music.on.Lyrita.from.Quad/British.Music.on.Lyrita.from.Quad.ape with output directory: /Volumes/1T/HiFi/British.Music.on.Lyrita.from.Quad
+2025-08-28 18:54:47,504 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/British.Music.on.Lyrita.from.Quad/British.Music.on.Lyrita.from.Quad.ape
+2025-08-28 18:54:47,537 - infini_converter - INFO - Processing /Volumes/1T/HiFi/CANTATE DOMINO (黑白教堂)/Erik Westberg Vocal Ensemble - Musica Sacra/Erik Westberg Vocal Ensemble - Musica Sacra.ape with output directory: /Volumes/1T/HiFi/CANTATE DOMINO (黑白教堂)/Erik Westberg Vocal Ensemble - Musica Sacra
+2025-08-28 18:56:13,652 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/CANTATE DOMINO (黑白教堂)/Erik Westberg Vocal Ensemble - Musica Sacra/Erik Westberg Vocal Ensemble - Musica Sacra.ape
+2025-08-28 18:56:13,690 - infini_converter - INFO - Processing /Volumes/1T/HiFi/CANTATE DOMINO (黑白教堂)/黑教堂/黑教堂.ape with output directory: /Volumes/1T/HiFi/CANTATE DOMINO (黑白教堂)/黑教堂
+2025-08-28 18:57:17,415 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/CANTATE DOMINO (黑白教堂)/黑教堂/黑教堂.ape
+2025-08-28 18:57:17,433 - infini_converter - INFO - Processing /Volumes/1T/HiFi/FIM CD004 - The Proprius Sound/FIM CD004 - The Proprius Sound.ape with output directory: /Volumes/1T/HiFi/FIM CD004 - The Proprius Sound
+2025-08-28 18:58:58,270 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/FIM CD004 - The Proprius Sound/FIM CD004 - The Proprius Sound.ape
+2025-08-28 18:58:58,314 - infini_converter - INFO - Processing /Volumes/1T/HiFi/Linn Records Super Audio CD Sampler/Linn Records Super Audio CD Sampler.ape with output directory: /Volumes/1T/HiFi/Linn Records Super Audio CD Sampler
+2025-08-28 19:00:26,638 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/Linn Records Super Audio CD Sampler/Linn Records Super Audio CD Sampler.ape
+2025-08-28 19:00:26,658 - infini_converter - INFO - Processing /Volumes/1T/HiFi/PHILIPS HEADPHONE ACOUSTICS REFERENCE CD/耳机测试CD.ape with output directory: /Volumes/1T/HiFi/PHILIPS HEADPHONE ACOUSTICS REFERENCE CD
+2025-08-28 19:02:03,812 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/PHILIPS HEADPHONE ACOUSTICS REFERENCE CD/耳机测试CD.ape
+2025-08-28 19:02:03,830 - infini_converter - INFO - Processing /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test Demo CD - Fifth Edition Marantz 50th Anniversary/马兰士50周年纪念碟.ape with output directory: /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test Demo CD - Fifth Edition Marantz 50th Anniversary
+2025-08-28 19:02:04,121 - infini_converter - ERROR - Failed to process: /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test Demo CD - Fifth Edition Marantz 50th Anniversary/马兰士50周年纪念碟.ape - Input file not found: /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test Demo CD - Fifth Edition Marantz 50th Anniversary/马兰士50周年纪念碟.ape
+2025-08-28 19:02:04,178 - infini_converter - INFO - Processing /Volumes/1T/HiFi/opus 3 -Katinka Wilson- One life/opus 3最新發燒女聲大碟--卡婷卡．威爾森  一生只有一次One life.ape with output directory: /Volumes/1T/HiFi/opus 3 -Katinka Wilson- One life
+2025-08-28 19:03:12,526 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/opus 3 -Katinka Wilson- One life/opus 3最新發燒女聲大碟--卡婷卡．威爾森  一生只有一次One life.ape
+2025-08-28 19:03:12,565 - infini_converter - INFO - Processing /Volumes/1T/HiFi/古董真空管/Tacet Audiophile Sampler/TACET-The Best 2004.ape with output directory: /Volumes/1T/HiFi/古董真空管/Tacet Audiophile Sampler
+2025-08-28 19:04:53,760 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/古董真空管/Tacet Audiophile Sampler/TACET-The Best 2004.ape
+2025-08-28 19:04:53,789 - infini_converter - INFO - Processing /Volumes/1T/HiFi/古董真空管/The Tube Only Violin/The Tube Only Violin.ape with output directory: /Volumes/1T/HiFi/古董真空管/The Tube Only Violin
+2025-08-28 19:06:17,361 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/古董真空管/The Tube Only Violin/The Tube Only Violin.ape
+2025-08-28 19:06:17,403 - infini_converter - INFO - Processing /Volumes/1T/HiFi/古董真空管/【古董真空管万岁《The Tube》】/古董真空管万岁《The Tube》.ape with output directory: /Volumes/1T/HiFi/古董真空管/【古董真空管万岁《The Tube》】
+2025-08-28 19:07:51,803 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/古董真空管/【古董真空管万岁《The Tube》】/古董真空管万岁《The Tube》.ape
+2025-08-28 19:07:51,842 - infini_converter - INFO - Processing /Volumes/1T/HiFi/古董真空管/古董真空管之弦乐巴洛克/古董真空管之弦乐巴洛克.ape with output directory: /Volumes/1T/HiFi/古董真空管/古董真空管之弦乐巴洛克
+2025-08-28 19:09:22,281 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/古董真空管/古董真空管之弦乐巴洛克/古董真空管之弦乐巴洛克.ape
+2025-08-28 19:09:22,331 - infini_converter - INFO - Processing /Volumes/1T/HiFi/古董真空管/小提琴：真空管万岁之夜曲 (德国版)/小提琴：真空管万岁之夜曲 (德国版).ape with output directory: /Volumes/1T/HiFi/古董真空管/小提琴：真空管万岁之夜曲 (德国版)
+2025-08-28 19:10:45,444 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/古董真空管/小提琴：真空管万岁之夜曲 (德国版)/小提琴：真空管万岁之夜曲 (德国版).ape
+2025-08-28 19:10:45,491 - infini_converter - INFO - Processing /Volumes/1T/HiFi/纯FIHI：大提琴示范天碟《鹅仔》Nathaniel Rosen Orientale/纯FIHI：大提琴示范天碟《鹅仔》Nathaniel Rosen Orientale.ape with output directory: /Volumes/1T/HiFi/纯FIHI：大提琴示范天碟《鹅仔》Nathaniel Rosen Orientale
+2025-08-28 19:12:11,743 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/纯FIHI：大提琴示范天碟《鹅仔》Nathaniel Rosen Orientale/纯FIHI：大提琴示范天碟《鹅仔》Nathaniel Rosen Orientale.ape
+2025-08-28 19:12:11,768 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/Led Zeppelin/1969 - Led Zeppelin I/1969 - Led Zeppelin I.ape with output directory: /Volumes/1T/Rock&Metal/Led Zeppelin/1969 - Led Zeppelin I
+2025-08-28 19:13:36,993 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/Led Zeppelin/1969 - Led Zeppelin I/1969 - Led Zeppelin I.ape
+2025-08-28 19:13:37,009 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/Led Zeppelin/1969 - Led Zeppelin II/1969 - Led Zeppelin II.ape with output directory: /Volumes/1T/Rock&Metal/Led Zeppelin/1969 - Led Zeppelin II
+2025-08-28 19:14:52,553 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/Led Zeppelin/1969 - Led Zeppelin II/1969 - Led Zeppelin II.ape
+2025-08-28 19:14:52,570 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/Led Zeppelin/1970 - Led Zeppelin III/1970 - Led Zeppelin III.ape with output directory: /Volumes/1T/Rock&Metal/Led Zeppelin/1970 - Led Zeppelin III
+2025-08-28 19:16:16,040 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/Led Zeppelin/1970 - Led Zeppelin III/1970 - Led Zeppelin III.ape
+2025-08-28 19:16:16,057 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/Led Zeppelin/1971 - Led Zeppelin IV/1971 - Led Zeppelin IV.ape with output directory: /Volumes/1T/Rock&Metal/Led Zeppelin/1971 - Led Zeppelin IV
+2025-08-28 19:17:37,909 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/Led Zeppelin/1971 - Led Zeppelin IV/1971 - Led Zeppelin IV.ape
+2025-08-28 19:17:37,927 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/Led Zeppelin/1973 - Houses Of The Holy/1973 - Houses Of The Holy.ape with output directory: /Volumes/1T/Rock&Metal/Led Zeppelin/1973 - Houses Of The Holy
+2025-08-28 19:26:23,824 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/Led Zeppelin/1973 - Houses Of The Holy/1973 - Houses Of The Holy.ape
+2025-08-28 19:26:23,851 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD1/1979 - Final Cut Knebworth Park 3CD CD1.ape with output directory: /Volumes/1T/Rock&Metal/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD1
+2025-08-28 19:28:09,378 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD1/1979 - Final Cut Knebworth Park 3CD CD1.ape
+2025-08-28 19:28:09,395 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD2/1979 - Final Cut Knebworth Park 3CD CD2.ape with output directory: /Volumes/1T/Rock&Metal/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD2
+2025-08-28 19:29:33,520 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD2/1979 - Final Cut Knebworth Park 3CD CD2.ape
+2025-08-28 19:29:33,537 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD3/1979 - Final Cut Knebworth Park 3CD CD3.ape with output directory: /Volumes/1T/Rock&Metal/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD3
+2025-08-28 19:30:29,380 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/Led Zeppelin/1979 - Final Cut Knebworth Park 3CD/CD3/1979 - Final Cut Knebworth Park 3CD CD3.ape
+2025-08-28 19:30:29,395 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/Led Zeppelin/1997 - BBC Sessions/CD1/1997 - BBC Sessions CD1.ape with output directory: /Volumes/1T/Rock&Metal/Led Zeppelin/1997 - BBC Sessions/CD1
+2025-08-28 19:32:18,106 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/Led Zeppelin/1997 - BBC Sessions/CD1/1997 - BBC Sessions CD1.ape
+2025-08-28 19:32:18,119 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/Led Zeppelin/1997 - BBC Sessions/cd2/1997 - BBC Sessions cd2.ape with output directory: /Volumes/1T/Rock&Metal/Led Zeppelin/1997 - BBC Sessions/cd2
+2025-08-28 19:34:03,164 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/Led Zeppelin/1997 - BBC Sessions/cd2/1997 - BBC Sessions cd2.ape
+2025-08-28 19:34:03,177 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/Led Zeppelin/2002 - Early Days/2002 - Early Days.ape with output directory: /Volumes/1T/Rock&Metal/Led Zeppelin/2002 - Early Days
+2025-08-28 19:35:34,371 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/Led Zeppelin/2002 - Early Days/2002 - Early Days.ape
+2025-08-28 19:35:34,382 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/Led Zeppelin/2002 - Latter Days/2002 - Latter Days.ape with output directory: /Volumes/1T/Rock&Metal/Led Zeppelin/2002 - Latter Days
+2025-08-28 19:37:09,022 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/Led Zeppelin/2002 - Latter Days/2002 - Latter Days.ape
+2025-08-28 19:37:09,065 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/Raidas/陈德彰_Raidas-新曲+精选/陈德彰 Raidas - 新曲+精选.ape with output directory: /Volumes/1T/Rock&Metal/Raidas/陈德彰_Raidas-新曲+精选
+2025-08-28 19:38:27,855 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/Raidas/陈德彰_Raidas-新曲+精选/陈德彰 Raidas - 新曲+精选.ape
+2025-08-28 19:38:27,898 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/达明一派/1986-达明一派Ⅱ/1986-达明一派Ⅱ.ape with output directory: /Volumes/1T/Rock&Metal/达明一派/1986-达明一派Ⅱ
+2025-08-28 19:39:35,181 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/达明一派/1986-达明一派Ⅱ/1986-达明一派Ⅱ.ape
+2025-08-28 19:39:35,220 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/达明一派/1987-我等着你回来/1987-我等着你回来.ape with output directory: /Volumes/1T/Rock&Metal/达明一派/1987-我等着你回来
+2025-08-28 19:40:34,137 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/达明一派/1987-我等着你回来/1987-我等着你回来.ape
+2025-08-28 19:40:34,178 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/达明一派/1987-石头记/1987-石头记.ape with output directory: /Volumes/1T/Rock&Metal/达明一派/1987-石头记
+2025-08-28 19:41:32,357 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/达明一派/1987-石头记/1987-石头记.ape
+2025-08-28 19:41:32,392 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/达明一派/1988-你还爱我吗/1988-你还爱我吗.ape with output directory: /Volumes/1T/Rock&Metal/达明一派/1988-你还爱我吗
+2025-08-28 19:42:58,902 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/达明一派/1988-你还爱我吗/1988-你还爱我吗.ape
+2025-08-28 19:42:58,944 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/达明一派/1989-意难平/1989-意难平.ape with output directory: /Volumes/1T/Rock&Metal/达明一派/1989-意难平
+2025-08-28 19:45:43,640 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/达明一派/1989-意难平/1989-意难平.ape
+2025-08-28 19:45:43,679 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/达明一派/1989-神经/1989-神经.ape with output directory: /Volumes/1T/Rock&Metal/达明一派/1989-神经
+2025-08-28 19:46:52,652 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/达明一派/1989-神经/1989-神经.ape
+2025-08-28 19:46:52,694 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/达明一派/1996-万岁万岁万万岁！/1996-万岁万岁万万岁！.ape with output directory: /Volumes/1T/Rock&Metal/达明一派/1996-万岁万岁万万岁！
+2025-08-28 19:48:22,037 - infini_converter - INFO - Successfully processed: /Volumes/1T/Rock&Metal/达明一派/1996-万岁万岁万万岁！/1996-万岁万岁万万岁！.ape
+2025-08-28 19:48:22,077 - infini_converter - INFO - Processing /Volumes/1T/Rock&Metal/达明一派/1997-万岁万岁万万岁十周年演唱会/1997-万岁万岁万万岁十周年演唱会.ape with output directory: /Volumes/1T/Rock&Metal/达明一派/1997-万岁万岁万万岁十周年演唱会
+2025-08-29 08:26:45,842 - infini_converter - INFO - Initial settings loaded
+2025-08-29 08:28:07,194 - infini_converter - INFO - Found 2 files in /Volumes/1T (filtered from 2)
+2025-08-29 08:28:26,839 - infini_converter - INFO - Processing /Volumes/1T/Artists/IL DIVO 男声四大金嗓/IL DIVO 男声四大金嗓.ape with output directory: /Volumes/1T/Artists/IL DIVO 男声四大金嗓
+2025-08-29 08:28:26,916 - infini_converter - ERROR - Failed to process: /Volumes/1T/Artists/IL DIVO 男声四大金嗓/IL DIVO 男声四大金嗓.ape - Input file not found: /Volumes/1T/Artists/IL DIVO 男声四大金嗓/IL DIVO 男声四大金嗓.ape
+2025-08-29 08:28:26,958 - infini_converter - INFO - Processing /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test Demo CD - Fifth Edition Marantz 50th Anniversary/马兰士50周年纪念碟.ape with output directory: /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test Demo CD - Fifth Edition Marantz 50th Anniversary
+2025-08-29 08:28:27,024 - infini_converter - ERROR - Failed to process: /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test Demo CD - Fifth Edition Marantz 50th Anniversary/马兰士50周年纪念碟.ape - Input file not found: /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test Demo CD - Fifth Edition Marantz 50th Anniversary/马兰士50周年纪念碟.ape
+2025-08-29 08:28:27,086 - infini_converter - INFO - Processing complete: 0 successful, 2 failed

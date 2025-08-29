@@ -1,0 +1,19 @@
+{
+  "file_extensions": [
+    ".cue"
+  ],
+  "output_directory": "/Volumes/EVO-512G",
+  "processing_program": "sed ",
+  "command_template": "{program} -i ' ' 's/\\.ape/.flac/g' \"{input}\"",
+  "logging_enabled": true,
+  "log_file": "infini_converter.log",
+  "show_command_confirm": true,
+  "gui": {
+    "window_size": [
+      800,
+      600
+    ],
+    "window_title": "Infini Converter"
+  },
+  "input_directory": "/Volumes/EVO-512G"
+}
