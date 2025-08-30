@@ -22,6 +22,7 @@ class Config:
             "logging_enabled": True,
             "log_file": "infini_converter.log",
             "show_command_confirm": False,
+            "del_origin_file": False,
             "gui": {
                 "window_size": [800, 600],
                 "window_title": "Infini Converter"
@@ -101,6 +102,12 @@ class Config:
     
     def set_command_confirm_enabled(self, enabled: bool) -> None:
         self.set("show_command_confirm", enabled)
+    
+    def is_del_origin_file_enabled(self) -> bool:
+        return self.get("del_origin_file", False)
+    
+    def set_del_origin_file_enabled(self, enabled: bool) -> None:
+        self.set("del_origin_file", enabled)
     
     def load_defaults(self) -> None:
         """Load the default configuration values."""

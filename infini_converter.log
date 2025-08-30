@@ -1371,3 +1371,27 @@
 2025-08-30 22:21:48,869 - infini_converter - INFO - Initial settings loaded
 2025-08-30 22:23:35,119 - infini_converter - INFO - Initial settings loaded
 2025-08-30 22:25:05,394 - infini_converter - INFO - Initial settings loaded
+2025-08-30 22:59:44,006 - infini_converter - INFO - Initial settings loaded
+2025-08-30 23:01:17,412 - infini_converter - INFO - Input directory set to: /Volumes/EVO-512G
+2025-08-30 23:01:22,406 - infini_converter - INFO - Found 0 files in /Volumes/EVO-512G (filtered from 0)
+2025-08-30 23:01:33,312 - infini_converter - INFO - Found 4 files in /Volumes/EVO-512G (filtered from 5)
+2025-08-30 23:01:39,730 - infini_converter - INFO - Found 1 files in /Volumes/EVO-512G (filtered from 1)
+2025-08-30 23:01:55,119 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/Nightwish/2001-Wishmastour 2000
+2025-08-30 23:02:18,810 - infini_converter - INFO - Processing /Volumes/EVO-512G/Nightwish/2001-Wishmastour 2000/CDImage.wv with output directory: /Volumes/EVO-512G/Nightwish/2001-Wishmastour 2000
+2025-08-30 23:02:20,008 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/Nightwish/2001-Wishmastour 2000/CDImage.wv - Unknown error
+2025-08-30 23:02:20,011 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-30 23:03:46,445 - infini_converter - INFO - Input directory set to: /Volumes/EVO-512G
+2025-08-30 23:03:49,191 - infini_converter - INFO - Same as Input disabled
+2025-08-30 23:03:50,205 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G
+2025-08-30 23:03:58,985 - infini_converter - INFO - Found 1 files in /Volumes/EVO-512G (filtered from 1)
+2025-08-30 23:04:02,578 - infini_converter - INFO - Same as Input disabled
+2025-08-30 23:04:03,636 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/Nightwish/2001-Wishmastour 2000
+2025-08-30 23:04:52,934 - infini_converter - INFO - Configuration saved as: config
+2025-08-30 23:05:01,738 - infini_converter - INFO - Configuration loaded: config.json
+2025-08-30 23:05:04,729 - infini_converter - INFO - Found 1 files in /Volumes/EVO-512G (filtered from 1)
+2025-08-30 23:05:10,964 - infini_converter - INFO - Processing /Volumes/EVO-512G/Nightwish/2001-Wishmastour 2000/CDImage.wv with output directory: /Volumes/EVO-512G/Nightwish/2001-Wishmastour 2000
+2025-08-30 23:05:46,916 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Nightwish/2001-Wishmastour 2000/CDImage.wv
+2025-08-30 23:05:46,939 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Nightwish/2001-Wishmastour 2000/CDImage.wv
+2025-08-30 23:05:46,992 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 23:08:37,493 - infini_converter - INFO - Found 0 files in /Volumes/EVO-512G (filtered from 0)
+2025-08-30 23:08:38,434 - infini_converter - INFO - Found 0 files in /Volumes/EVO-512G (filtered from 0)

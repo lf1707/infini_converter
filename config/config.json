@@ -1,14 +1,15 @@
 {
   "file_extensions": [
-    ".cue"
+    ".ape"
   ],
-  "output_directory": "/Volumes/EVO-512G/",
-  "processing_program": "sed ",
+  "output_directory": "/Volumes/1T/Albums/\u5b8c\u7f8e\u58f0\u97f32[XRCD]",
+  "processing_program": "/Users/lumfranks/bin/xld",
   "env_vars": "LC_ALL=C",
-  "command_template": "{env} {program} -i '' 's/\\.wav/.flac/g' \"{input}\"",
+  "command_template": "{program}  -f flac -o {output_dir} {input}",
   "logging_enabled": true,
   "log_file": "infini_converter.log",
   "show_command_confirm": true,
+  "del_origin_file": true,
   "gui": {
     "window_size": [
       800,
@@ -16,5 +17,5 @@
     ],
     "window_title": "Infini Converter"
   },
-  "input_directory": "/Volumes/EVO-512G/"
+  "input_directory": "/Volumes/1T"
 }

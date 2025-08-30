@@ -353,8 +353,13 @@ class InfiniConverterGUI:
             self.config.set_env_vars(self.env_vars.get())
             self.config.save_config()
         
+        def on_del_origin_file_change(*args):
+            self.config.set_del_origin_file_enabled(self.del_origin_file.get())
+            self.config.save_config()
+        
         self.show_command_confirm.trace_add('write', on_command_confirm_change)
         self.env_vars.trace_add('write', on_env_vars_change)
+        self.del_origin_file.trace_add('write', on_del_origin_file_change)
         
         # Options Section
         options_frame = ttk.Frame(main_frame)
@@ -1814,6 +1819,7 @@ class InfiniConverterGUI:
                 self.config.set_env_vars(self.env_vars.get())
                 self.config.set_logging_enabled(self.logging_enabled.get())
                 self.config.set_command_confirm_enabled(self.show_command_confirm.get())
+                self.config.set_del_origin_file_enabled(self.del_origin_file.get())
                 
                 extensions = [ext.strip() for ext in self.file_extensions.get().split(",") if ext.strip()]
                 self.config.set_file_extensions(extensions)
@@ -2272,6 +2278,7 @@ class InfiniConverterGUI:
         
         self.logging_enabled.set(self.config.is_logging_enabled())
         self.show_command_confirm.set(self.config.is_command_confirm_enabled())
+        self.del_origin_file.set(self.config.is_del_origin_file_enabled())
         
         extensions = self.config.get_file_extensions()
         if extensions:
