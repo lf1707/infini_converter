@@ -9,10 +9,11 @@ import threading
 import time
 
 class FileProcessor:
-    def __init__(self, processing_program: str = "", output_directory: str = "", command_template: str = ""):
+    def __init__(self, processing_program: str = "", output_directory: str = "", command_template: str = "", env_vars: str = ""):
         self.processing_program = processing_program
         self.output_directory = output_directory
         self.command_template = command_template
+        self.env_vars = env_vars
         self.processing_results = []
         self.is_processing = False
         self.should_stop = False
@@ -44,9 +45,18 @@ class FileProcessor:
         Set the command template for subprocess execution.
         
         Args:
-            template: Command template with placeholders {program}, {input}, {output_dir}
+            template: Command template with placeholders {env}, {program}, {input}, {output_dir}
         """
         self.command_template = template
+    
+    def set_env_vars(self, env_vars: str) -> None:
+        """
+        Set the environment variables for subprocess execution.
+        
+        Args:
+            env_vars: Environment variables string
+        """
+        self.env_vars = env_vars
     
     def is_placeholder_quoted(self, template: str, placeholder: str) -> bool:
         """
@@ -146,8 +156,13 @@ class FileProcessor:
                 }
             
             escaped = path
+            # Escape backslash first to avoid double-escaping
+            if '\\' in escape_map:
+                escaped = escaped.replace('\\', escape_map['\\'])
+            # Then escape all other characters
             for char, escaped_char in escape_map.items():
-                escaped = escaped.replace(char, escaped_char)
+                if char != '\\':  # Skip backslash since we already handled it
+                    escaped = escaped.replace(char, escaped_char)
             
             return escaped
         else:
@@ -178,6 +193,7 @@ class FileProcessor:
             # Format command template with error handling
             try:
                 cmd_template = self.command_template.format(
+                    env=self.env_vars,
                     program=self.processing_program,
                     input=escaped_input,
                     output_dir=escaped_output
@@ -185,12 +201,14 @@ class FileProcessor:
             except KeyError as e:
                 # Handle missing placeholders gracefully
                 print(f"Warning: Command template missing placeholder {e}. Using fallback command.")
-                cmd_template = f"{self.processing_program} {escaped_input}"
+                env_prefix = f"{self.env_vars} " if self.env_vars else ""
+                cmd_template = f"{env_prefix}{self.processing_program} {escaped_input}"
                 if escaped_output:
                     cmd_template += f" {escaped_output}"
             except Exception as e:
                 print(f"Error formatting command template: {e}. Using fallback command.")
-                cmd_template = f"{self.processing_program} {escaped_input}"
+                env_prefix = f"{self.env_vars} " if self.env_vars else ""
+                cmd_template = f"{env_prefix}{self.processing_program} {escaped_input}"
                 if escaped_output:
                     cmd_template += f" {escaped_output}"
             # For template commands, use shell=True to preserve quotes
@@ -283,7 +301,8 @@ class FileProcessor:
             import shlex
             safe_input = shlex.quote(input_file)
             safe_program = shlex.quote(self.processing_program) if self.processing_program else ""
-            return f"{safe_program} {safe_input}"
+            env_prefix = f"{self.env_vars} " if self.env_vars else ""
+            return f"{env_prefix}{safe_program} {safe_input}"
     
         
     def process_file(self, input_file: str, output_file: str = None, args: List[str] = None, progress_callback=None) -> Dict[str, Any]:
@@ -372,6 +391,16 @@ class FileProcessor:
             # Log the command being executed
             print(f"Executing command: {cmd_string}")
             
+            # Prepare environment variables
+            env = None
+            if self.env_vars:
+                env = os.environ.copy()
+                # Parse env vars (simple key=value pairs)
+                for env_var in self.env_vars.split():
+                    if '=' in env_var:
+                        key, value = env_var.split('=', 1)
+                        env[key] = value
+            
             # Run the external program with real-time output
             process = subprocess.Popen(
                 cmd_list,
@@ -380,7 +409,8 @@ class FileProcessor:
                 text=True,
                 bufsize=1,
                 universal_newlines=True,
-                shell=use_shell
+                shell=use_shell,
+                env=env
             )
             
             # Collect output and look for progress information

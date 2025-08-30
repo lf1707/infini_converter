@@ -1050,3 +1050,324 @@
 2025-08-29 08:28:26,958 - infini_converter - INFO - Processing /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test Demo CD - Fifth Edition Marantz 50th Anniversary/马兰士50周年纪念碟.ape with output directory: /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test Demo CD - Fifth Edition Marantz 50th Anniversary
 2025-08-29 08:28:27,024 - infini_converter - ERROR - Failed to process: /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test Demo CD - Fifth Edition Marantz 50th Anniversary/马兰士50周年纪念碟.ape - Input file not found: /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test Demo CD - Fifth Edition Marantz 50th Anniversary/马兰士50周年纪念碟.ape
 2025-08-29 08:28:27,086 - infini_converter - INFO - Processing complete: 0 successful, 2 failed
+2025-08-29 09:54:56,621 - infini_converter - INFO - Initial settings loaded
+2025-08-29 09:55:52,034 - infini_converter - INFO - Found 2 files in /Volumes/1T (filtered from 2)
+2025-08-29 09:59:36,301 - infini_converter - INFO - Initial settings loaded
+2025-08-29 09:59:41,848 - infini_converter - INFO - Found 2 files in /Volumes/1T (filtered from 2)
+2025-08-29 09:59:45,761 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Artists/IL DIVO  男声四大金嗓
+2025-08-29 09:59:53,865 - infini_converter - INFO - Processing /Volumes/1T/Artists/IL DIVO  男声四大金嗓/IL DIVO  男声四大金嗓.ape with output directory: /Volumes/1T/Artists/IL DIVO  男声四大金嗓
+2025-08-29 10:00:52,658 - infini_converter - INFO - Successfully processed: /Volumes/1T/Artists/IL DIVO  男声四大金嗓/IL DIVO  男声四大金嗓.ape
+2025-08-29 10:00:52,708 - infini_converter - INFO - Deleted original file: /Volumes/1T/Artists/IL DIVO  男声四大金嗓/IL DIVO  男声四大金嗓.ape
+2025-08-29 10:00:52,773 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-29 10:01:25,443 - infini_converter - INFO - Found 1 files in /Volumes/1T (filtered from 1)
+2025-08-29 10:01:50,785 - infini_converter - INFO - Processing /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test  Demo CD - Fifth Edition Marantz 50th Anniversary/马兰士50周年纪念碟.ape with output directory: /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test  Demo CD - Fifth Edition Marantz 50th Anniversary
+2025-08-29 10:02:59,497 - infini_converter - INFO - Successfully processed: /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test  Demo CD - Fifth Edition Marantz 50th Anniversary/马兰士50周年纪念碟.ape
+2025-08-29 10:02:59,546 - infini_converter - INFO - Deleted original file: /Volumes/1T/HiFi/STS 611132 - High End Audiophile Test  Demo CD - Fifth Edition Marantz 50th Anniversary/马兰士50周年纪念碟.ape
+2025-08-29 10:02:59,596 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-29 13:55:36,435 - infini_converter - INFO - Found 0 files in /Volumes/1T (filtered from 0)
+2025-08-29 13:56:33,643 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-29 14:24:54,326 - infini_converter - INFO - Initial settings loaded
+2025-08-29 14:25:00,288 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-29 14:25:03,523 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音1[XRCD]
+2025-08-29 14:25:11,256 - infini_converter - INFO - Processing /Volumes/1T/Albums/完美声音1[XRCD]/完美声音1[XRCD].cue with output directory: /Volumes/1T/Albums/完美声音1[XRCD]
+2025-08-29 14:25:12,623 - infini_converter - ERROR - Failed to process: /Volumes/1T/Albums/完美声音1[XRCD]/完美声音1[XRCD].cue - Unknown error
+2025-08-29 14:25:12,663 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-29 14:33:41,731 - infini_converter - INFO - Same as Input disabled
+2025-08-29 14:33:42,284 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音2[XRCD]
+2025-08-29 14:35:01,959 - infini_converter - INFO - Initial settings loaded
+2025-08-29 14:38:43,795 - infini_converter - INFO - Initial settings loaded
+2025-08-29 14:38:50,397 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-29 14:38:51,579 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T
+2025-08-29 14:39:01,995 - infini_converter - INFO - Same as Input disabled
+2025-08-29 14:39:02,505 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音2[XRCD]
+2025-08-29 14:46:44,944 - infini_converter - INFO - Initial settings loaded
+2025-08-29 14:47:12,377 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-29 14:47:14,489 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T
+2025-08-29 14:47:17,987 - infini_converter - INFO - Same as Input disabled
+2025-08-29 14:47:18,527 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音2[XRCD]
+2025-08-29 14:48:02,642 - infini_converter - INFO - Processing /Volumes/1T/Albums/完美声音2[XRCD]/完美声音2[XRCD].cue with output directory: /Volumes/1T/Albums/完美声音2[XRCD]
+2025-08-29 14:48:03,006 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/完美声音2[XRCD]/完美声音2[XRCD].cue
+2025-08-29 14:48:03,048 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-29 14:48:13,708 - infini_converter - INFO - Configuration saved as: config_sed
+2025-08-29 14:52:24,837 - infini_converter - INFO - Found 49 files in /Volumes/1T (filtered from 49)
+2025-08-29 14:52:35,874 - infini_converter - INFO - Configuration loaded: config_xld.json
+2025-08-29 14:52:44,263 - infini_converter - INFO - Found 49 files in /Volumes/1T (filtered from 49)
+2025-08-29 14:52:56,295 - infini_converter - INFO - Same as Input disabled
+2025-08-29 14:52:56,871 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T/Albums/完美声音1[XRCD]
+2025-08-29 14:53:16,034 - infini_converter - INFO - Processing /Volumes/1T/Albums/完美声音1[XRCD]/完美声音1[XRCD].wav with output directory: /Volumes/1T/Albums/完美声音1[XRCD]
+2025-08-29 14:53:32,219 - infini_converter - INFO - Successfully processed: /Volumes/1T/Albums/完美声音1[XRCD]/完美声音1[XRCD].wav
+2025-08-29 14:53:32,336 - infini_converter - INFO - Deleted original file: /Volumes/1T/Albums/完美声音1[XRCD]/完美声音1[XRCD].wav
+2025-08-29 14:53:32,398 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-29 14:54:12,196 - infini_converter - INFO - Configuration loaded: config_sed.json
+2025-08-29 15:01:28,244 - infini_converter - INFO - Initial settings loaded
+2025-08-30 14:53:13,521 - infini_converter - INFO - Initial settings loaded
+2025-08-30 14:53:20,669 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-30 14:53:21,296 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T
+2025-08-30 14:55:48,766 - infini_converter - INFO - Initial settings loaded
+2025-08-30 14:57:59,654 - infini_converter - INFO - Configuration loaded: config_sed.json
+2025-08-30 15:00:41,595 - infini_converter - INFO - Initial settings loaded
+2025-08-30 15:02:20,600 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-30 15:02:22,058 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/1T
+2025-08-30 15:02:22,990 - infini_converter - INFO - Same as Input disabled
+2025-08-30 15:02:27,004 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-30 15:02:39,529 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-30 15:02:39,541 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 15:04:30,846 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-30 15:04:30,861 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 15:07:00,099 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-30 15:07:00,112 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 15:08:45,203 - infini_converter - INFO - Configuration saved as: config_sed
+2025-08-30 15:09:04,575 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-30 15:09:04,586 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 15:10:15,097 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-30 15:10:15,115 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 15:11:02,062 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-30 15:11:02,073 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 15:12:14,218 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-30 15:12:14,230 - infini_converter - INFO - Processing complete: 29 successful, 0 failed
+2025-08-30 15:12:49,860 - infini_converter - INFO - Configuration saved as: config_sed
+2025-08-30 15:14:09,507 - infini_converter - INFO - Found 146 files in /Volumes/1T (filtered from 146)
+2025-08-30 15:14:09,519 - infini_converter - INFO - Processing complete: 146 successful, 0 failed
+2025-08-30 17:06:56,550 - infini_converter - INFO - Initial settings loaded
+2025-08-30 17:07:13,342 - infini_converter - INFO - Configuration loaded: config_xld.json
+2025-08-30 17:07:30,246 - infini_converter - INFO - Input directory set to: /Volumes/EVO-512G
+2025-08-30 17:07:38,866 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G
+2025-08-30 17:15:37,013 - infini_converter - INFO - Initial settings loaded
+2025-08-30 17:16:07,919 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/Artists/五条人乐队《一半真情流露，一半靠表演》 2021
+2025-08-30 17:16:49,398 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/五条人乐队《一半真情流露，一半靠表演》 2021/一半真情流露，一半靠表演.wav with output directory: /Volumes/EVO-512G/Artists/五条人乐队《一半真情流露，一半靠表演》 2021
+2025-08-30 17:17:32,696 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/五条人乐队《一半真情流露，一半靠表演》 2021/一半真情流露，一半靠表演.wav
+2025-08-30 17:17:32,739 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/五条人乐队《一半真情流露，一半靠表演》 2021/一半真情流露，一半靠表演.wav
+2025-08-30 17:17:32,796 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 17:17:58,102 - infini_converter - INFO - Processing /Volumes/EVO-512G/Artists/许巍/《此时此刻》/许巍-此时此刻.wav with output directory: /Volumes/EVO-512G/Artists/许巍/《此时此刻》
+2025-08-30 17:18:47,796 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/Artists/许巍/《此时此刻》/许巍-此时此刻.wav
+2025-08-30 17:18:47,837 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/Artists/许巍/《此时此刻》/许巍-此时此刻.wav
+2025-08-30 17:18:47,879 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 17:21:12,020 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/01 佢.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1
+2025-08-30 17:21:17,420 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/01 佢.wav
+2025-08-30 17:21:17,430 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/01 佢.wav
+2025-08-30 17:21:17,446 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/02 坚持.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1
+2025-08-30 17:21:23,781 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/02 坚持.wav
+2025-08-30 17:21:23,789 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/02 坚持.wav
+2025-08-30 17:21:23,807 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/03 不可思议.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1
+2025-08-30 17:21:29,217 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/03 不可思议.wav
+2025-08-30 17:21:29,227 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/03 不可思议.wav
+2025-08-30 17:21:29,246 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/04 是妳.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1
+2025-08-30 17:21:37,088 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/04 是妳.wav
+2025-08-30 17:21:37,098 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/04 是妳.wav
+2025-08-30 17:21:37,114 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/05 心桥.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1
+2025-08-30 17:21:42,886 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/05 心桥.wav
+2025-08-30 17:21:42,894 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/05 心桥.wav
+2025-08-30 17:21:42,911 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/06 兄弟.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1
+2025-08-30 17:21:49,057 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/06 兄弟.wav
+2025-08-30 17:21:49,065 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/06 兄弟.wav
+2025-08-30 17:21:49,081 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/07 妈妈再见.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1
+2025-08-30 17:21:54,196 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/07 妈妈再见.wav
+2025-08-30 17:21:54,205 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/07 妈妈再见.wav
+2025-08-30 17:21:54,223 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/08 上瘾.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1
+2025-08-30 17:21:59,743 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/08 上瘾.wav
+2025-08-30 17:21:59,754 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/08 上瘾.wav
+2025-08-30 17:21:59,787 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/09 惹我.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1
+2025-08-30 17:22:06,086 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/09 惹我.wav
+2025-08-30 17:22:06,095 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 1/09 惹我.wav
+2025-08-30 17:22:06,113 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2
+2025-08-30 17:22:07,320 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav - Unknown error
+2025-08-30 17:22:07,331 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/03 Bridge.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2
+2025-08-30 17:22:13,327 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/03 Bridge.wav
+2025-08-30 17:22:13,332 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/03 Bridge.wav
+2025-08-30 17:22:13,345 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/04 Not Alone.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2
+2025-08-30 17:22:19,327 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/04 Not Alone.wav
+2025-08-30 17:22:19,332 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/04 Not Alone.wav
+2025-08-30 17:22:19,345 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/05 The Pilgrim.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2
+2025-08-30 17:22:24,118 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/05 The Pilgrim.wav
+2025-08-30 17:22:24,123 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/05 The Pilgrim.wav
+2025-08-30 17:22:24,136 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/06 Unbelievable.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2
+2025-08-30 17:22:31,004 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/06 Unbelievable.wav
+2025-08-30 17:22:31,011 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/06 Unbelievable.wav
+2025-08-30 17:22:31,022 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/07 Hey Ma.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2
+2025-08-30 17:22:35,846 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/07 Hey Ma.wav
+2025-08-30 17:22:35,852 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/07 Hey Ma.wav
+2025-08-30 17:22:35,866 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/08 Walking On Ice.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2
+2025-08-30 17:22:41,659 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/08 Walking On Ice.wav
+2025-08-30 17:22:41,665 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/08 Walking On Ice.wav
+2025-08-30 17:22:41,678 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/09 Lead.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2
+2025-08-30 17:22:46,564 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/09 Lead.wav
+2025-08-30 17:22:46,570 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/09 Lead.wav
+2025-08-30 17:22:46,583 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/10 Saving Grace.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2
+2025-08-30 17:22:53,030 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/10 Saving Grace.wav
+2025-08-30 17:22:53,036 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/10 Saving Grace.wav
+2025-08-30 17:22:53,063 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 双声道/01 失魂.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 双声道
+2025-08-30 17:22:58,131 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 双声道/01 失魂.wav
+2025-08-30 17:22:58,139 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 双声道/01 失魂.wav
+2025-08-30 17:22:58,165 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 双声道/02 海啸.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 双声道
+2025-08-30 17:23:03,613 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 双声道/02 海啸.wav
+2025-08-30 17:23:03,622 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 双声道/02 海啸.wav
+2025-08-30 17:23:03,647 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 双声道/03 紧箍咒.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 双声道
+2025-08-30 17:23:10,005 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 双声道/03 紧箍咒.wav
+2025-08-30 17:23:10,014 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 双声道/03 紧箍咒.wav
+2025-08-30 17:23:10,041 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 双声道/04 陌生人.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 双声道
+2025-08-30 17:23:16,055 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 双声道/04 陌生人.wav
+2025-08-30 17:23:16,065 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 双声道/04 陌生人.wav
+2025-08-30 17:23:16,093 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 双声道/05 MAKE THE WHOLE WORLD DANCE.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 双声道
+2025-08-30 17:23:21,978 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 双声道/05 MAKE THE WHOLE WORLD DANCE.wav
+2025-08-30 17:23:21,983 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 双声道/05 MAKE THE WHOLE WORLD DANCE.wav
+2025-08-30 17:23:22,026 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 双声道/06 罗马冬假.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 双声道
+2025-08-30 17:23:30,845 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 双声道/06 罗马冬假.wav
+2025-08-30 17:23:30,857 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 双声道/06 罗马冬假.wav
+2025-08-30 17:23:30,892 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 双声道/07 孔雀与飞鹰.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 双声道
+2025-08-30 17:23:38,447 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 双声道/07 孔雀与飞鹰.wav
+2025-08-30 17:23:38,456 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 双声道/07 孔雀与飞鹰.wav
+2025-08-30 17:23:38,495 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 双声道/08 狂风暴雨.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 双声道
+2025-08-30 17:23:46,124 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 双声道/08 狂风暴雨.wav
+2025-08-30 17:23:46,133 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 双声道/08 狂风暴雨.wav
+2025-08-30 17:23:46,160 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 双声道/09 暗器.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 双声道
+2025-08-30 17:23:52,083 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 双声道/09 暗器.wav
+2025-08-30 17:23:52,093 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 双声道/09 暗器.wav
+2025-08-30 17:23:52,121 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 双声道/10 NATURAL HIGH.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 双声道
+2025-08-30 17:23:59,749 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 双声道/10 NATURAL HIGH.wav
+2025-08-30 17:23:59,758 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 双声道/10 NATURAL HIGH.wav
+2025-08-30 17:23:59,785 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 双声道/11 STAY AWHILE.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 双声道
+2025-08-30 17:24:06,538 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 双声道/11 STAY AWHILE.wav
+2025-08-30 17:24:06,543 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 双声道/11 STAY AWHILE.wav
+2025-08-30 17:24:06,569 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 直觉/01 直觉.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 直觉
+2025-08-30 17:24:15,311 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 直觉/01 直觉.wav
+2025-08-30 17:24:15,319 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 直觉/01 直觉.wav
+2025-08-30 17:24:15,359 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 直觉/02 梦醒的世界.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 直觉
+2025-08-30 17:24:22,900 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 直觉/02 梦醒的世界.wav
+2025-08-30 17:24:22,910 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 直觉/02 梦醒的世界.wav
+2025-08-30 17:24:22,950 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 直觉/03 晨雾.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 直觉
+2025-08-30 17:24:30,017 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 直觉/03 晨雾.wav
+2025-08-30 17:24:30,026 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 直觉/03 晨雾.wav
+2025-08-30 17:24:30,053 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 直觉/04 冬眠.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 直觉
+2025-08-30 17:24:34,797 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 直觉/04 冬眠.wav
+2025-08-30 17:24:34,806 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 直觉/04 冬眠.wav
+2025-08-30 17:24:34,834 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 直觉/05 Blue.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 直觉
+2025-08-30 17:24:42,232 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 直觉/05 Blue.wav
+2025-08-30 17:24:42,238 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 直觉/05 Blue.wav
+2025-08-30 17:24:42,261 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 直觉/06 海啸(国语版).wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 直觉
+2025-08-30 17:24:47,603 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 直觉/06 海啸(国语版).wav
+2025-08-30 17:24:47,614 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 直觉/06 海啸(国语版).wav
+2025-08-30 17:24:47,645 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 直觉/07 风的终点.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 直觉
+2025-08-30 17:24:54,053 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 直觉/07 风的终点.wav
+2025-08-30 17:24:54,062 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 直觉/07 风的终点.wav
+2025-08-30 17:24:54,093 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 直觉/08 让全世界起舞(国语版).wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 直觉
+2025-08-30 17:24:58,234 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 直觉/08 让全世界起舞(国语版).wav
+2025-08-30 17:24:58,246 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 直觉/08 让全世界起舞(国语版).wav
+2025-08-30 17:24:58,279 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 直觉/09 走火入魔.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 直觉
+2025-08-30 17:25:04,293 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 直觉/09 走火入魔.wav
+2025-08-30 17:25:04,301 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 直觉/09 走火入魔.wav
+2025-08-30 17:25:04,327 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - 直觉/10 天才白痴梦.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - 直觉
+2025-08-30 17:25:10,093 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - 直觉/10 天才白痴梦.wav
+2025-08-30 17:25:10,102 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - 直觉/10 天才白痴梦.wav
+2025-08-30 17:25:10,136 - infini_converter - INFO - Processing complete: 38 successful, 1 failed
+2025-08-30 17:25:15,128 - infini_converter - INFO - Logging enabled
+2025-08-30 17:25:55,060 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2
+2025-08-30 17:25:56,232 - infini_converter - ERROR - Failed to process: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav - Unknown error
+2025-08-30 17:25:56,235 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-30 17:27:26,075 - infini_converter - INFO - Initial settings loaded
+2025-08-30 17:28:11,825 - infini_converter - INFO - Input file set to: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav
+2025-08-30 17:29:56,796 - infini_converter - INFO - Initial settings loaded
+2025-08-30 17:30:13,093 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav
+2025-08-30 17:30:14,892 - infini_converter - INFO - Same as Input disabled
+2025-08-30 17:32:56,920 - infini_converter - INFO - Initial settings loaded
+2025-08-30 17:33:02,941 - infini_converter - INFO - Found 1 files in /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav (filtered from 1)
+2025-08-30 17:33:23,438 - infini_converter - INFO - Found 1 files in /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav (filtered from 1)
+2025-08-30 17:33:31,886 - infini_converter - INFO - Found 1 files in /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav (filtered from 1)
+2025-08-30 17:33:53,217 - infini_converter - INFO - Found 1 files in /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav (filtered from 1)
+2025-08-30 17:37:25,599 - infini_converter - INFO - Initial settings loaded
+2025-08-30 17:40:26,339 - infini_converter - INFO - Initial settings loaded
+2025-08-30 17:43:05,149 - infini_converter - INFO - Initial settings loaded
+2025-08-30 17:43:53,541 - infini_converter - INFO - Found 1 files in /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav (filtered from 1)
+2025-08-30 17:43:53,554 - infini_converter - INFO - Processing complete: 0 successful, 1 failed
+2025-08-30 17:46:37,653 - infini_converter - INFO - Initial settings loaded
+2025-08-30 17:46:57,881 - infini_converter - INFO - Found 1 files in /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav (filtered from 1)
+2025-08-30 17:46:57,892 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 17:47:08,876 - infini_converter - INFO - Input directory set to: /Volumes/EVO-512G
+2025-08-30 17:47:10,817 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G
+2025-08-30 17:47:18,706 - infini_converter - INFO - Found 7 files in /Volumes/EVO-512G (filtered from 8)
+2025-08-30 17:48:35,648 - infini_converter - INFO - Processing /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav with output directory: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2
+2025-08-30 17:48:39,559 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav
+2025-08-30 17:48:39,563 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/SOLER/SOLER - x2/dics 2/02 It's Her.wav
+2025-08-30 17:48:39,616 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 17:48:57,634 - infini_converter - INFO - Found 6 files in /Volumes/EVO-512G (filtered from 7)
+2025-08-30 17:49:40,838 - infini_converter - INFO - Input file set to: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav
+2025-08-30 17:51:00,153 - infini_converter - INFO - Processing /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav with output directory: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-30 17:52:27,146 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav
+2025-08-30 17:52:27,202 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》/Whitney Houston-Love,Whitney.wav
+2025-08-30 17:52:27,248 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 17:52:56,784 - infini_converter - INFO - Input directory set to: /
+2025-08-30 17:52:58,637 - infini_converter - INFO - Same as Input disabled
+2025-08-30 17:53:07,077 - infini_converter - INFO - Input directory set to: /Volumes/EVO-512G
+2025-08-30 17:53:08,691 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-30 17:53:09,736 - infini_converter - INFO - Same as Input disabled
+2025-08-30 17:53:10,368 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/2004 - 《Love, Whitney（精选）欧版》
+2025-08-30 17:53:11,367 - infini_converter - INFO - Same as Input disabled
+2025-08-30 17:53:16,734 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G
+2025-08-30 17:53:18,669 - infini_converter - INFO - Found 5 files in /Volumes/EVO-512G (filtered from 6)
+2025-08-30 17:59:53,441 - infini_converter - INFO - Initial settings loaded
+2025-08-30 18:03:32,870 - infini_converter - INFO - Initial settings loaded
+2025-08-30 18:04:57,390 - infini_converter - INFO - Output directory automatically updated to: /Volumes/EVO-512G
+2025-08-30 18:04:57,396 - infini_converter - INFO - Input directory set to: /Volumes/EVO-512G
+2025-08-30 18:05:04,475 - infini_converter - INFO - Found 0 files in /Volumes/EVO-512G (filtered from 0)
+2025-08-30 18:05:15,858 - infini_converter - INFO - Found 5 files in /Volumes/EVO-512G (filtered from 6)
+2025-08-30 18:19:36,166 - infini_converter - INFO - Initial settings loaded
+2025-08-30 18:19:42,455 - infini_converter - INFO - Found 5 files in /Volumes/EVO-512G (filtered from 6)
+2025-08-30 18:21:05,413 - infini_converter - INFO - Initial settings loaded
+2025-08-30 18:21:12,186 - infini_converter - INFO - Initial settings loaded
+2025-08-30 18:22:58,137 - infini_converter - INFO - Initial settings loaded
+2025-08-30 18:23:02,440 - infini_converter - INFO - Found 5 files in /Volumes/EVO-512G (filtered from 6)
+2025-08-30 18:24:03,824 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/2010 - 《Whitney Houston-25'th Anniversary Edition》
+2025-08-30 18:24:58,350 - infini_converter - INFO - Found 5 files in /Volumes/EVO-512G (filtered from 6)
+2025-08-30 18:24:58,359 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 20:58:57,131 - infini_converter - INFO - Found 5 files in /Volumes/EVO-512G (filtered from 6)
+2025-08-30 20:59:00,508 - infini_converter - INFO - Found 5 files in /Volumes/EVO-512G (filtered from 6)
+2025-08-30 20:59:40,573 - infini_converter - INFO - Processing /Volumes/EVO-512G/2010 - 《Whitney Houston-25'th Anniversary Edition》/Whitney Houston - The Deluxe Anniversary Edition.wav with output directory: /Volumes/EVO-512G/2010 - 《Whitney Houston-25'th Anniversary Edition》
+2025-08-30 21:01:05,100 - infini_converter - INFO - Successfully processed: /Volumes/EVO-512G/2010 - 《Whitney Houston-25'th Anniversary Edition》/Whitney Houston - The Deluxe Anniversary Edition.wav
+2025-08-30 21:01:05,162 - infini_converter - INFO - Deleted original file: /Volumes/EVO-512G/2010 - 《Whitney Houston-25'th Anniversary Edition》/Whitney Houston - The Deluxe Anniversary Edition.wav
+2025-08-30 21:01:05,219 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 21:01:28,712 - infini_converter - INFO - Found 4 files in /Volumes/EVO-512G (filtered from 5)
+2025-08-30 21:03:02,684 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:03:53,398 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:04:41,871 - infini_converter - INFO - Output directory automatically updated to: /Volumes/EVO-512G
+2025-08-30 21:04:41,877 - infini_converter - INFO - Input directory set to: /Volumes/EVO-512G
+2025-08-30 21:04:56,233 - infini_converter - INFO - Output directory automatically updated to: /Volumes/EVO-512G
+2025-08-30 21:04:56,239 - infini_converter - INFO - Input directory set to: /Volumes/EVO-512G
+2025-08-30 21:09:29,512 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:11:56,505 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:16:09,962 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:16:22,657 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G/ (filtered from 55)
+2025-08-30 21:16:43,842 - infini_converter - INFO - Output directory automatically updated to: /Volumes/EVO-512G
+2025-08-30 21:16:43,848 - infini_converter - INFO - Input directory set to: /Volumes/EVO-512G
+2025-08-30 21:16:50,770 - infini_converter - INFO - Configuration saved as: config_sed
+2025-08-30 21:18:24,781 - infini_converter - INFO - Same as Input disabled
+2025-08-30 21:20:58,099 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:22:19,716 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:22:52,657 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:23:06,550 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:23:20,271 - infini_converter - INFO - Input directory set to: /Volumes/EVO-512G
+2025-08-30 21:25:11,342 - infini_converter - INFO - Found 0 files in /Volumes/EVO-512G/2010 - 《Whitney Houston-25'th Anniversary Edition》/Whitney Houston - The Deluxe Anniversary Edition.cue (filtered from 0)
+2025-08-30 21:25:11,379 - infini_converter - INFO - Processing complete: 1 successful, 0 failed
+2025-08-30 21:28:41,376 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:28:56,853 - infini_converter - INFO - Same as Input disabled
+2025-08-30 21:29:13,120 - infini_converter - INFO - Same as Input enabled: Output directory set to /Volumes/EVO-512G/
+2025-08-30 21:29:17,187 - infini_converter - INFO - Same as Input disabled
+2025-08-30 21:34:07,960 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:35:25,114 - infini_converter - INFO - Configuration saved as: config_sed
+2025-08-30 21:40:42,718 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:41:54,926 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:46:00,778 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:52:01,401 - infini_converter - INFO - Initial settings loaded
+2025-08-30 21:59:07,097 - infini_converter - INFO - Initial settings loaded
+2025-08-30 22:01:35,976 - infini_converter - INFO - Initial settings loaded
+2025-08-30 22:02:21,084 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G/ (filtered from 55)
+2025-08-30 22:03:13,701 - infini_converter - INFO - Configuration saved as: config_sed
+2025-08-30 22:08:48,264 - infini_converter - INFO - Initial settings loaded
+2025-08-30 22:09:34,045 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G/ (filtered from 55)
+2025-08-30 22:10:11,695 - infini_converter - INFO - Initial settings loaded
+2025-08-30 22:14:13,619 - infini_converter - INFO - Initial settings loaded
+2025-08-30 22:14:20,261 - infini_converter - INFO - Found 55 files in /Volumes/EVO-512G/ (filtered from 55)
+2025-08-30 22:16:38,283 - infini_converter - INFO - Configuration saved as: config_sed
+2025-08-30 22:18:48,288 - infini_converter - INFO - Initial settings loaded
+2025-08-30 22:19:18,903 - infini_converter - INFO - Initial settings loaded
+2025-08-30 22:21:48,869 - infini_converter - INFO - Initial settings loaded
+2025-08-30 22:23:35,119 - infini_converter - INFO - Initial settings loaded
+2025-08-30 22:25:05,394 - infini_converter - INFO - Initial settings loaded

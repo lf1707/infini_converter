@@ -17,6 +17,7 @@ class Config:
             "file_extensions": [".txt", ".csv", ".json", ".xml", ".log"],
             "output_directory": "",
             "processing_program": "",
+            "env_vars": "",
             "command_template": "",
             "logging_enabled": True,
             "log_file": "infini_converter.log",
@@ -67,6 +68,12 @@ class Config:
     
     def set_processing_program(self, program: str) -> None:
         self.set("processing_program", program)
+    
+    def get_env_vars(self) -> str:
+        return self.get("env_vars", "")
+    
+    def set_env_vars(self, env_vars: str) -> None:
+        self.set("env_vars", env_vars)
     
     def get_command_template(self) -> str:
         return self.get("command_template", "")

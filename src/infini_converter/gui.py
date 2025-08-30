@@ -47,7 +47,8 @@ class InfiniConverterGUI:
         self.processor = FileProcessor(
             self.config.get_processing_program(), 
             self.config.get_output_directory(),
-            self.config.get_command_template()
+            self.config.get_command_template(),
+            self.config.get_env_vars()
         )
         
         # Redirect stdout to capture processor logs
@@ -73,6 +74,7 @@ class InfiniConverterGUI:
         self.output_directory = tk.StringVar(value=output_dir)
         self.processing_program = tk.StringVar(value=self.config.get_processing_program())
         self.command_template = tk.StringVar(value=self.config.get_command_template())
+        self.env_vars = tk.StringVar(value=self.config.get_env_vars())
         self.file_extensions = tk.StringVar(value=", ".join(self.config.get_file_extensions()))
         self.logging_enabled = tk.BooleanVar(value=self.config.is_logging_enabled())
         self.log_radio_var = tk.BooleanVar(value=False)
@@ -98,12 +100,13 @@ class InfiniConverterGUI:
         self.root.columnconfigure(0, weight=1)
         self.root.rowconfigure(0, weight=1)
         main_frame.columnconfigure(1, weight=1)
+        main_frame.columnconfigure(2, weight=0)  # Fixed width for buttons
         
         # Directory Selection Section
-        ttk.Label(main_frame, text="Input Directory:", font=("Arial", 10, "bold")).grid(row=1, column=0, sticky=tk.W, pady=5)
+        ttk.Label(main_frame, text="Input Directory:", font=("Arial", 11, "bold")).grid(row=1, column=0, sticky=tk.W, pady=8)
         
-        input_entry = ttk.Entry(main_frame, textvariable=self.input_directory, width=50)
-        input_entry.grid(row=1, column=1, sticky=(tk.W, tk.E), pady=5)
+        input_entry = ttk.Entry(main_frame, textvariable=self.input_directory, font=("Arial", 11))
+        input_entry.grid(row=1, column=1, sticky=(tk.W, tk.E), pady=8)
         
         # Set placeholder text for the input directory widget
         main_py_dir = os.path.dirname(os.path.abspath(__file__))
@@ -143,17 +146,22 @@ class InfiniConverterGUI:
         # Use trace_add for variable changes
         self.input_directory.trace_add('write', on_input_change)
         
-        ttk.Button(main_frame, text="📁", command=self.browse_input_directory, width=4).grid(row=1, column=2, pady=5)
+        ttk.Button(main_frame, text="📁", command=self.browse_input_directory, width=4).grid(row=1, column=2, pady=8)
         
-        ttk.Label(main_frame, text="Output Directory:", font=("Arial", 10, "bold")).grid(row=2, column=0, sticky=tk.W, pady=5)
+        ttk.Label(main_frame, text="Output Directory:", font=("Arial", 11, "bold")).grid(row=2, column=0, sticky=tk.W, pady=8)
         
-        output_entry = ttk.Entry(main_frame, textvariable=self.output_directory)
-        output_entry.grid(row=2, column=1, sticky=(tk.W, tk.E), pady=5)
+        # Output Directory and Same as Input Section
+        output_frame = ttk.Frame(main_frame)
+        output_frame.grid(row=2, column=1, sticky=(tk.W, tk.E), pady=8)
         
-        # Same as Input checkbox
-        self.sync_checkbox = ttk.Checkbutton(main_frame, text="Same as Input", variable=self.sync_side_by_side, 
+        output_entry = ttk.Entry(output_frame, textvariable=self.output_directory, font=("Arial", 11))
+        output_entry.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 5))
+        
+        self.sync_checkbox = ttk.Checkbutton(output_frame, text="Same as Input", variable=self.sync_side_by_side, 
                                             command=self.toggle_sync_side_by_side)
-        self.sync_checkbox.grid(row=2, column=1, sticky=tk.E, pady=5, padx=(5, 0))
+        self.sync_checkbox.pack(side=tk.LEFT)
+        
+        ttk.Button(main_frame, text="📁", command=self.browse_output_directory, width=4).grid(row=2, column=2, pady=8)
         
         # Set placeholder text for the output directory widget
         main_py_dir = os.path.dirname(os.path.abspath(__file__))
@@ -193,25 +201,71 @@ class InfiniConverterGUI:
         # Use trace_add for variable changes
         self.output_directory.trace_add('write', on_output_change)
         
-        ttk.Button(main_frame, text="📁", command=self.browse_output_directory, width=4).grid(row=2, column=2, pady=5)
-        
         # Processing Program Section
-        ttk.Label(main_frame, text="Processing Program:", font=("Arial", 10, "bold")).grid(row=3, column=0, sticky=tk.W, pady=5)
-        ttk.Entry(main_frame, textvariable=self.processing_program, width=50).grid(row=3, column=1, sticky=(tk.W, tk.E), pady=5)
-        ttk.Button(main_frame, text="📁", command=self.browse_processing_program, width=4).grid(row=3, column=2, pady=5)
+        ttk.Label(main_frame, text="Program:", font=("Arial", 11, "bold")).grid(row=3, column=0, sticky=tk.W, pady=8)
+        
+        # Program and Env Section
+        program_frame = ttk.Frame(main_frame)
+        program_frame.grid(row=3, column=1, sticky=(tk.W, tk.E), pady=8)
+        
+        ttk.Entry(program_frame, textvariable=self.processing_program, font=("Arial", 11)).pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 5))
+        ttk.Label(program_frame, text="Env:", font=("Arial", 11, "bold")).pack(side=tk.LEFT, padx=(0, 2))
+        env_entry = ttk.Entry(program_frame, textvariable=self.env_vars, width=15, font=("Arial", 11))
+        env_entry.pack(side=tk.LEFT)
+        
+        # Set placeholder text for Env entry
+        env_placeholder_text = "e.g., LC_ALL=C"
+        if not self.env_vars.get().strip():
+            env_entry.insert(0, env_placeholder_text)
+            env_entry.config(foreground="gray")
+        
+        # Add callback to handle placeholder text
+        def on_env_focus_in(event):
+            if env_entry.get() == env_placeholder_text:
+                env_entry.delete(0, tk.END)
+                env_entry.config(foreground="black")
+        
+        def on_env_focus_out(event):
+            if not env_entry.get().strip():
+                env_entry.insert(0, env_placeholder_text)
+                env_entry.config(foreground="gray")
+                # Clear the actual env vars when placeholder is shown
+                self.config.set_env_vars("")
+            else:
+                env_entry.config(foreground="black")
+        
+        def on_env_change(*args):
+            current_text = self.env_vars.get()
+            if current_text == env_placeholder_text:
+                env_entry.config(foreground="gray")
+            elif current_text.strip():
+                env_entry.config(foreground="black")
+            
+            # Auto-save configuration when env vars changes
+            if current_text and current_text != env_placeholder_text:
+                self.config.set_env_vars(current_text)
+                self.config.save_config()
+                self.processor.set_env_vars(current_text)
+        
+        # Bind focus events
+        env_entry.bind('<FocusIn>', on_env_focus_in)
+        env_entry.bind('<FocusOut>', on_env_focus_out)
+        
+        # Use trace_add for variable changes
+        self.env_vars.trace_add('write', on_env_change)
+        
+        ttk.Button(main_frame, text="📁", command=self.browse_processing_program, width=4).grid(row=3, column=2, pady=8)
         
         # Command Template Section
-        ttk.Label(main_frame, text="Command Template:", font=("Arial", 10, "bold")).grid(row=4, column=0, sticky=tk.W, pady=5)
+        ttk.Label(main_frame, text="CMD Template:", font=("Arial", 11, "bold")).grid(row=4, column=0, sticky=tk.W, pady=8)
         
-        template_entry = ttk.Entry(main_frame, textvariable=self.command_template)
-        template_entry.grid(row=4, column=1, sticky=(tk.W, tk.E), pady=5)
+        template_entry = ttk.Entry(main_frame, textvariable=self.command_template, font=("Arial", 11))
+        template_entry.grid(row=4, column=1, sticky=(tk.W, tk.E), pady=8)
         
-        # Del Origin File checkbox
-        self.del_origin_checkbox = ttk.Checkbutton(main_frame, text="Del Origin File", variable=self.del_origin_file)
-        self.del_origin_checkbox.grid(row=4, column=1, sticky=tk.E, pady=5, padx=(5, 0))
+        ttk.Button(main_frame, text="📁", command=self.browse_command_template, width=4).grid(row=4, column=2, pady=8)
         
         # Set placeholder text for the entry widget
-        placeholder_text = "Use placeholders: {program}, {input}, {output_dir}"
+        placeholder_text = "Use placeholders: {env}, {program}, {input}, {output_dir}"
         if not self.command_template.get().strip():
             template_entry.insert(0, placeholder_text)
             template_entry.config(foreground="gray")
@@ -259,9 +313,9 @@ class InfiniConverterGUI:
         self.command_template.trace_add('write', on_command_template_change)
         
         # File Extensions Section
-        ttk.Label(main_frame, text="File Extensions:", font=("Arial", 10, "bold")).grid(row=5, column=0, sticky=tk.W, pady=5)
-        ttk.Entry(main_frame, textvariable=self.file_extensions, width=50).grid(row=5, column=1, sticky=(tk.W, tk.E), pady=5)
-        ttk.Button(main_frame, text="🔍", command=self.find_files, width=4).grid(row=5, column=2, pady=5)
+        ttk.Label(main_frame, text="File Extensions:", font=("Arial", 11, "bold")).grid(row=6, column=0, sticky=tk.W, pady=8)
+        ttk.Entry(main_frame, textvariable=self.file_extensions, width=50, font=("Arial", 11)).grid(row=6, column=1, sticky=(tk.W, tk.E), pady=8)
+        ttk.Button(main_frame, text="🔍", command=self.find_files, width=4).grid(row=6, column=2, pady=8)
         
         # Add trace for file extensions auto-save
         def on_file_extensions_change(*args):
@@ -274,7 +328,7 @@ class InfiniConverterGUI:
         
         # Save and Options Frame
         save_options_frame = ttk.Frame(main_frame)
-        save_options_frame.grid(row=6, column=1, sticky=(tk.W, tk.E), pady=5)
+        save_options_frame.grid(row=7, column=1, sticky=(tk.W, tk.E), pady=5)
         
         # Save Button
         ttk.Button(save_options_frame, text="💾", command=self.save_settings, width=4).pack(side=tk.RIGHT, padx=5)
@@ -286,20 +340,29 @@ class InfiniConverterGUI:
         self.command_confirm_checkbox = ttk.Checkbutton(save_options_frame, text="CMD Show", variable=self.show_command_confirm)
         self.command_confirm_checkbox.pack(side=tk.RIGHT, padx=5)
         
+        # Del Origin File checkbox
+        self.del_origin_checkbox = ttk.Checkbutton(save_options_frame, text="Del Origin File", variable=self.del_origin_file)
+        self.del_origin_checkbox.pack(side=tk.RIGHT, padx=5)
+        
         # Add trace for command confirm auto-save
         def on_command_confirm_change(*args):
             self.config.set_command_confirm_enabled(self.show_command_confirm.get())
             self.config.save_config()
         
+        def on_env_vars_change(*args):
+            self.config.set_env_vars(self.env_vars.get())
+            self.config.save_config()
+        
         self.show_command_confirm.trace_add('write', on_command_confirm_change)
+        self.env_vars.trace_add('write', on_env_vars_change)
         
         # Options Section
         options_frame = ttk.Frame(main_frame)
-        options_frame.grid(row=7, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=10)
+        options_frame.grid(row=8, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=10)
         
         # File Lists Section (Parallel Layout)
         lists_frame = ttk.Frame(main_frame)
-        lists_frame.grid(row=8, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=5)
+        lists_frame.grid(row=9, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=5)
         
         # Input Files Section (Left)
         input_frame = ttk.Frame(lists_frame)
@@ -315,7 +378,7 @@ class InfiniConverterGUI:
         input_scrollbar = ttk.Scrollbar(input_list_frame)
         input_scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
         
-        self.file_listbox = tk.Listbox(input_list_frame, height=12, yscrollcommand=input_scrollbar.set, selectmode=tk.MULTIPLE)
+        self.file_listbox = tk.Listbox(input_list_frame, height=18, yscrollcommand=input_scrollbar.set, selectmode=tk.MULTIPLE)
         self.file_listbox.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
         input_scrollbar.config(command=self.file_listbox.yview)
         
@@ -349,7 +412,7 @@ class InfiniConverterGUI:
         output_scrollbar = ttk.Scrollbar(output_list_frame)
         output_scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
         
-        self.output_listbox = tk.Listbox(output_list_frame, height=12, yscrollcommand=output_scrollbar.set)
+        self.output_listbox = tk.Listbox(output_list_frame, height=18, yscrollcommand=output_scrollbar.set)
         self.output_listbox.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
         output_scrollbar.config(command=self.output_listbox.yview)
         
@@ -357,11 +420,11 @@ class InfiniConverterGUI:
                 
         # Processing Controls
         controls_frame = ttk.Frame(main_frame)
-        controls_frame.grid(row=9, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=10)
+        controls_frame.grid(row=10, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=10)
         
         # Status Bar with Log checkbox
         status_frame = ttk.Frame(main_frame)
-        status_frame.grid(row=10, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=5)
+        status_frame.grid(row=11, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=5)
         
         self.status_var = tk.StringVar(value="Ready")
         status_bar = ttk.Label(status_frame, textvariable=self.status_var, relief=tk.SUNKEN)
@@ -475,7 +538,7 @@ class InfiniConverterGUI:
     def browse_processing_program(self):
         """Browse for processing program."""
         program = filedialog.askopenfilename(
-            title="Select Processing Program",
+            title="Select Program",
             filetypes=[("Executable files", "*.exe *.bat *.sh *.py"), ("All files", "*.*")]
         )
         if program:
@@ -485,6 +548,25 @@ class InfiniConverterGUI:
             self.config.save_config()
             self.logger.info(f"Processing program set to: {program}")
             self.log_message(f"Processing program set to: {program}")
+    
+    def browse_command_template(self):
+        """Browse for command template file."""
+        template_file = filedialog.askopenfilename(
+            title="Select Command Template File",
+            filetypes=[("Template files", "*.txt *.template *.cmd"), ("All files", "*.*")]
+        )
+        if template_file:
+            try:
+                with open(template_file, 'r') as f:
+                    template_content = f.read().strip()
+                self.command_template.set(template_content)
+                self.config.set_command_template(template_content)
+                self.config.save_config()
+                self.logger.info(f"Command template loaded from: {template_file}")
+                self.log_message(f"Command template loaded from: {template_file}")
+            except Exception as e:
+                messagebox.showerror("Error", f"Failed to load template file: {e}")
+                self.logger.error(f"Failed to load template file: {e}")
     
     def find_files(self):
         """Find files in the input directory."""
@@ -533,11 +615,39 @@ class InfiniConverterGUI:
     def process_selected_files(self):
         """Process selected files from the list."""
         selected_indices = self.file_listbox.curselection()
-        if not selected_indices:
-            messagebox.showwarning("Warning", "Please select files to process.")
-            return
+        selected_files = []
         
-        selected_files = [self.selected_files[i] for i in selected_indices]
+        # If no files selected in listbox, check if there's a file in the input box
+        if not selected_indices:
+            input_path = self.input_directory.get().strip()
+            if input_path and os.path.exists(input_path):
+                # If it's a file, add it to the list and select it
+                if os.path.isfile(input_path):
+                    self.selected_files = [input_path]
+                    # Update listbox
+                    self.file_listbox.delete(0, tk.END)
+                    self.file_listbox.insert(tk.END, input_path)
+                    # Select the file in the listbox
+                    self.file_listbox.selection_set(0)
+                    selected_indices = (0,)
+                    selected_files = [input_path]
+                    self.log_message(f"Automatically selected file from input box: {os.path.basename(input_path)}")
+                # If it's a directory, find files in it
+                elif os.path.isdir(input_path):
+                    self.find_files()
+                    # Select all found files
+                    if self.selected_files:
+                        self.file_listbox.selection_set(0, len(self.selected_files) - 1)
+                        selected_indices = tuple(range(len(self.selected_files)))
+                        selected_files = self.selected_files.copy()
+                        self.log_message(f"Automatically selected {len(selected_files)} files from directory")
+            
+            # If still no files selected, show warning
+            if not selected_indices:
+                messagebox.showwarning("Warning", "Please select files to process or enter a file/directory path.")
+                return
+        else:
+            selected_files = [self.selected_files[i] for i in selected_indices]
         
         # For sync side by side, pass both files and selected indices
         if self.sync_side_by_side.get():
@@ -551,8 +661,26 @@ class InfiniConverterGUI:
     def process_all_files(self):
         """Process all files in the list."""
         if not self.selected_files:
-            messagebox.showwarning("Warning", "No files to process. Please find files first.")
-            return
+            # Check if there's a file/directory in the input box
+            input_path = self.input_directory.get().strip()
+            if input_path and os.path.exists(input_path):
+                if os.path.isfile(input_path):
+                    # Add the single file to the list
+                    self.selected_files = [input_path]
+                    # Update listbox
+                    self.file_listbox.delete(0, tk.END)
+                    self.file_listbox.insert(tk.END, input_path)
+                    self.log_message(f"Automatically added file from input box: {os.path.basename(input_path)}")
+                elif os.path.isdir(input_path):
+                    # Find files in the directory
+                    self.find_files()
+                    if not self.selected_files:
+                        messagebox.showwarning("Warning", "No files found in the specified directory.")
+                        return
+                    self.log_message(f"Automatically found {len(self.selected_files)} files from directory")
+            else:
+                messagebox.showwarning("Warning", "No files to process. Please enter a file/directory path or find files first.")
+                return
         
         # Check if Same as Input is enabled
         if self.sync_side_by_side.get():
@@ -762,6 +890,7 @@ class InfiniConverterGUI:
         self.processor.set_processing_program(self.processing_program.get())
         self.processor.set_output_directory(output_dir)
         self.processor.set_command_template(template_text)
+        self.processor.set_env_vars(self.env_vars.get())
         
         self.output_listbox.delete(0, tk.END)
         
@@ -1205,7 +1334,7 @@ class InfiniConverterGUI:
     
     def is_valid_command_template(self, template_text: str) -> bool:
         """Check if template text is valid (not placeholder text)."""
-        placeholder_text = "Use placeholders: {program}, {input}, {output_dir}"
+        placeholder_text = "Use placeholders: {env}, {program}, {input}, {output_dir}"
         return template_text and template_text.strip() and template_text != placeholder_text
     
     def show_sync_side_by_side_confirmation_dialog(self, files: List[str], title: str = "Confirmation", 
@@ -1682,6 +1811,7 @@ class InfiniConverterGUI:
                 self.config.set_output_directory(self.output_directory.get())
                 self.config.set_processing_program(self.processing_program.get())
                 self.config.set_command_template(self.command_template.get())
+                self.config.set_env_vars(self.env_vars.get())
                 self.config.set_logging_enabled(self.logging_enabled.get())
                 self.config.set_command_confirm_enabled(self.show_command_confirm.get())
                 
@@ -1904,6 +2034,7 @@ class InfiniConverterGUI:
         # Set other fields with saved values
         self.processing_program.set(self.config.get_processing_program())
         self.command_template.set(self.config.get_command_template())
+        self.env_vars.set(self.config.get_env_vars())
         self.file_extensions.set(", ".join(self.config.get_file_extensions()))
         self.logging_enabled.set(self.config.is_logging_enabled())
         self.show_command_confirm.set(self.config.is_command_confirm_enabled())
@@ -1911,6 +2042,7 @@ class InfiniConverterGUI:
         # Update processor settings
         self.processor.set_output_directory(self.output_directory.get())
         self.processor.set_processing_program(self.processing_program.get())
+        self.processor.set_env_vars(self.env_vars.get())
         # Only set command template if it's valid (not placeholder text)
         template_text = self.command_template.get()
         if self.is_valid_command_template(template_text):

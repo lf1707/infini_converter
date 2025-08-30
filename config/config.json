@@ -1,10 +1,11 @@
 {
   "file_extensions": [
-    ".ape"
+    ".cue"
   ],
-  "output_directory": "/Volumes/1T/HiFi/STS 611132 - High End Audiophile Test Demo CD - Fifth Edition Marantz 50th Anniversary",
-  "processing_program": "/Users/lumfranks/bin/xld",
-  "command_template": "{program}  -f flac -o {output_dir} {input}",
+  "output_directory": "/Volumes/EVO-512G/",
+  "processing_program": "sed ",
+  "env_vars": "LC_ALL=C",
+  "command_template": "{env} {program} -i '' 's/\\.wav/.flac/g' \"{input}\"",
   "logging_enabled": true,
   "log_file": "infini_converter.log",
   "show_command_confirm": true,
@@ -15,5 +16,5 @@
     ],
     "window_title": "Infini Converter"
   },
-  "input_directory": "/Volumes/1T"
+  "input_directory": "/Volumes/EVO-512G/"
 }
