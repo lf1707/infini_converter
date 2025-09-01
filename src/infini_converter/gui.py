@@ -40,6 +40,12 @@ class InfiniConverterGUI:
         self.root = root
         self.root.title("Infini Converter")
         
+        # Calculate display scaling for 2K displays
+        screen_width = self.root.winfo_screenwidth()
+        self.scale_factor = 1.4 if screen_width >= 2560 else 1.2 if screen_width >= 1920 else 1.0
+        self.font_size = int(11 * self.scale_factor)
+        self.font_bold_size = int(11 * self.scale_factor)
+        
         # Initialize components
         self.config = Config()
         self.logger = Logger(self.config.get_log_file(), self.config.is_logging_enabled())
@@ -103,9 +109,9 @@ class InfiniConverterGUI:
         main_frame.columnconfigure(2, weight=0)  # Fixed width for buttons
         
         # Directory Selection Section
-        ttk.Label(main_frame, text="Input Directory:", font=("Arial", 11, "bold")).grid(row=1, column=0, sticky=tk.W, pady=8)
+        ttk.Label(main_frame, text="Input Directory:", font=("Arial", self.font_bold_size, "bold")).grid(row=1, column=0, sticky=tk.W, pady=8)
         
-        input_entry = ttk.Entry(main_frame, textvariable=self.input_directory, font=("Arial", 11))
+        input_entry = ttk.Entry(main_frame, textvariable=self.input_directory, font=("Arial", self.font_size))
         input_entry.grid(row=1, column=1, sticky=(tk.W, tk.E), pady=8)
         
         # Set placeholder text for the input directory widget
@@ -146,22 +152,22 @@ class InfiniConverterGUI:
         # Use trace_add for variable changes
         self.input_directory.trace_add('write', on_input_change)
         
-        ttk.Button(main_frame, text="📁", command=self.browse_input_directory, width=4).grid(row=1, column=2, pady=8)
+        ttk.Button(main_frame, text="📁", command=self.browse_input_directory, width=int(4 * self.scale_factor)).grid(row=1, column=2, pady=8)
         
-        ttk.Label(main_frame, text="Output Directory:", font=("Arial", 11, "bold")).grid(row=2, column=0, sticky=tk.W, pady=8)
+        ttk.Label(main_frame, text="Output Directory:", font=("Arial", self.font_bold_size, "bold")).grid(row=2, column=0, sticky=tk.W, pady=8)
         
         # Output Directory and Same as Input Section
         output_frame = ttk.Frame(main_frame)
         output_frame.grid(row=2, column=1, sticky=(tk.W, tk.E), pady=8)
         
-        output_entry = ttk.Entry(output_frame, textvariable=self.output_directory, font=("Arial", 11))
+        output_entry = ttk.Entry(output_frame, textvariable=self.output_directory, font=("Arial", self.font_size))
         output_entry.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 5))
         
         self.sync_checkbox = ttk.Checkbutton(output_frame, text="Same as Input", variable=self.sync_side_by_side, 
                                             command=self.toggle_sync_side_by_side)
         self.sync_checkbox.pack(side=tk.LEFT)
         
-        ttk.Button(main_frame, text="📁", command=self.browse_output_directory, width=4).grid(row=2, column=2, pady=8)
+        ttk.Button(main_frame, text="📁", command=self.browse_output_directory, width=int(4 * self.scale_factor)).grid(row=2, column=2, pady=8)
         
         # Set placeholder text for the output directory widget
         main_py_dir = os.path.dirname(os.path.abspath(__file__))
@@ -202,15 +208,15 @@ class InfiniConverterGUI:
         self.output_directory.trace_add('write', on_output_change)
         
         # Processing Program Section
-        ttk.Label(main_frame, text="Program:", font=("Arial", 11, "bold")).grid(row=3, column=0, sticky=tk.W, pady=8)
+        ttk.Label(main_frame, text="Program:", font=("Arial", self.font_bold_size, "bold")).grid(row=3, column=0, sticky=tk.W, pady=8)
         
         # Program and Env Section
         program_frame = ttk.Frame(main_frame)
         program_frame.grid(row=3, column=1, sticky=(tk.W, tk.E), pady=8)
         
-        ttk.Entry(program_frame, textvariable=self.processing_program, font=("Arial", 11)).pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 5))
-        ttk.Label(program_frame, text="Env:", font=("Arial", 11, "bold")).pack(side=tk.LEFT, padx=(0, 2))
-        env_entry = ttk.Entry(program_frame, textvariable=self.env_vars, width=15, font=("Arial", 11))
+        ttk.Entry(program_frame, textvariable=self.processing_program, font=("Arial", self.font_size)).pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 5))
+        ttk.Label(program_frame, text="Env:", font=("Arial", self.font_bold_size, "bold")).pack(side=tk.LEFT, padx=(0, 2))
+        env_entry = ttk.Entry(program_frame, textvariable=self.env_vars, width=int(15 * self.scale_factor), font=("Arial", self.font_size))
         env_entry.pack(side=tk.LEFT)
         
         # Set placeholder text for Env entry
@@ -254,15 +260,15 @@ class InfiniConverterGUI:
         # Use trace_add for variable changes
         self.env_vars.trace_add('write', on_env_change)
         
-        ttk.Button(main_frame, text="📁", command=self.browse_processing_program, width=4).grid(row=3, column=2, pady=8)
+        ttk.Button(main_frame, text="📁", command=self.browse_processing_program, width=int(4 * self.scale_factor)).grid(row=3, column=2, pady=8)
         
         # Command Template Section
-        ttk.Label(main_frame, text="CMD Template:", font=("Arial", 11, "bold")).grid(row=4, column=0, sticky=tk.W, pady=8)
+        ttk.Label(main_frame, text="CMD Template:", font=("Arial", self.font_bold_size, "bold")).grid(row=4, column=0, sticky=tk.W, pady=8)
         
-        template_entry = ttk.Entry(main_frame, textvariable=self.command_template, font=("Arial", 11))
+        template_entry = ttk.Entry(main_frame, textvariable=self.command_template, font=("Arial", self.font_size))
         template_entry.grid(row=4, column=1, sticky=(tk.W, tk.E), pady=8)
         
-        ttk.Button(main_frame, text="📁", command=self.browse_command_template, width=4).grid(row=4, column=2, pady=8)
+        ttk.Button(main_frame, text="📁", command=self.browse_command_template, width=int(4 * self.scale_factor)).grid(row=4, column=2, pady=8)
         
         # Set placeholder text for the entry widget
         placeholder_text = "Use placeholders: {env}, {program}, {input}, {output_dir}"
@@ -313,9 +319,9 @@ class InfiniConverterGUI:
         self.command_template.trace_add('write', on_command_template_change)
         
         # File Extensions Section
-        ttk.Label(main_frame, text="File Extensions:", font=("Arial", 11, "bold")).grid(row=6, column=0, sticky=tk.W, pady=8)
-        ttk.Entry(main_frame, textvariable=self.file_extensions, width=50, font=("Arial", 11)).grid(row=6, column=1, sticky=(tk.W, tk.E), pady=8)
-        ttk.Button(main_frame, text="🔍", command=self.find_files, width=4).grid(row=6, column=2, pady=8)
+        ttk.Label(main_frame, text="File Extensions:", font=("Arial", self.font_bold_size, "bold")).grid(row=6, column=0, sticky=tk.W, pady=8)
+        ttk.Entry(main_frame, textvariable=self.file_extensions, width=int(50 * self.scale_factor), font=("Arial", self.font_size)).grid(row=6, column=1, sticky=(tk.W, tk.E), pady=8)
+        ttk.Button(main_frame, text="🔍", command=self.find_files, width=int(4 * self.scale_factor)).grid(row=6, column=2, pady=8)
         
         # Add trace for file extensions auto-save
         def on_file_extensions_change(*args):
@@ -331,10 +337,10 @@ class InfiniConverterGUI:
         save_options_frame.grid(row=7, column=1, sticky=(tk.W, tk.E), pady=5)
         
         # Save Button
-        ttk.Button(save_options_frame, text="💾", command=self.save_settings, width=4).pack(side=tk.RIGHT, padx=5)
+        ttk.Button(save_options_frame, text="💾", command=self.save_settings, width=int(4 * self.scale_factor)).pack(side=tk.RIGHT, padx=5)
         
         # Load Saved Button
-        ttk.Button(save_options_frame, text="📂", command=self.load_saved_settings, width=4).pack(side=tk.RIGHT, padx=5)
+        ttk.Button(save_options_frame, text="📂", command=self.load_saved_settings, width=int(4 * self.scale_factor)).pack(side=tk.RIGHT, padx=5)
         
         # Show Command Confirm checkbox
         self.command_confirm_checkbox = ttk.Checkbutton(save_options_frame, text="CMD Show", variable=self.show_command_confirm)
@@ -343,6 +349,10 @@ class InfiniConverterGUI:
         # Del Origin File checkbox
         self.del_origin_checkbox = ttk.Checkbutton(save_options_frame, text="Del Origin File", variable=self.del_origin_file)
         self.del_origin_checkbox.pack(side=tk.RIGHT, padx=5)
+        
+        # Enable Log button
+        self.log_button = ttk.Button(save_options_frame, text="Enable Log", command=self.toggle_log_visibility)
+        self.log_button.pack(side=tk.RIGHT, padx=5)
         
         # Add trace for command confirm auto-save
         def on_command_confirm_change(*args):
@@ -383,7 +393,7 @@ class InfiniConverterGUI:
         input_scrollbar = ttk.Scrollbar(input_list_frame)
         input_scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
         
-        self.file_listbox = tk.Listbox(input_list_frame, height=18, yscrollcommand=input_scrollbar.set, selectmode=tk.MULTIPLE)
+        self.file_listbox = tk.Listbox(input_list_frame, height=int(18 * self.scale_factor), yscrollcommand=input_scrollbar.set, selectmode=tk.MULTIPLE)
         self.file_listbox.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
         input_scrollbar.config(command=self.file_listbox.yview)
         
@@ -398,10 +408,10 @@ class InfiniConverterGUI:
         button_container = ttk.Frame(button_frame)
         button_container.place(relx=0.5, rely=0.5, anchor=tk.CENTER)
         
-        ttk.Button(button_container, text="▶", command=self.process_selected_files, width=4).pack(pady=2)
-        ttk.Button(button_container, text="⏩", command=self.process_all_files, width=4).pack(pady=2)
-        ttk.Button(button_container, text="■", command=self.stop_processing, width=4).pack(pady=2)
-        ttk.Button(button_container, text="🗑️", command=self.clear_file_list, width=4).pack(pady=2)
+        ttk.Button(button_container, text="▶", command=self.process_selected_files, width=int(4 * self.scale_factor)).pack(pady=2)
+        ttk.Button(button_container, text="⏩", command=self.process_all_files, width=int(4 * self.scale_factor)).pack(pady=2)
+        ttk.Button(button_container, text="■", command=self.stop_processing, width=int(4 * self.scale_factor)).pack(pady=2)
+        ttk.Button(button_container, text="🗑️", command=self.clear_file_list, width=int(4 * self.scale_factor)).pack(pady=2)
         
         # Output Files Section (Right)
         output_frame = ttk.Frame(lists_frame)
@@ -417,7 +427,7 @@ class InfiniConverterGUI:
         output_scrollbar = ttk.Scrollbar(output_list_frame)
         output_scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
         
-        self.output_listbox = tk.Listbox(output_list_frame, height=18, yscrollcommand=output_scrollbar.set)
+        self.output_listbox = tk.Listbox(output_list_frame, height=int(18 * self.scale_factor), yscrollcommand=output_scrollbar.set)
         self.output_listbox.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
         output_scrollbar.config(command=self.output_listbox.yview)
         
@@ -435,21 +445,19 @@ class InfiniConverterGUI:
         status_bar = ttk.Label(status_frame, textvariable=self.status_var, relief=tk.SUNKEN)
         status_bar.pack(side=tk.LEFT, fill=tk.X, expand=True)
         
-        # Create radio button style for Log button
-        self.log_button = ttk.Radiobutton(status_frame, text="Log", command=self.toggle_log_combined, value="log")
-        self.log_button.pack(side=tk.RIGHT, padx=5)
+        # Status bar now only shows status messages
         
         # Progress Bar
         self.progress_var = tk.DoubleVar()
         self.progress_bar = ttk.Progressbar(main_frame, variable=self.progress_var, maximum=100)
-        self.progress_bar.grid(row=11, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=5)
+        self.progress_bar.grid(row=12, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=5)
         
         # Configure main frame to expand
         main_frame.rowconfigure(8, weight=1)
         
         # Log Frame Section
         log_frame = ttk.Frame(main_frame)
-        log_frame.grid(row=12, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=(10, 0))
+        log_frame.grid(row=13, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=(10, 0))
         
         # Log frame controls
         log_controls_frame = ttk.Frame(log_frame)
@@ -463,7 +471,7 @@ class InfiniConverterGUI:
         log_scrollbar = ttk.Scrollbar(self.log_text_frame)
         log_scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
         
-        self.log_text = scrolledtext.ScrolledText(self.log_text_frame, height=4, wrap=tk.WORD, yscrollcommand=log_scrollbar.set)
+        self.log_text = scrolledtext.ScrolledText(self.log_text_frame, height=int(4 * self.scale_factor), wrap=tk.WORD, yscrollcommand=log_scrollbar.set)
         self.log_text.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
         log_scrollbar.config(command=self.log_text.yview)
         
@@ -477,7 +485,10 @@ class InfiniConverterGUI:
         log_frame.rowconfigure(0, weight=1)
         
         # Update main frame row configuration
-        main_frame.rowconfigure(12, weight=1)
+        main_frame.rowconfigure(13, weight=1)
+        
+        # Bind window resize event to auto-adjust log height
+        self.root.bind('<Configure>', self.on_window_resize)
     
     def setup_logo(self, parent):
         """Setup the logo section."""
@@ -1085,12 +1096,23 @@ class InfiniConverterGUI:
         """Calculate dynamic dialog size based on file count and content."""
         import math
         
-        # Base dimensions
-        base_width = 600 if not is_sync_mode else 700
-        base_height = 400 if not is_sync_mode else 450
+        # Calculate display scaling factor for 2K displays
+        screen_width = self.root.winfo_screenwidth()
+        screen_height = self.root.winfo_screenheight()
+        
+        # Base scaling (1.0 for HD, 1.25-1.5 for 2K, 2.0 for 4K)
+        scale_factor = 1.0
+        if screen_width >= 2560:  # 2K display
+            scale_factor = 1.4
+        elif screen_width >= 1920:  # Full HD
+            scale_factor = 1.2
+            
+        # Base dimensions with scaling
+        base_width = int((600 if not is_sync_mode else 700) * scale_factor)
+        base_height = int((400 if not is_sync_mode else 450) * scale_factor)
         
         # Calculate file list height (approximately 20px per file line)
-        file_list_height = max(60, len(files) * 25)  # Min 60px, 25px per file
+        file_list_height = max(int(60 * scale_factor), len(files) * int(25 * scale_factor))
         
         # Calculate command preview area
         command_height = 0
@@ -1099,34 +1121,30 @@ class InfiniConverterGUI:
             # Estimate command content size
             if is_sync_mode:
                 # Sync mode shows more detailed info per file
-                command_height = max(200, len(files) * 80)  # 80px per file for detailed commands
-                command_width_addition = 400
+                command_height = max(int(200 * scale_factor), len(files) * int(80 * scale_factor))
+                command_width_addition = int(400 * scale_factor)
             else:
                 # Normal mode shows simpler commands
-                command_height = max(150, len(files) * 60)  # 60px per file for normal commands
-                command_width_addition = 300
+                command_height = max(int(150 * scale_factor), len(files) * int(60 * scale_factor))
+                command_width_addition = int(300 * scale_factor)
         
         # Calculate deletion warning height
-        deletion_height = 100 if show_deletion_warning else 0
+        deletion_height = int(100 * scale_factor) if show_deletion_warning else 0
         
         # Calculate total dimensions
         total_width = base_width + command_width_addition
         total_height = base_height + file_list_height + command_height + deletion_height
         
-        # Add padding and UI elements
-        total_height += 200  # For title, buttons, margins, etc.
+        # Add padding and UI elements (scaled)
+        total_height += int(200 * scale_factor)  # For title, buttons, margins, etc.
         
-        # Get screen dimensions
-        screen_width = self.root.winfo_screenwidth()
-        screen_height = self.root.winfo_screenheight()
+        # Apply limits with margin (scaled)
+        max_width = screen_width - int(150 * scale_factor)
+        max_height = screen_height - int(150 * scale_factor)
         
-        # Apply limits with margin
-        max_width = screen_width - 150  # 150px margin
-        max_height = screen_height - 150  # 150px margin
-        
-        # Ensure minimum size
-        min_width = 500
-        min_height = 400
+        # Ensure minimum size (scaled)
+        min_width = int(500 * scale_factor)
+        min_height = int(400 * scale_factor)
         
         # Final dimensions with limits
         final_width = max(min_width, min(total_width, max_width))
@@ -1289,8 +1307,16 @@ class InfiniConverterGUI:
         if show_deletion_warning:
             execute_text = "Delete & Execute"
         
-        # Create buttons with enhanced styling and visibility
-        button_style = {"width": 18, "padding": 10}
+        # Calculate display scaling for better 2K display compatibility
+        screen_width = self.root.winfo_screenwidth()
+        scale_factor = 1.4 if screen_width >= 2560 else 1.2 if screen_width >= 1920 else 1.0
+        
+        # Create buttons with enhanced styling and visibility for 2K displays
+        button_style = {
+            "width": int(18 * scale_factor), 
+            "padding": int(10 * scale_factor)
+        }
+        button_padx = int(25 * scale_factor)
         
         # Execute button - more prominent
         execute_btn = ttk.Button(
@@ -1299,7 +1325,7 @@ class InfiniConverterGUI:
             command=on_execute,
             **button_style
         )
-        execute_btn.pack(side=tk.LEFT, padx=25)
+        execute_btn.pack(side=tk.LEFT, padx=button_padx)
         
         # Cancel button
         cancel_btn = ttk.Button(
@@ -1308,7 +1334,7 @@ class InfiniConverterGUI:
             command=on_cancel,
             **button_style
         )
-        cancel_btn.pack(side=tk.LEFT, padx=25)
+        cancel_btn.pack(side=tk.LEFT, padx=button_padx)
         
         # Apply custom styling to make buttons more visible
         try:
@@ -1514,8 +1540,16 @@ class InfiniConverterGUI:
         if show_deletion_warning:
             execute_text = "Delete & Execute"
         
-        # Create buttons with enhanced styling and visibility
-        button_style = {"width": 18, "padding": 10}
+        # Calculate display scaling for better 2K display compatibility
+        screen_width = self.root.winfo_screenwidth()
+        scale_factor = 1.4 if screen_width >= 2560 else 1.2 if screen_width >= 1920 else 1.0
+        
+        # Create buttons with enhanced styling and visibility for 2K displays
+        button_style = {
+            "width": int(18 * scale_factor), 
+            "padding": int(10 * scale_factor)
+        }
+        button_padx = int(25 * scale_factor)
         
         # Execute button - more prominent
         execute_btn = ttk.Button(
@@ -1524,7 +1558,7 @@ class InfiniConverterGUI:
             command=on_execute,
             **button_style
         )
-        execute_btn.pack(side=tk.LEFT, padx=25)
+        execute_btn.pack(side=tk.LEFT, padx=button_padx)
         
         # Cancel button
         cancel_btn = ttk.Button(
@@ -1533,7 +1567,7 @@ class InfiniConverterGUI:
             command=on_cancel,
             **button_style
         )
-        cancel_btn.pack(side=tk.LEFT, padx=25)
+        cancel_btn.pack(side=tk.LEFT, padx=button_padx)
         
         # Apply custom styling to make buttons more visible
         try:
@@ -1693,29 +1727,46 @@ class InfiniConverterGUI:
                     except:
                         messagebox.showerror("Error", "Could not open file.")
     
-    def toggle_log_combined(self):
-        """Combined toggle for log enable and show/hide."""
+    def toggle_log_visibility(self):
+        """Toggle log frame visibility."""
         if self.log_visible:
-            # Disable logging and hide log frame
+            # Hide log frame
             self.log_text_frame.pack_forget()
             self.log_visible = False
-            self.logging_enabled.set(False)
-            self.logger.set_enabled(False)
-            self.config.set_logging_enabled(False)
-            self.config.save_config()
-            self.log_button.state(['!selected'])  # Unselect radio button
+            self.log_button.config(text="Enable Log")
         else:
-            # Enable logging and show log frame
+            # Show log frame
             self.log_text_frame.pack(fill=tk.BOTH, expand=True)
             self.log_visible = True
-            self.logging_enabled.set(True)
-            self.logger.set_enabled(True)
-            self.config.set_logging_enabled(True)
-            self.config.save_config()
-            self.log_button.state(['selected'])  # Select radio button
+            self.log_button.config(text="Disable Log")
+            
+            # Trigger resize calculation to set initial height
+            self.on_window_resize(type('Event', (), {'widget': self.root})())
         
-        self.logger.info(f"Logging {'enabled' if self.logging_enabled.get() else 'disabled'}")
-        self.log_message(f"Logging {'enabled' if self.logging_enabled.get() else 'disabled'}")
+        self.log_message(f"Log panel {'shown' if self.log_visible else 'hidden'}")
+    
+    def on_window_resize(self, event):
+        """Handle window resize events to auto-adjust log height."""
+        # Only process if this is the main window (not a child widget)
+        if event.widget == self.root:
+            # Calculate appropriate log height based on window size
+            window_height = self.root.winfo_height()
+            
+            # Reserve space for other UI elements (approximately 400px for controls and status)
+            reserved_space = int(400 * self.scale_factor)
+            
+            # Calculate available space for log (minimum 100px, maximum 50% of window)
+            min_log_height = int(100 * self.scale_factor)
+            max_log_height = int(window_height * 0.5)
+            available_log_height = max(min_log_height, min(window_height - reserved_space, max_log_height))
+            
+            # Update log text height if log is visible
+            if self.log_visible and hasattr(self, 'log_text'):
+                # Calculate new height in lines (approximately 20px per line)
+                new_height_lines = max(3, int(available_log_height / (20 * self.scale_factor)))
+                
+                # Configure the log text widget with new height
+                self.log_text.config(height=new_height_lines)
     
     def toggle_logging(self):
         """Toggle logging on/off."""
@@ -1941,7 +1992,7 @@ class InfiniConverterGUI:
             info_frame = ttk.Frame(load_dialog)
             info_frame.pack(pady=5, padx=20, fill=tk.X)
             
-            info_text = tk.Text(info_frame, height=4, width=50, wrap=tk.WORD, font=("Arial", 8))
+            info_text = tk.Text(info_frame, height=int(4 * self.scale_factor), width=int(50 * self.scale_factor), wrap=tk.WORD, font=("Arial", 8))
             info_text.pack(fill=tk.BOTH, expand=True)
             
             def show_config_info(event):
