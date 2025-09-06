@@ -848,13 +848,38 @@ class InfiniConverterGUI:
                     
                     # Delete original file if checkbox is enabled and processing was successful
                     if self.del_origin_file.get():
-                        try:
-                            os.remove(file_path)
-                            self.logger.info(f"Deleted original file: {file_path}")
-                            self.log_message(f"🗑️ Deleted: {os.path.basename(file_path)}")
-                        except Exception as e:
-                            self.logger.error(f"Failed to delete {file_path}: {e}")
-                            self.log_message(f"⚠️ Failed to delete {os.path.basename(file_path)}: {e}")
+                        # Check if output files are similar in size to original (within 20% tolerance)
+                        should_delete = False
+                        if new_files_for_this_file:
+                            # Get original file size
+                            try:
+                                original_size = os.path.getsize(file_path)
+                                # Check if any output file is within 20% size of original
+                                for output_file in new_files_for_this_file:
+                                    try:
+                                        output_size = os.path.getsize(output_file)
+                                        size_ratio = output_size / original_size if original_size > 0 else 0
+                                        if 0.8 <= size_ratio <= 1.2:  # Within 20% tolerance
+                                            should_delete = True
+                                            break
+                                    except Exception:
+                                        continue
+                            except Exception as e:
+                                self.logger.warning(f"Could not check file size for {file_path}: {e}")
+                                # If we can't check size, don't delete for safety
+                                should_delete = False
+                        
+                        if should_delete:
+                            try:
+                                os.remove(file_path)
+                                self.logger.info(f"Deleted original file: {file_path}")
+                                self.log_message(f"🗑️ Deleted: {os.path.basename(file_path)}")
+                            except Exception as e:
+                                self.logger.error(f"Failed to delete {file_path}: {e}")
+                                self.log_message(f"⚠️ Failed to delete {os.path.basename(file_path)}: {e}")
+                        else:
+                            self.logger.info(f"Skipped deletion of {file_path} - no output file within size tolerance")
+                            self.log_message(f"⏭️ Skipped deletion: {os.path.basename(file_path)} (size mismatch)")
                 else:
                     self.processor.failed_count += 1
                     self.logger.error(f"Failed to process: {file_path} - {result.get('error', 'Unknown error')}")
@@ -1061,13 +1086,39 @@ class InfiniConverterGUI:
             for result in results:
                 if result.get("success") and result.get("file"):
                     file_path = result["file"]
-                    try:
-                        os.remove(file_path)
-                        self.logger.info(f"Deleted original file: {file_path}")
-                        self.log_message(f"🗑️ Deleted: {os.path.basename(file_path)}")
-                    except Exception as e:
-                        self.logger.error(f"Failed to delete {file_path}: {e}")
-                        self.log_message(f"⚠️ Failed to delete {os.path.basename(file_path)}: {e}")
+                    
+                    # Check if output files are similar in size to original (within 20% tolerance)
+                    should_delete = False
+                    if new_files:
+                        # Get original file size
+                        try:
+                            original_size = os.path.getsize(file_path)
+                            # Check if any output file is within 20% size of original
+                            for output_file in new_files:
+                                try:
+                                    output_size = os.path.getsize(output_file)
+                                    size_ratio = output_size / original_size if original_size > 0 else 0
+                                    if 0.8 <= size_ratio <= 1.2:  # Within 20% tolerance
+                                        should_delete = True
+                                        break
+                                except Exception:
+                                    continue
+                        except Exception as e:
+                            self.logger.warning(f"Could not check file size for {file_path}: {e}")
+                            # If we can't check size, don't delete for safety
+                            should_delete = False
+                    
+                    if should_delete:
+                        try:
+                            os.remove(file_path)
+                            self.logger.info(f"Deleted original file: {file_path}")
+                            self.log_message(f"🗑️ Deleted: {os.path.basename(file_path)}")
+                        except Exception as e:
+                            self.logger.error(f"Failed to delete {file_path}: {e}")
+                            self.log_message(f"⚠️ Failed to delete {os.path.basename(file_path)}: {e}")
+                    else:
+                        self.logger.info(f"Skipped deletion of {file_path} - no output file within size tolerance")
+                        self.log_message(f"⏭️ Skipped deletion: {os.path.basename(file_path)} (size mismatch)")
         
         # Auto-refresh input file list after processing
         input_dir = self.input_directory.get()
